@@ -24,16 +24,16 @@
         "market"
       ],
       "start": "2026-09-26",
-      "end": null,
+      "end": "2026-09-27",
       "venue": "MVG Museum",
       "city": "München",
       "distance": "city",
-      "price": null,
+      "price": "€7",
       "language": "none-needed",
       "links": {
-        "official": "https://www.in-muenchen.de/maerkte"
+        "official": "https://www.in-muenchen.de/events/kunst-design-markt.html"
       },
-      "verifiedAt": "2026-09-21"
+      "verifiedAt": "2026-09-25"
     },
     {
       "id": "bauernmarktmeile-2026-09-27",
@@ -62,9 +62,9 @@
       "price": null,
       "language": "none-needed",
       "links": {
-        "official": "https://www.in-muenchen.de/maerkte"
+        "official": "https://www.in-muenchen.de/events/bauernmarktmeile.html"
       },
-      "verifiedAt": "2026-09-21"
+      "verifiedAt": "2026-09-25"
     },
     {
       "id": "oktoberfest-2026",
@@ -91,9 +91,9 @@
       "price": null,
       "language": "none-needed",
       "links": {
-        "official": "https://www.muenchen-online.de/highlights-muenchen/festivals-feste-muenchen-2026/"
+        "official": "https://www.oktoberfest.de/en"
       },
-      "verifiedAt": "2026-09-21"
+      "verifiedAt": "2026-09-25"
     },
     {
       "id": "korean-mysteries-2026",
@@ -120,9 +120,9 @@
       "price": null,
       "language": "unknown",
       "links": {
-        "official": "https://www.muenchner-stadtmuseum.de/sammlungen/filmmuseum/filmreihen"
+        "official": "https://www.muenchner-stadtmuseum.de/sammlungen/filmmuseum/filmreihen/korean-mysteries"
       },
-      "verifiedAt": "2026-09-21"
+      "verifiedAt": "2026-09-25"
     },
     {
       "id": "nuernberg-pop-2026",
@@ -149,9 +149,9 @@
       "price": null,
       "language": "none-needed",
       "links": {
-        "official": "https://www.nordbayern.de/genuss-shopping/worauf-du-dich-im-herbst-2026-in-nuernberg-freuen-kannst-shog-rep-1-1.15284723"
+        "official": "https://www.nuernberg-pop.com/"
       },
-      "verifiedAt": "2026-09-21"
+      "verifiedAt": "2026-09-25"
     },
     {
       "id": "residenzwoche-2026",
@@ -170,15 +170,15 @@
       "tags": [],
       "start": "2026-10-16",
       "end": "2026-10-25",
-      "venue": "Residenz München",
+      "venue": "Residenz München & Schloss Schleißheim",
       "city": "München",
       "distance": "city",
       "price": null,
       "language": "unknown",
       "links": {
-        "official": "https://www.muenchen-online.de/highlights-muenchen/festivals-feste-muenchen-2026/"
+        "official": "https://www.residenzwoche.de/"
       },
-      "verifiedAt": "2026-09-21"
+      "verifiedAt": "2026-09-25"
     },
     {
       "id": "lange-nacht-museen-2026",
@@ -200,12 +200,12 @@
       "venue": "Various museums",
       "city": "München",
       "distance": "city",
-      "price": null,
+      "price": "€20",
       "language": "none-needed",
       "links": {
-        "official": "https://www.muenchen-online.de/highlights-muenchen/festivals-feste-muenchen-2026/"
+        "official": "https://www.muenchen.de/veranstaltungen/freizeit/ausstellungen/die-lange-nacht-der-muenchner-museen-2026"
       },
-      "verifiedAt": "2026-09-21"
+      "verifiedAt": "2026-09-25"
     },
     {
       "id": "auer-dult-herbst-2026",
@@ -233,9 +233,9 @@
       "price": null,
       "language": "none-needed",
       "links": {
-        "official": "https://www.in-muenchen.de/maerkte"
+        "official": "https://www.auerdult.de/"
       },
-      "verifiedAt": "2026-09-21"
+      "verifiedAt": "2026-09-25"
     },
     {
       "id": "hans-zimmer-2026-10-20",
@@ -259,13 +259,13 @@
       "venue": "Olympiahalle",
       "city": "München",
       "distance": "city",
-      "price": null,
+      "price": "€64.90–129.90",
       "language": "none-needed",
       "links": {
         "official": "https://www.olympiapark.de/en/events/the-world-of-hans-zimmer-n4924",
         "tickets": "https://www.muenchenticket.de/event/the-world-of-hans-zimmer-32680/"
       },
-      "verifiedAt": "2026-09-21"
+      "verifiedAt": "2026-09-25"
     },
     {
       "id": "voice-passion-2026-10-23",
@@ -294,7 +294,7 @@
       "links": {
         "official": "https://www.in-muenchen.de/events/voice-passion-songs-from-outlander-vikings-the-last-kingdom.html"
       },
-      "verifiedAt": "2026-09-21"
+      "verifiedAt": "2026-09-25"
     },
     {
       "id": "barcelona-moderna-2026",
@@ -319,9 +319,9 @@
       "price": null,
       "language": "unknown",
       "links": {
-        "official": "https://www.muenchen.de/sehenswuerdigkeiten/museen/vorschau-der-muenchner-museen-2026-2-jahreshaelfte"
+        "official": "https://www.kunsthalle-muc.de/barcelona/"
       },
-      "verifiedAt": "2026-09-21"
+      "verifiedAt": "2026-09-25"
     },
     {
       "id": "nuejazz-2026",
@@ -345,12 +345,12 @@
       "venue": "Various venues",
       "city": "Nürnberg / Erlangen",
       "distance": "daytrip",
-      "price": null,
+      "price": "€30–50",
       "language": "none-needed",
       "links": {
-        "official": "https://www.nordbayern.de/genuss-shopping/worauf-du-dich-im-herbst-2026-in-nuernberg-freuen-kannst-shog-rep-1-1.15284723"
+        "official": "https://www.nuejazz.de/de"
       },
-      "verifiedAt": "2026-09-21"
+      "verifiedAt": "2026-09-25"
     },
     {
       "id": "mucho-2026",
