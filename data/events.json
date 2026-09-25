@@ -3,7 +3,7 @@
   "weekPicks": [
     "hans-zimmer-2026-10-20",
     "hisaishi-2026-11-25",
-    "korean-mysteries-2026"
+    "mphil-motus-animi-2026-10-11"
   ],
   "events": [
     {
@@ -1015,6 +1015,621 @@
         "official": "https://zelda.gameconcerts.com/de/"
       },
       "verifiedAt": "2026-09-21"
+    },
+    {
+      "id": "christkindlesmarkt-nuernberg-2026",
+      "titleOriginal": "Nürnberger Christkindlesmarkt",
+      "title": {
+        "zh-TW": "紐倫堡聖誕市集",
+        "en": "Nuremberg Christmas Market",
+        "de": "Nürnberger Christkindlesmarkt"
+      },
+      "summary": {
+        "zh-TW": "全世界最有名的聖誕市集之一，約 168 個紅白木攤位賣手工裝飾、耶誕馬槽人偶和紐倫堡薑餅，11/27 17:30 有開幕儀式。",
+        "en": "One of the world's most famous Christmas markets: ~168 red-and-white stalls with handmade ornaments, nativity figures and Nuremberg gingerbread; opening ceremony 27 Nov at 17:30.",
+        "de": "Einer der berühmtesten Weihnachtsmärkte der Welt: rund 168 rot-weiße Buden mit Christbaumschmuck, Krippenfiguren und Lebkuchen; Eröffnung am 27.11. um 17:30."
+      },
+      "category": "festival",
+      "tags": [
+        "christmas",
+        "market",
+        "free"
+      ],
+      "start": "2026-11-27",
+      "end": "2026-12-24",
+      "venue": "Hauptmarkt",
+      "city": "Nürnberg",
+      "distance": "daytrip",
+      "price": null,
+      "language": "none-needed",
+      "links": {
+        "official": "https://www.christkindlesmarkt.de/"
+      },
+      "verifiedAt": "2026-09-25"
+    },
+    {
+      "id": "christkindlesmarkt-augsburg-2026",
+      "titleOriginal": "Augsburger Christkindlesmarkt",
+      "title": {
+        "zh-TW": "奧格斯堡聖誕市集",
+        "en": "Augsburg Christmas Market",
+        "de": "Augsburger Christkindlesmarkt"
+      },
+      "summary": {
+        "zh-TW": "巴伐利亞最古老的聖誕市集（1498 年就有紀錄），招牌是晚上在市政廳立面上演的「天使劇」Engelesspiel。",
+        "en": "Bavaria's oldest Christmas market (documented since 1498), known for the evening 'Engelesspiel' angel performance on the town-hall facade.",
+        "de": "Bayerns ältester Christkindlesmarkt (seit 1498 belegt), bekannt für das abendliche Engelesspiel an der Rathausfassade."
+      },
+      "category": "festival",
+      "tags": [
+        "christmas",
+        "market"
+      ],
+      "start": "2026-11-23",
+      "end": "2026-12-24",
+      "venue": "Rathausplatz",
+      "city": "Augsburg",
+      "distance": "daytrip",
+      "price": null,
+      "language": "none-needed",
+      "links": {
+        "official": "https://www.augsburg.de/freizeit/feste-und-maerkte/christkindlesmarkt"
+      },
+      "verifiedAt": "2026-09-25"
+    },
+    {
+      "id": "flohmarkt-riem-2026-herbst",
+      "titleOriginal": "Flohmarkt München-Riem",
+      "title": {
+        "zh-TW": "Riem 大型跳蚤市場",
+        "en": "Riem Flea Market",
+        "de": "Flohmarkt München-Riem"
+      },
+      "summary": {
+        "zh-TW": "巴伐利亞最大的露天跳蚤市場，最多約 2,000 個攤位，還有餐車。秋季只在特定週六舉行：10/10、10/31、11/7、11/14、11/21（官網註明日期仍待確認）。",
+        "en": "Bavaria's largest open-air flea market with up to ~2,000 stalls and food trucks; on selected Saturdays only: 10 & 31 Oct, 7, 14 & 21 Nov (dates marked 'subject to confirmation').",
+        "de": "Bayerns größter Freiluft-Flohmarkt mit bis zu ca. 2.000 Ständen und Foodtrucks; nur an ausgewählten Samstagen: 10. & 31.10., 7., 14. & 21.11. (Termine unter Vorbehalt)."
+      },
+      "category": "festival",
+      "tags": [
+        "market",
+        "free"
+      ],
+      "start": "2026-10-10",
+      "end": "2026-11-21",
+      "venue": "Flohmarktgelände Riem (De-Gasperi-Bogen)",
+      "city": "München",
+      "distance": "suburb",
+      "price": null,
+      "language": "none-needed",
+      "links": {
+        "official": "https://www.flohmarkt-riem.com/"
+      },
+      "verifiedAt": "2026-09-25"
+    },
+    {
+      "id": "sound-zimmer-williams-2027-03",
+      "titleOriginal": "The Sound of Hans Zimmer & John Williams",
+      "title": {
+        "zh-TW": "漢斯・季默與約翰・威廉斯電影配樂音樂會",
+        "en": "The Sound of Hans Zimmer & John Williams",
+        "de": "The Sound of Hans Zimmer & John Williams"
+      },
+      "summary": {
+        "zh-TW": "Pilsen 愛樂管弦樂團與合唱團（100 多位音樂家）由岩崎宙平指揮，演出《星際大戰》、《哈利波特》、《神鬼奇航》、《星際效應》、《黑暗騎士》等配樂，主持人用德語串場。共 4 場：3/20、3/21（下午）、3/23、3/24。",
+        "en": "Pilsen Philharmonic Orchestra & Choir (100+ musicians) under Chuhei Iwasaki play Star Wars, Harry Potter, Pirates of the Caribbean, Interstellar, The Dark Knight and more; German-speaking host. Four shows: 20, 21 (matinee), 23 & 24 March.",
+        "de": "Philharmonie Pilsen mit Chor (100+ Mitwirkende) unter Chuhei Iwasaki spielt Star Wars, Harry Potter, Fluch der Karibik, Interstellar, The Dark Knight u. a.; Moderation Daniel Boschmann. Vier Termine: 20., 21. (15 Uhr), 23. & 24.3."
+      },
+      "category": "music",
+      "tags": [
+        "film-score"
+      ],
+      "start": "2027-03-20T19:30",
+      "end": "2027-03-24",
+      "venue": "Isarphilharmonie (Gasteig HP8)",
+      "city": "München",
+      "distance": "city",
+      "price": "from €60.90",
+      "language": "none-needed",
+      "hardToGet": {
+        "reason": {
+          "zh-TW": "售票網站已顯示四場預售「結束」，可能只剩現場餘票；想去請盡快向 Gasteig 確認。",
+          "en": "The ticket site already shows advance sales ended for all four shows – check with Gasteig soon.",
+          "de": "Laut Ticketseite ist der Vorverkauf für alle vier Termine bereits beendet – bald beim Gasteig nachfragen."
+        },
+        "saleStart": null,
+        "saleStatus": null
+      },
+      "links": {
+        "official": "https://www.muenchenmusik.de/me/veranstaltungen/sound-hans-zimmer-john-williams-202627"
+      },
+      "verifiedAt": "2026-09-25"
+    },
+    {
+      "id": "mphil-motus-animi-2026-10-11",
+      "titleOriginal": "Kammerkonzert »Motus animi continuus«",
+      "title": {
+        "zh-TW": "慕尼黑愛樂室內樂：巴洛克之夜（含雙簧管）",
+        "en": "Munich Philharmonic chamber concert: Motus animi continuus",
+        "de": "Kammerkonzert »Motus animi continuus«"
+      },
+      "summary": {
+        "zh-TW": "五位慕尼黑愛樂團員演出巴赫、Fasch、韋瓦第、泰勒曼等巴洛克室內樂，雙簧管由 Marie-Luise Modersohn 擔綱，週日上午場。",
+        "en": "Five Munich Philharmonic musicians, incl. oboist Marie-Luise Modersohn, play Baroque chamber music by Bach, Fasch, Vivaldi, Handel and Telemann; Sunday matinee.",
+        "de": "Fünf Mitglieder der Münchner Philharmoniker, u. a. Oboistin Marie-Luise Modersohn, spielen Barock von Bach, Fasch, Vivaldi, Händel und Telemann; Matinee."
+      },
+      "category": "music",
+      "tags": [
+        "oboe"
+      ],
+      "start": "2026-10-11T11:00",
+      "end": null,
+      "venue": "Festsaal, Münchner Künstlerhaus",
+      "city": "München",
+      "distance": "city",
+      "price": null,
+      "language": "none-needed",
+      "links": {
+        "official": "https://www.mphil.de/en/concerts-tickets/calendar/concerts/motus-animi-continuus-bach-fasch-vivaldi-haendel-telemann-2026-10-11-11-00-00",
+        "tickets": "https://tickets.muenchenticket.net/shop/142/link/event/445477?language=2"
+      },
+      "verifiedAt": "2026-09-25"
+    },
+    {
+      "id": "jazzfest-muenchen-2026",
+      "titleOriginal": "Jazzfest München 2026",
+      "title": {
+        "zh-TW": "慕尼黑爵士音樂節",
+        "en": "Jazzfest Munich",
+        "de": "Jazzfest München 2026"
+      },
+      "summary": {
+        "zh-TW": "在多個小型場地舉辦的獨立爵士音樂節，演出者包括 JJ Whitefield & Forced Meditation、Michael Schiefel、Rebecca Trescher Tentett 等。",
+        "en": "Independent jazz festival across small Munich venues with JJ Whitefield & Forced Meditation, Michael Schiefel, Rebecca Trescher Tentett and more.",
+        "de": "Unabhängiges Jazzfestival in mehreren Münchner Clubs mit JJ Whitefield & Forced Meditation, Michael Schiefel, Rebecca Trescher Tentett u. a."
+      },
+      "category": "music",
+      "tags": [
+        "music"
+      ],
+      "start": "2026-11-26",
+      "end": "2026-11-29",
+      "venue": "Various venues (Spin Bar, Sudetendeutsches Haus, Neue Ziegelei …)",
+      "city": "München",
+      "distance": "city",
+      "price": null,
+      "language": "none-needed",
+      "links": {
+        "official": "https://jazzfestmuenchen.de/",
+        "tickets": "https://jazzfestmuenchen.dein-ticket.shop/events/jazzfest-muenchen-2026"
+      },
+      "verifiedAt": "2026-09-25"
+    },
+    {
+      "id": "belle-sebastian-2026-12-01",
+      "titleOriginal": "Belle & Sebastian – If You're Feeling Sinister",
+      "title": {
+        "zh-TW": "Belle & Sebastian 演唱會",
+        "en": "Belle & Sebastian live",
+        "de": "Belle & Sebastian live"
+      },
+      "summary": {
+        "zh-TW": "蘇格蘭獨立流行樂團完整演出 1996 年經典專輯《If You're Feeling Sinister》，再加上其他人氣歌曲。",
+        "en": "The Scottish indie-pop band plays their 1996 classic album 'If You're Feeling Sinister' in full, plus fan favourites.",
+        "de": "Die schottische Indie-Pop-Band spielt ihr Album „If You're Feeling Sinister“ (1996) komplett plus Fan-Favoriten."
+      },
+      "category": "music",
+      "tags": [],
+      "start": "2026-12-01T20:00",
+      "end": null,
+      "venue": "Muffathalle",
+      "city": "München",
+      "distance": "city",
+      "price": null,
+      "language": "none-needed",
+      "links": {
+        "official": "https://www.muffatwerk.de/de/events",
+        "tickets": "https://www.eventim.de/event/belle-sebastian-muffatwerk-21774549/"
+      },
+      "verifiedAt": "2026-09-25"
+    },
+    {
+      "id": "seiland-aegypten-2026",
+      "titleOriginal": "Ägypten: Geschichte und Modernität – Fotografien von Alfred Seiland",
+      "title": {
+        "zh-TW": "埃及：歷史與現代｜Alfred Seiland 攝影展",
+        "en": "Egypt: History and Modernity – Photographs by Alfred Seiland",
+        "de": "Ägypten: Geschichte und Modernität"
+      },
+      "summary": {
+        "zh-TW": "奧地利攝影師 Alfred Seiland 約 100 幅彩色照片，呈現五千年古蹟如何與現代日常生活、觀光設施和新住宅並存。",
+        "en": "About 100 colour photographs by Austrian photographer Alfred Seiland showing Egypt's ancient monuments side by side with modern daily life and tourism.",
+        "de": "Rund 100 Farbfotografien von Alfred Seiland: Ägyptens antike Monumente im Nebeneinander mit Alltag und Tourismus von heute."
+      },
+      "category": "exhibition",
+      "tags": [],
+      "start": "2026-10-27",
+      "end": "2027-04-04",
+      "venue": "Staatliches Museum Ägyptischer Kunst",
+      "city": "München",
+      "distance": "city",
+      "price": null,
+      "language": "none-needed",
+      "links": {
+        "official": "https://smaek.de/ausstellungen/aegypten-geschichte-und-modernitaet/"
+      },
+      "verifiedAt": "2026-09-25"
+    },
+    {
+      "id": "blauer-reiter-lenbachhaus-2026",
+      "titleOriginal": "Über die Welt hinaus. Der Blaue Reiter",
+      "title": {
+        "zh-TW": "超越世界：藍騎士",
+        "en": "Beyond the World: The Blue Rider",
+        "de": "Über die Welt hinaus. Der Blaue Reiter"
+      },
+      "summary": {
+        "zh-TW": "超過 240 件藍騎士派作品（康丁斯基、Franz Marc、Gabriele Münter 等），著重他們的國際網絡，也首次展出新收藏。",
+        "en": "Over 240 works by the Blue Rider circle (Kandinsky, Franz Marc, Gabriele Münter …), focusing on their international network, incl. never-shown new acquisitions.",
+        "de": "Über 240 Werke des Blauen Reiters (Kandinsky, Marc, Münter …) mit Fokus auf das internationale Netzwerk, inkl. erstmals gezeigter Neuerwerbungen."
+      },
+      "category": "exhibition",
+      "tags": [],
+      "start": "2026-03-10",
+      "end": "2027-09-05",
+      "venue": "Lenbachhaus",
+      "city": "München",
+      "distance": "city",
+      "price": null,
+      "language": "none-needed",
+      "links": {
+        "official": "https://www.lenbachhaus.de/en/program/exhibitions/details/ueber-die-welt-hinaus-der-blaue-reiter"
+      },
+      "verifiedAt": "2026-09-25"
+    },
+    {
+      "id": "turner-van-gogh-alte-pinakothek",
+      "titleOriginal": "Von Turner bis van Gogh",
+      "title": {
+        "zh-TW": "從透納到梵谷：新繪畫陳列館名作展",
+        "en": "From Turner to van Gogh",
+        "de": "Von Turner bis van Gogh"
+      },
+      "summary": {
+        "zh-TW": "新繪畫陳列館整修期間，其 19 世紀名作（Caspar David Friedrich、馬奈、莫內、塞尚、梵谷）暫時在舊繪畫陳列館展出；週日門票只要 €1。",
+        "en": "19th-century masterpieces of the closed Neue Pinakothek (Friedrich, Manet, Monet, Cézanne, van Gogh) shown as guests in the Alte Pinakothek; €1 on Sundays.",
+        "de": "Meisterwerke der geschlossenen Neuen Pinakothek (Friedrich, Manet, Monet, Cézanne, van Gogh) zu Gast in der Alten Pinakothek; sonntags €1."
+      },
+      "category": "exhibition",
+      "tags": [],
+      "start": "2024-12-18",
+      "end": "2026-12-31",
+      "venue": "Alte Pinakothek",
+      "city": "München",
+      "distance": "city",
+      "price": "€9 (Sun €1)",
+      "language": "none-needed",
+      "links": {
+        "official": "https://www.pinakothek.de/en/from-turner-to-van-gogh"
+      },
+      "verifiedAt": "2026-09-25"
+    },
+    {
+      "id": "homo-mobilis-verkehrszentrum-2026",
+      "titleOriginal": "Homo Mobilis – Fotografien von Martin Roemers",
+      "title": {
+        "zh-TW": "Homo Mobilis：人與交通工具攝影展",
+        "en": "Homo Mobilis – Photographs by Martin Roemers",
+        "de": "Homo Mobilis – Fotografien von Martin Roemers"
+      },
+      "summary": {
+        "zh-TW": "荷蘭攝影師 Martin Roemers 在白色背景前拍攝世界各地的人和他們的交通工具，探討移動文化。10/31 閉展。",
+        "en": "Dutch photographer Martin Roemers portrays people worldwide with their vehicles against white backdrops, exploring mobility culture. Closes 31 Oct.",
+        "de": "Martin Roemers porträtiert Menschen weltweit mit ihren Fahrzeugen vor weißem Hintergrund. Nur noch bis 31.10."
+      },
+      "category": "exhibition",
+      "tags": [],
+      "start": "2026-04-24",
+      "end": "2026-10-31",
+      "venue": "Deutsches Museum Verkehrszentrum",
+      "city": "München",
+      "distance": "city",
+      "price": null,
+      "language": "none-needed",
+      "links": {
+        "official": "https://www.deutsches-museum.de/verkehrszentrum/ausstellungen/sonderausstellungen"
+      },
+      "verifiedAt": "2026-09-25"
+    },
+    {
+      "id": "retrogamescon-nuernberg-2026-09-26",
+      "titleOriginal": "RetroGamesCon Nürnberg",
+      "title": {
+        "zh-TW": "紐倫堡復古電玩展",
+        "en": "RetroGamesCon Nuremberg",
+        "de": "RetroGamesCon Nürnberg"
+      },
+      "summary": {
+        "zh-TW": "復古電玩跳蚤市場兼展覽：買賣 70–2000 年代的主機、C64/Amiga/Atari 電腦與遊戲，現場有可試玩的機台、瑪利歐賽車比賽和電玩問答。",
+        "en": "Retro-gaming market and expo: dealers selling vintage consoles, C64/Amiga/Atari computers and games from the 70s–2000s, plus playable stations, a Mario Kart tournament and a quiz.",
+        "de": "Retro-Gaming-Börse: Händler mit Konsolen, C64/Amiga/Atari und Spielen der 70er bis 2000er, dazu Spielstationen, Mario-Kart-Turnier und Quiz."
+      },
+      "category": "gaming",
+      "tags": [
+        "convention"
+      ],
+      "start": "2026-09-26T11:00",
+      "end": "2026-09-26T16:00",
+      "venue": "Gemeinschaftshaus Langwasser",
+      "city": "Nürnberg",
+      "distance": "daytrip",
+      "price": "€4–8",
+      "language": "none-needed",
+      "links": {
+        "official": "https://retrogamescon.de/"
+      },
+      "verifiedAt": "2026-09-25"
+    },
+    {
+      "id": "spielwiesn-2026",
+      "titleOriginal": "SPIELWIESN",
+      "title": {
+        "zh-TW": "SPIELWIESN 桌遊展",
+        "en": "SPIELWIESN board game fair",
+        "de": "SPIELWIESN"
+      },
+      "summary": {
+        "zh-TW": "南德最大的桌遊展：現場有 4,000 多款遊戲可借來玩、2,500 個座位，還有比賽、Cosplay 和 TRPG 區；週五晚上是「桌遊長夜」。",
+        "en": "Southern Germany's biggest board-game fair: 4,000+ games to borrow and play at 2,500 seats, plus tournaments, cosplay and pen-&-paper areas; Friday 'Long Night of Games'.",
+        "de": "Süddeutschlands größte Spielemesse: über 4.000 Spiele zum Ausleihen an 2.500 Plätzen, Turniere, Cosplay und Pen-&-Paper; Freitag „Lange Nacht der Spiele“."
+      },
+      "category": "gaming",
+      "tags": [
+        "convention"
+      ],
+      "start": "2026-11-06",
+      "end": "2026-11-08",
+      "venue": "Messe Augsburg",
+      "city": "Augsburg",
+      "distance": "daytrip",
+      "price": "€12–17",
+      "language": "none-needed",
+      "links": {
+        "official": "https://spielwiesn.de/sw",
+        "tickets": "https://www.eventim-light.com/de/a/5b4d9db6dadab30001799a40/"
+      },
+      "verifiedAt": "2026-09-25"
+    },
+    {
+      "id": "frankenmexx-2026-11-14",
+      "titleOriginal": "FrankenMEXX",
+      "title": {
+        "zh-TW": "FrankenMEXX 動漫展",
+        "en": "FrankenMEXX anime convention",
+        "de": "FrankenMEXX"
+      },
+      "summary": {
+        "zh-TW": "Animexx 主辦的動漫與日本文化展：周邊與創作者攤位、Cosplay 比賽、卡拉 OK 室，以及任天堂明星大亂鬥和魔法風雲會比賽。",
+        "en": "Animexx anime/manga convention with merch and artist-alley stalls, cosplay contest, karaoke room and Smash Bros. / Magic: The Gathering tournaments.",
+        "de": "Anime-/Manga-Convention von Animexx mit Händlern, Künstlerallee, Cosplay-Wettbewerb, Karaoke und Smash-Bros.-/Magic-Turnieren."
+      },
+      "category": "gaming",
+      "tags": [
+        "anime",
+        "convention"
+      ],
+      "start": "2026-11-14T11:30",
+      "end": "2026-11-14T19:30",
+      "venue": "Meistersingerhalle",
+      "city": "Nürnberg",
+      "distance": "daytrip",
+      "price": "€16–20",
+      "language": "none-needed",
+      "links": {
+        "official": "https://frankenmexx.de/",
+        "tickets": "https://tickets.animexx.de/frankenmexx-2026/"
+      },
+      "verifiedAt": "2026-09-25"
+    },
+    {
+      "id": "tcg-halloween-convention-2026",
+      "titleOriginal": "Halloween Special Card Convention 2026",
+      "title": {
+        "zh-TW": "萬聖節集換式卡牌展",
+        "en": "Halloween Trading Card Convention",
+        "de": "Halloween Special Card Convention 2026"
+      },
+      "summary": {
+        "zh-TW": "200 多個卡牌攤位（寶可夢、遊戲王、魔法風雲會、One Piece、Lorcana 等），有萬聖節變裝主題、Cosplay 比賽和抽獎。",
+        "en": "Trading-card fair with 200+ dealer tables (Pokémon, Yu-Gi-Oh!, Magic, One Piece, Lorcana …), Halloween costume theme, cosplay contest and raffle.",
+        "de": "Sammelkarten-Messe mit über 200 Händlertischen (Pokémon, Yu-Gi-Oh!, Magic, One Piece, Lorcana …), Halloween-Motto, Cosplay-Wettbewerb und Verlosung."
+      },
+      "category": "gaming",
+      "tags": [
+        "convention"
+      ],
+      "start": "2026-10-31",
+      "end": "2026-11-01",
+      "venue": "MTC world of fashion",
+      "city": "München",
+      "distance": "city",
+      "price": "€20 (weekend €30)",
+      "language": "none-needed",
+      "links": {
+        "official": "https://tcgermany.de/messe-muenchen",
+        "tickets": "https://tcgermany.ditix.shop/event/eyi9es3v9rcf53ef"
+      },
+      "verifiedAt": "2026-09-25"
+    },
+    {
+      "id": "christkindlmarkt-salzburg-2026",
+      "titleOriginal": "Salzburger Christkindlmarkt",
+      "title": {
+        "zh-TW": "薩爾茲堡聖誕市集",
+        "en": "Salzburg Christmas Market",
+        "de": "Salzburger Christkindlmarkt"
+      },
+      "summary": {
+        "zh-TW": "在世界遺產老城的主教座堂廣場和宮殿廣場，約 100 個攤位賣手工裝飾和奧地利美食，每天有合唱演出。",
+        "en": "About 100 stalls with handmade decorations and Austrian food on the UNESCO old town's Domplatz and Residenzplatz, with daily choir performances.",
+        "de": "Rund 100 Stände mit Kunsthandwerk und österreichischen Spezialitäten auf Dom- und Residenzplatz, täglich Chorauftritte."
+      },
+      "category": "festival",
+      "tags": [
+        "christmas",
+        "market",
+        "free"
+      ],
+      "start": "2026-11-19",
+      "end": "2027-01-01",
+      "venue": "Domplatz & Residenzplatz",
+      "city": "Salzburg",
+      "distance": "daytrip",
+      "price": null,
+      "language": "none-needed",
+      "links": {
+        "official": "https://www.salzburg.info/en/salzburg/advent/salzburg-christmas-market"
+      },
+      "verifiedAt": "2026-09-25"
+    },
+    {
+      "id": "krampuslauf-salzburg-2026-12-05",
+      "titleOriginal": "Krampuslauf am Dom- und Residenzplatz",
+      "title": {
+        "zh-TW": "薩爾茲堡坎卜斯遊行",
+        "en": "Salzburg Krampus Run",
+        "de": "Salzburger Krampuslauf"
+      },
+      "summary": {
+        "zh-TW": "阿爾卑斯傳統民俗：多個戴著獸角面具、扮成惡魔 Krampus 和 Perchten 的團體在主教座堂廣場遊行表演，時間可能微調。",
+        "en": "Alpine folklore: several costumed Krampus and Perchten groups (horned demon figures) parade and perform on the cathedral square; times may shift slightly.",
+        "de": "Alpenländisches Brauchtum: mehrere Krampus- und Perchtengruppen ziehen über Dom- und Residenzplatz; Zeiten unter Vorbehalt."
+      },
+      "category": "nearby",
+      "tags": [
+        "free"
+      ],
+      "start": "2026-12-05T19:00",
+      "end": "2026-12-05T20:30",
+      "venue": "Domplatz & Residenzplatz",
+      "city": "Salzburg",
+      "distance": "daytrip",
+      "price": null,
+      "language": "none-needed",
+      "links": {
+        "official": "https://krampusse.org/termine-2026-27/"
+      },
+      "verifiedAt": "2026-09-25"
+    },
+    {
+      "id": "bogart-filmreihe-2026",
+      "titleOriginal": "Humphrey Bogart – Filmreihe",
+      "title": {
+        "zh-TW": "亨佛萊・鮑嘉影展",
+        "en": "Humphrey Bogart film series",
+        "de": "Humphrey Bogart – Filmreihe"
+      },
+      "summary": {
+        "zh-TW": "回顧鮑嘉 1940–50 年代經典（北非諜影、非洲皇后、夜長夢多等），原始英語發音、部分場次配德文字幕。",
+        "en": "Retrospective of Bogart's 1940s–50s classics (Casablanca, The African Queen, Dark Passage …), shown in original English, some sessions with German subtitles.",
+        "de": "Retrospektive der Bogart-Klassiker der 1940er/50er (Casablanca, African Queen, Dark Passage …), im Original mit teils deutschen Untertiteln."
+      },
+      "category": "stage",
+      "tags": [
+        "film"
+      ],
+      "start": "2026-09-25",
+      "end": "2026-12-12",
+      "venue": "Filmmuseum München",
+      "city": "München",
+      "distance": "city",
+      "price": "€3–7",
+      "language": "english",
+      "links": {
+        "official": "https://www.muenchner-stadtmuseum.de/sammlungen/filmmuseum/filmreihen/humphrey-bogart"
+      },
+      "verifiedAt": "2026-09-25"
+    },
+    {
+      "id": "standup-drehleier-2026-10-31",
+      "titleOriginal": "Munich's Biggest English-German Stand-up Comedy Show",
+      "title": {
+        "zh-TW": "慕尼黑最大英德雙語脫口秀",
+        "en": "Munich's Biggest English-German Stand-up Comedy Show",
+        "de": "Munich's Biggest English-German Stand-up Comedy Show"
+      },
+      "summary": {
+        "zh-TW": "由 Mel Kelly 主持，多位喜劇演員輪流用德語和英語表演，節目大約各半，適合英語聽眾。",
+        "en": "Hosted by Mel Kelly, a mixed lineup of comedians alternates between German and English sets — roughly half the show is in English.",
+        "de": "Moderiert von Mel Kelly, Comedians wechseln zwischen deutschen und englischen Sets – etwa die Hälfte des Programms auf Englisch."
+      },
+      "category": "stage",
+      "tags": [],
+      "start": "2026-10-31T20:00",
+      "end": null,
+      "venue": "Theater Drehleier",
+      "city": "München",
+      "distance": "city",
+      "price": null,
+      "language": "english",
+      "links": {
+        "official": "https://www.eventbrite.de/e/munichs-biggest-english-german-stand-up-comedy-show-theater-drehleier-tickets-2000814176061"
+      },
+      "verifiedAt": "2026-09-25"
+    },
+    {
+      "id": "richard-iii-entity-theatre-2026-11",
+      "titleOriginal": "The True Tragedy of Richard III",
+      "title": {
+        "zh-TW": "理查三世的真悲劇",
+        "en": "The True Tragedy of Richard III",
+        "de": "The True Tragedy of Richard III"
+      },
+      "summary": {
+        "zh-TW": "慕尼黑英語業餘劇團 Entity Theatre 全英語演出莎士比亞《理查三世》，現代服裝改編。",
+        "en": "Munich's English-language amateur company Entity Theatre stages Shakespeare's Richard III in modern dress, fully in English.",
+        "de": "Münchens englischsprachige Amateurtheatergruppe Entity Theatre inszeniert Shakespeares Richard III. in moderner Kostümierung, komplett auf Englisch."
+      },
+      "category": "stage",
+      "tags": [],
+      "start": "2026-11-04",
+      "end": "2026-11-15",
+      "venue": "Pepper Theater",
+      "city": "München",
+      "distance": "city",
+      "price": null,
+      "language": "english",
+      "links": {
+        "official": "https://entitytheatre.com/richard-iii-save-the-audition-date"
+      },
+      "verifiedAt": "2026-09-25"
+    },
+    {
+      "id": "kabuki-museum-fuenf-kontinente-2026",
+      "titleOriginal": "Kabuki. Schauspiel, Drucke, Fankultur",
+      "title": {
+        "zh-TW": "歌舞伎：戲劇、浮世繪與粉絲文化",
+        "en": "Kabuki: Theatre, Prints, Fan Culture",
+        "de": "Kabuki. Schauspiel, Drucke, Fankultur"
+      },
+      "summary": {
+        "zh-TW": "橫跨三個世紀的日本歌舞伎主題浮世繪版畫，搭配戲服和當代演出片段，呈現歌舞伎的舞台魅力與明星文化。",
+        "en": "Japanese woodblock prints on Kabuki theatre spanning three centuries, shown alongside costumes/textiles and footage of contemporary productions.",
+        "de": "Japanische Holzschnitte zum Kabuki-Theater aus drei Jahrhunderten, ergänzt durch Kostüme/Textilien und Videoausschnitte aktueller Inszenierungen."
+      },
+      "category": "asia",
+      "tags": [],
+      "start": "2026-10-23",
+      "end": "2027-05-02",
+      "venue": "Museum Fünf Kontinente",
+      "city": "München",
+      "distance": "city",
+      "price": null,
+      "language": "none-needed",
+      "links": {
+        "official": "https://www.museum-fuenf-kontinente.de/besuch/ausstellungen/vorschau/kabuki-schauspiel-drucke-fankultur"
+      },
+      "verifiedAt": "2026-09-25"
     }
   ]
 }
