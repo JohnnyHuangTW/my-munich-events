@@ -1,0 +1,1020 @@
+{
+  "updatedAt": "2026-09-25",
+  "weekPicks": [
+    "hans-zimmer-2026-10-20",
+    "hisaishi-2026-11-25",
+    "korean-mysteries-2026"
+  ],
+  "events": [
+    {
+      "id": "kunstdesign-markt-2026-09-26",
+      "titleOriginal": "Kunstdesign-Markt",
+      "title": {
+        "zh-TW": "藝術設計市集",
+        "en": "Art & Design Market",
+        "de": "Kunstdesign-Markt"
+      },
+      "summary": {
+        "zh-TW": "160 多個攤位，賣手作商品和在地產品，還有街頭小吃。",
+        "en": "160+ stalls with handmade goods, regional products and street food.",
+        "de": "Über 160 Ausstellende mit Handgemachtem, regionalen Produkten und Streetfood."
+      },
+      "category": "festival",
+      "tags": [
+        "market"
+      ],
+      "start": "2026-09-26",
+      "end": null,
+      "venue": "MVG Museum",
+      "city": "München",
+      "distance": "city",
+      "price": null,
+      "language": "none-needed",
+      "links": {
+        "official": "https://www.in-muenchen.de/maerkte"
+      },
+      "verifiedAt": "2026-09-21"
+    },
+    {
+      "id": "bauernmarktmeile-2026-09-27",
+      "titleOriginal": "Bauernmarktmeile München",
+      "title": {
+        "zh-TW": "巴伐利亞農夫市集大道",
+        "en": "Farmers' Market Mile",
+        "de": "Bauernmarktmeile München"
+      },
+      "summary": {
+        "zh-TW": "巴伐利亞農家沿著 Ludwigstraße 擺攤，直接販售自家農產和食品。",
+        "en": "Bavarian farmers sell their own produce along Ludwigstraße and Galeriestraße.",
+        "de": "Bayerische Direktvermarkter entlang Ludwig- und Galeriestraße."
+      },
+      "category": "festival",
+      "tags": [
+        "market",
+        "food",
+        "free"
+      ],
+      "start": "2026-09-27",
+      "end": null,
+      "venue": "Odeonsplatz",
+      "city": "München",
+      "distance": "city",
+      "price": null,
+      "language": "none-needed",
+      "links": {
+        "official": "https://www.in-muenchen.de/maerkte"
+      },
+      "verifiedAt": "2026-09-21"
+    },
+    {
+      "id": "oktoberfest-2026",
+      "titleOriginal": "191. Oktoberfest",
+      "title": {
+        "zh-TW": "慕尼黑啤酒節",
+        "en": "Oktoberfest",
+        "de": "191. Oktoberfest"
+      },
+      "summary": {
+        "zh-TW": "世界最大的啤酒節，有啤酒帳篷、遊樂設施和巴伐利亞傳統美食，最後一天是 10/4。",
+        "en": "The world's biggest beer festival: beer tents, rides and Bavarian food. Last day 4 Oct.",
+        "de": "Bierzelte, Fahrgeschäfte und bayerische Schmankerl – letzter Tag am 4. Oktober."
+      },
+      "category": "festival",
+      "tags": [
+        "food"
+      ],
+      "start": "2026-09-19",
+      "end": "2026-10-04",
+      "venue": "Theresienwiese",
+      "city": "München",
+      "distance": "city",
+      "price": null,
+      "language": "none-needed",
+      "links": {
+        "official": "https://www.muenchen-online.de/highlights-muenchen/festivals-feste-muenchen-2026/"
+      },
+      "verifiedAt": "2026-09-21"
+    },
+    {
+      "id": "korean-mysteries-2026",
+      "titleOriginal": "Korean Mysteries",
+      "title": {
+        "zh-TW": "韓國奇幻電影回顧",
+        "en": "Korean Mysteries (film series)",
+        "de": "Korean Mysteries (Filmreihe)"
+      },
+      "summary": {
+        "zh-TW": "Filmmuseum 的影展單元，回顧 1960 年代至今的韓國奇幻與懸疑電影。",
+        "en": "Filmmuseum series tracing Korean fantastic and mystery cinema from the 1960s on.",
+        "de": "Filmreihe im Filmmuseum: eine Reise durch das koreanische phantastische Kino seit den 1960ern."
+      },
+      "category": "asia",
+      "tags": [
+        "film"
+      ],
+      "start": "2026-09-27",
+      "end": "2026-11-10",
+      "venue": "Filmmuseum München",
+      "city": "München",
+      "distance": "city",
+      "price": null,
+      "language": "unknown",
+      "links": {
+        "official": "https://www.muenchner-stadtmuseum.de/sammlungen/filmmuseum/filmreihen"
+      },
+      "verifiedAt": "2026-09-21"
+    },
+    {
+      "id": "nuernberg-pop-2026",
+      "titleOriginal": "Nürnberg Pop Festival",
+      "title": {
+        "zh-TW": "紐倫堡流行音樂節",
+        "en": "Nuremberg Pop Festival",
+        "de": "Nürnberg Pop Festival"
+      },
+      "summary": {
+        "zh-TW": "德南最大的 club 與 showcase 音樂節，indie、pop、hip-hop 樂團分散在紐倫堡多個場地演出。",
+        "en": "Southern Germany's biggest club & showcase festival – indie, pop and hip-hop across many venues.",
+        "de": "Süddeutschlands größtes Club- und Showcasefestival mit Indie, Pop und Hip-Hop."
+      },
+      "category": "nearby",
+      "tags": [
+        "music"
+      ],
+      "start": "2026-10-08",
+      "end": "2026-10-10",
+      "venue": "Various venues",
+      "city": "Nürnberg",
+      "distance": "daytrip",
+      "price": null,
+      "language": "none-needed",
+      "links": {
+        "official": "https://www.nordbayern.de/genuss-shopping/worauf-du-dich-im-herbst-2026-in-nuernberg-freuen-kannst-shog-rep-1-1.15284723"
+      },
+      "verifiedAt": "2026-09-21"
+    },
+    {
+      "id": "residenzwoche-2026",
+      "titleOriginal": "Residenzwoche",
+      "title": {
+        "zh-TW": "王宮週",
+        "en": "Residence Week",
+        "de": "Residenzwoche"
+      },
+      "summary": {
+        "zh-TW": "以慕尼黑王宮為中心的年度文化週。頁面未提供詳細節目內容。",
+        "en": "Annual culture week centred on the Munich Residenz. No programme details on the page.",
+        "de": "Kulturwoche rund um die Residenz München. Details auf der Seite nicht angegeben."
+      },
+      "category": "exhibition",
+      "tags": [],
+      "start": "2026-10-16",
+      "end": "2026-10-25",
+      "venue": "Residenz München",
+      "city": "München",
+      "distance": "city",
+      "price": null,
+      "language": "unknown",
+      "links": {
+        "official": "https://www.muenchen-online.de/highlights-muenchen/festivals-feste-muenchen-2026/"
+      },
+      "verifiedAt": "2026-09-21"
+    },
+    {
+      "id": "lange-nacht-museen-2026",
+      "titleOriginal": "Lange Nacht der Münchner Museen",
+      "title": {
+        "zh-TW": "慕尼黑博物館長夜",
+        "en": "Long Night of Munich Museums",
+        "de": "Lange Nacht der Münchner Museen"
+      },
+      "summary": {
+        "zh-TW": "一張票就能在夜間逛遍全市多間博物館和展覽空間。",
+        "en": "One ticket gets you into many of the city's museums and galleries, late into the night.",
+        "de": "Mit einem Ticket nachts durch zahlreiche Münchner Museen und Ausstellungshäuser."
+      },
+      "category": "exhibition",
+      "tags": [],
+      "start": "2026-10-17",
+      "end": null,
+      "venue": "Various museums",
+      "city": "München",
+      "distance": "city",
+      "price": null,
+      "language": "none-needed",
+      "links": {
+        "official": "https://www.muenchen-online.de/highlights-muenchen/festivals-feste-muenchen-2026/"
+      },
+      "verifiedAt": "2026-09-21"
+    },
+    {
+      "id": "auer-dult-herbst-2026",
+      "titleOriginal": "Auer Kirchweihdult",
+      "title": {
+        "zh-TW": "奧爾秋季市集",
+        "en": "Auer Dult (autumn fair)",
+        "de": "Auer Kirchweihdult"
+      },
+      "summary": {
+        "zh-TW": "慕尼黑的傳統市集，有鍋碗瓢盆、古董攤和遊樂設施。",
+        "en": "Munich's traditional fair: kitchenware, antiques stalls and fairground rides.",
+        "de": "Jahrmarkt mit Haushaltswaren, Antiquitäten und Fahrgeschäften."
+      },
+      "category": "festival",
+      "tags": [
+        "market",
+        "free"
+      ],
+      "start": "2026-10-17",
+      "end": "2026-10-25",
+      "venue": "Mariahilfplatz",
+      "city": "München",
+      "distance": "city",
+      "price": null,
+      "language": "none-needed",
+      "links": {
+        "official": "https://www.in-muenchen.de/maerkte"
+      },
+      "verifiedAt": "2026-09-21"
+    },
+    {
+      "id": "hans-zimmer-2026-10-20",
+      "titleOriginal": "The World of Hans Zimmer – A New Dimension",
+      "title": {
+        "zh-TW": "漢斯·季默的音樂世界",
+        "en": "The World of Hans Zimmer – A New Dimension",
+        "de": "The World of Hans Zimmer – A New Dimension"
+      },
+      "summary": {
+        "zh-TW": "現場管弦樂團演奏 Hans Zimmer 的電影配樂，有《沙丘》、《獅子王》、《黑暗騎士》、《雨人》等。",
+        "en": "Live orchestra performing Hans Zimmer scores – Dune, The Lion King, The Dark Knight, Rain Man and more.",
+        "de": "Orchester live mit Hans-Zimmer-Hits aus Dune, Der König der Löwen, The Dark Knight, Rain Man u. a."
+      },
+      "category": "music",
+      "tags": [
+        "film-score"
+      ],
+      "start": "2026-10-20T19:30",
+      "end": null,
+      "venue": "Olympiahalle",
+      "city": "München",
+      "distance": "city",
+      "price": null,
+      "language": "none-needed",
+      "links": {
+        "official": "https://www.olympiapark.de/en/events/the-world-of-hans-zimmer-n4924",
+        "tickets": "https://www.muenchenticket.de/event/the-world-of-hans-zimmer-32680/"
+      },
+      "verifiedAt": "2026-09-21"
+    },
+    {
+      "id": "voice-passion-2026-10-23",
+      "titleOriginal": "Voice Passion: Songs from Outlander, Vikings & The Last Kingdom",
+      "title": {
+        "zh-TW": "《古戰場傳奇》《維京傳奇》影集歌曲之夜",
+        "en": "Voice Passion: Songs from Outlander, Vikings & The Last Kingdom",
+        "de": "Voice Passion: Songs aus Outlander, Vikings & The Last Kingdom"
+      },
+      "summary": {
+        "zh-TW": "威爾斯歌手 Lauren Francis 演唱凱爾特與北歐風的影集歌曲，搭配藝術投影。",
+        "en": "Welsh singer Lauren Francis performs Celtic and Nordic songs from the TV series, with art projections.",
+        "de": "Die walisische Sängerin Lauren Francis mit keltischen und nordischen Serien-Songs und Projektionen."
+      },
+      "category": "music",
+      "tags": [
+        "film-score"
+      ],
+      "start": "2026-10-23T20:00",
+      "end": null,
+      "venue": "Allerheiligen-Hofkirche (Residenz)",
+      "city": "München",
+      "distance": "city",
+      "price": null,
+      "language": "none-needed",
+      "links": {
+        "official": "https://www.in-muenchen.de/events/voice-passion-songs-from-outlander-vikings-the-last-kingdom.html"
+      },
+      "verifiedAt": "2026-09-21"
+    },
+    {
+      "id": "barcelona-moderna-2026",
+      "titleOriginal": "Barcelona moderna. Von Gaudí bis Picasso",
+      "title": {
+        "zh-TW": "現代巴塞隆納：從高第到畢卡索",
+        "en": "Barcelona moderna: From Gaudí to Picasso",
+        "de": "Barcelona moderna. Von Gaudí bis Picasso"
+      },
+      "summary": {
+        "zh-TW": "介紹 1880～1914 年加泰隆尼亞的現代主義，展出從高第到年輕畢卡索的作品。",
+        "en": "Catalan Modernisme 1880–1914, from Gaudí to the young Picasso.",
+        "de": "Katalanischer Modernisme 1880–1914 – von Gaudí bis zum jungen Picasso."
+      },
+      "category": "exhibition",
+      "tags": [],
+      "start": "2026-10-23",
+      "end": "2027-02-21",
+      "venue": "Kunsthalle München",
+      "city": "München",
+      "distance": "city",
+      "price": null,
+      "language": "unknown",
+      "links": {
+        "official": "https://www.muenchen.de/sehenswuerdigkeiten/museen/vorschau-der-muenchner-museen-2026-2-jahreshaelfte"
+      },
+      "verifiedAt": "2026-09-21"
+    },
+    {
+      "id": "nuejazz-2026",
+      "titleOriginal": "NUEJAZZ Festival",
+      "title": {
+        "zh-TW": "紐倫堡爵士音樂節",
+        "en": "NUEJAZZ Festival",
+        "de": "NUEJAZZ Festival"
+      },
+      "summary": {
+        "zh-TW": "在紐倫堡和埃爾朗根多個場地舉行，涵蓋國際爵士、搖滾、流行和電子音樂。",
+        "en": "International jazz, rock, pop and electronic acts across venues in Nuremberg and Erlangen.",
+        "de": "Internationaler Jazz, Rock, Pop und Elektronik an vielen Orten in Nürnberg und Erlangen."
+      },
+      "category": "nearby",
+      "tags": [
+        "music"
+      ],
+      "start": "2026-10-23",
+      "end": "2026-11-15",
+      "venue": "Various venues",
+      "city": "Nürnberg / Erlangen",
+      "distance": "daytrip",
+      "price": null,
+      "language": "none-needed",
+      "links": {
+        "official": "https://www.nordbayern.de/genuss-shopping/worauf-du-dich-im-herbst-2026-in-nuernberg-freuen-kannst-shog-rep-1-1.15284723"
+      },
+      "verifiedAt": "2026-09-21"
+    },
+    {
+      "id": "mucho-2026",
+      "titleOriginal": "MUCHO – Munich Chocolate Festival",
+      "title": {
+        "zh-TW": "慕尼黑巧克力節",
+        "en": "MUCHO – Munich Chocolate Festival",
+        "de": "MUCHO – Munich Chocolate Festival"
+      },
+      "summary": {
+        "zh-TW": "約 50 個巧克力攤位，還有現場展示。兩個來源寫的場地不同，出發前請再確認。",
+        "en": "About 50 chocolate exhibitors plus shows. Sources list different venues – double-check before going.",
+        "de": "Rund 50 Ausstellende mit Schokolade und Shows. Quellen nennen unterschiedliche Orte – bitte prüfen."
+      },
+      "category": "festival",
+      "tags": [
+        "food"
+      ],
+      "start": "2026-10-24",
+      "end": "2026-10-25",
+      "venue": "Alte Paketposthalle / Pineapple Park",
+      "city": "München",
+      "distance": "city",
+      "price": null,
+      "language": "none-needed",
+      "links": {
+        "official": "https://www.in-muenchen.de/maerkte"
+      },
+      "verifiedAt": "2026-09-21"
+    },
+    {
+      "id": "faust-100-2026-10-25",
+      "titleOriginal": "100 Jahre FAUST",
+      "title": {
+        "zh-TW": "《浮士德》百年：默片配現場音樂",
+        "en": "100 Years of FAUST – silent film with live music",
+        "de": "100 Jahre FAUST – Stummfilm mit Live-Musik"
+      },
+      "summary": {
+        "zh-TW": "放映 F.W. Murnau 1926 年的默片經典《浮士德》，現場樂手即時配樂。",
+        "en": "F.W. Murnau's 1926 silent classic Faust, screened with live musical accompaniment.",
+        "de": "F.W. Murnaus Stummfilmklassiker mit Live-Musik."
+      },
+      "category": "stage",
+      "tags": [
+        "film"
+      ],
+      "start": "2026-10-25",
+      "end": null,
+      "venue": "Filmmuseum München",
+      "city": "München",
+      "distance": "city",
+      "price": null,
+      "language": "unknown",
+      "links": {
+        "official": "https://www.muenchner-stadtmuseum.de/sammlungen/filmmuseum/filmreihen"
+      },
+      "verifiedAt": "2026-09-21"
+    },
+    {
+      "id": "maria-jarema-2026",
+      "titleOriginal": "Maria Jarema",
+      "title": {
+        "zh-TW": "瑪麗亞·雅雷瑪個展",
+        "en": "Maria Jarema",
+        "de": "Maria Jarema"
+      },
+      "summary": {
+        "zh-TW": "Lenbachhaus 為波蘭藝術家 Maria Jarema 舉辦的個展。",
+        "en": "Lenbachhaus solo exhibition of Polish artist Maria Jarema.",
+        "de": "Einzelausstellung der polnischen Künstlerin im Lenbachhaus."
+      },
+      "category": "exhibition",
+      "tags": [],
+      "start": "2026-10-27",
+      "end": "2027-04-25",
+      "venue": "Lenbachhaus",
+      "city": "München",
+      "distance": "city",
+      "price": null,
+      "language": "unknown",
+      "links": {
+        "official": "https://www.muenchen.de/sehenswuerdigkeiten/museen/vorschau-der-muenchner-museen-2026-2-jahreshaelfte"
+      },
+      "verifiedAt": "2026-09-21"
+    },
+    {
+      "id": "brso-harmoniemusik-2026-10-31",
+      "titleOriginal": "BRSO Kammerkonzert »Vortreffliche Harmonie-Musik«",
+      "title": {
+        "zh-TW": "BRSO 管樂室內樂：精緻的和聲音樂",
+        "en": "BRSO chamber concert: \"Excellent Harmony Music\"",
+        "de": "BRSO Kammerkonzert »Vortreffliche Harmonie-Musik«"
+      },
+      "summary": {
+        "zh-TW": "BRSO 樂手演奏貝多芬的八重奏、雙簧管與英國管三重奏，以及莫札特小夜曲 KV 388，雙簧管由 Ramón Ortega Quero 等人擔任。另有 10/29 Baierbrunn 場與 11/1 Tutzing 場。",
+        "en": "BRSO players perform Beethoven's Octet and Trio for oboes & cor anglais plus Mozart's Serenade KV 388, with oboist Ramón Ortega Quero. Also 29 Oct (Baierbrunn) & 1 Nov (Tutzing).",
+        "de": "Beethovens Oktett, Trio für Oboen & Englischhorn und Mozarts Serenade KV 388 mit Ramón Ortega Quero u. a. Weitere Termine: 29.10. Baierbrunn, 1.11. Tutzing."
+      },
+      "category": "music",
+      "tags": [
+        "oboe"
+      ],
+      "start": "2026-10-31T20:00",
+      "end": null,
+      "venue": "Max-Joseph-Saal (Residenz)",
+      "city": "München",
+      "distance": "city",
+      "price": "€18–30 (U30 €10)",
+      "language": "none-needed",
+      "links": {
+        "official": "https://www.brso.de/konzerte/kammerkonzert-vortreffliche-harmonie-musik/"
+      },
+      "verifiedAt": "2026-09-21"
+    },
+    {
+      "id": "disney-in-concert-2026-11-06",
+      "titleOriginal": "Disney in Concert 2026 – Wishes and Wonders",
+      "title": {
+        "zh-TW": "迪士尼音樂會：願望與奇蹟",
+        "en": "Disney in Concert – Wishes and Wonders",
+        "de": "Disney in Concert – Wishes and Wonders"
+      },
+      "summary": {
+        "zh-TW": "頁面未提供詳細內容，目前只確認了日期和場地。",
+        "en": "No programme details on the page – only date and venue confirmed.",
+        "de": "Auf der Seite keine Programmdetails – nur Datum und Ort bestätigt."
+      },
+      "category": "music",
+      "tags": [
+        "film-score"
+      ],
+      "start": "2026-11-06T19:30",
+      "end": null,
+      "venue": "Olympiahalle",
+      "city": "München",
+      "distance": "city",
+      "price": null,
+      "language": "unknown",
+      "links": {
+        "official": "https://www.in-muenchen.de/events/disney-in-concert-2026.html"
+      },
+      "verifiedAt": "2026-09-21"
+    },
+    {
+      "id": "anime-songs-2026-11-08",
+      "titleOriginal": "Anime Songs in Concert – Next Level Tour Extended",
+      "title": {
+        "zh-TW": "動畫歌曲演唱會",
+        "en": "Anime Songs in Concert",
+        "de": "Anime Songs in Concert"
+      },
+      "summary": {
+        "zh-TW": "Petra Scheeser 和樂團現場演唱動畫主題曲，包括《名偵探柯南》、《寶可夢》、《七龍珠 Z》、《數碼寶貝》，可以拿螢光棒跟唱。",
+        "en": "Petra Scheeser and band sing anime themes – Detective Conan, Pokémon, Dragon Ball Z, Digimon. Glow sticks & sing-along.",
+        "de": "Petra Scheeser & Band mit Anime-Songs aus Detektiv Conan, Pokémon, Dragon Ball Z, Digimon – Knicklichter & Mitsingen."
+      },
+      "category": "music",
+      "tags": [
+        "anime"
+      ],
+      "start": "2026-11-08T20:00",
+      "end": null,
+      "venue": "Technikum (Werksviertel)",
+      "city": "München",
+      "distance": "city",
+      "price": null,
+      "language": "none-needed",
+      "links": {
+        "official": "https://www.in-muenchen.de/events/anime-songs-in-concert-next-level-tour-extended.html"
+      },
+      "verifiedAt": "2026-09-21"
+    },
+    {
+      "id": "buecherschau-2026",
+      "titleOriginal": "67. Münchner Bücherschau",
+      "title": {
+        "zh-TW": "慕尼黑書展",
+        "en": "Munich Book Show",
+        "de": "67. Münchner Bücherschau"
+      },
+      "summary": {
+        "zh-TW": "免費入場的大型書展，每天 8～22 點開放。",
+        "en": "Large free book fair, open daily 8:00–22:00.",
+        "de": "Große Buchausstellung, täglich 8–22 Uhr, Eintritt frei."
+      },
+      "category": "exhibition",
+      "tags": [
+        "free"
+      ],
+      "start": "2026-11-12",
+      "end": "2026-11-29",
+      "venue": "Haus der Kunst",
+      "city": "München",
+      "distance": "city",
+      "price": null,
+      "language": "unknown",
+      "links": {
+        "official": "https://muc-blog.com/veranstaltungen-muenchen-november-2026/"
+      },
+      "verifiedAt": "2026-09-21"
+    },
+    {
+      "id": "weihnachtsdorf-residenz-2026",
+      "titleOriginal": "Weihnachtsdorf im Kaiserhof der Residenz",
+      "title": {
+        "zh-TW": "王宮聖誕村",
+        "en": "Christmas Village at the Residenz",
+        "de": "Weihnachtsdorf Residenz"
+      },
+      "summary": {
+        "zh-TW": "在王宮的 Kaiserhof 中庭搭起聖誕村市集。",
+        "en": "Christmas village market in the Residenz's Kaiserhof courtyard.",
+        "de": "Weihnachtsdorf im Kaiserhof der Residenz."
+      },
+      "category": "festival",
+      "tags": [
+        "christmas",
+        "market"
+      ],
+      "start": "2026-11-16",
+      "end": "2026-12-22",
+      "venue": "Residenz – Kaiserhof",
+      "city": "München",
+      "distance": "city",
+      "price": null,
+      "language": "none-needed",
+      "links": {
+        "official": "https://muc-blog.com/veranstaltungen-muenchen-november-2026/"
+      },
+      "verifiedAt": "2026-09-21"
+    },
+    {
+      "id": "christkindlmarkt-2026",
+      "titleOriginal": "Münchner Christkindlmarkt",
+      "title": {
+        "zh-TW": "瑪麗恩廣場聖誕市集",
+        "en": "Munich Christmas Market (Marienplatz)",
+        "de": "Münchner Christkindlmarkt"
+      },
+      "summary": {
+        "zh-TW": "慕尼黑最經典的聖誕市集，免費入場。今年提前到 11/20 開幕，Totensonntag 當天休市。",
+        "en": "Munich's classic Christmas market, free entry. Opens early this year (20 Nov); closed on Totensonntag.",
+        "de": "Der klassische Christkindlmarkt, Eintritt frei – heuer schon ab 20.11., am Totensonntag geschlossen."
+      },
+      "category": "festival",
+      "tags": [
+        "christmas",
+        "market",
+        "free"
+      ],
+      "start": "2026-11-20",
+      "end": "2026-12-24",
+      "venue": "Marienplatz",
+      "city": "München",
+      "distance": "city",
+      "price": null,
+      "language": "none-needed",
+      "links": {
+        "official": "https://www.muenchen.de/veranstaltungen/weihnachtsmaerkte-christkindlmaerkte-2026"
+      },
+      "verifiedAt": "2026-09-21"
+    },
+    {
+      "id": "pink-christmas-2026",
+      "titleOriginal": "Pink Christmas",
+      "title": {
+        "zh-TW": "粉紅聖誕市集",
+        "en": "Pink Christmas",
+        "de": "Pink Christmas"
+      },
+      "summary": {
+        "zh-TW": "粉紅色主題的聖誕市集，也是慕尼黑的 LGBTQ+ 聖誕市集。",
+        "en": "Munich's pink-themed LGBTQ+ Christmas market.",
+        "de": "Der queere Weihnachtsmarkt in Pink."
+      },
+      "category": "festival",
+      "tags": [
+        "christmas",
+        "market"
+      ],
+      "start": "2026-11-20",
+      "end": "2026-12-20",
+      "venue": "Stephansplatz",
+      "city": "München",
+      "distance": "city",
+      "price": null,
+      "language": "none-needed",
+      "links": {
+        "official": "https://muc-blog.com/veranstaltungen-muenchen-november-2026/"
+      },
+      "verifiedAt": "2026-09-21"
+    },
+    {
+      "id": "mittelaltermarkt-2026",
+      "titleOriginal": "Mittelalterlicher Weihnachtsmarkt",
+      "title": {
+        "zh-TW": "中世紀聖誕市集",
+        "en": "Medieval Christmas Market",
+        "de": "Mittelalterlicher Weihnachtsmarkt"
+      },
+      "summary": {
+        "zh-TW": "中世紀風格的聖誕市集。",
+        "en": "Christmas market in medieval style.",
+        "de": "Weihnachtsmarkt im mittelalterlichen Stil."
+      },
+      "category": "festival",
+      "tags": [
+        "christmas",
+        "market"
+      ],
+      "start": "2026-11-20",
+      "end": "2026-12-23",
+      "venue": "Wittelsbacherplatz",
+      "city": "München",
+      "distance": "city",
+      "price": null,
+      "language": "none-needed",
+      "links": {
+        "official": "https://muc-blog.com/veranstaltungen-muenchen-november-2026/"
+      },
+      "verifiedAt": "2026-09-21"
+    },
+    {
+      "id": "filmfoniker-2026-11-21",
+      "titleOriginal": "Filmfoniker Movie Night",
+      "title": {
+        "zh-TW": "Filmfoniker 電影音樂之夜",
+        "en": "Filmfoniker Movie Night",
+        "de": "Filmfoniker Movie Night"
+      },
+      "summary": {
+        "zh-TW": "由活動了二十年的電影音樂樂團 Die Filmfoniker 演出，指揮 Ingo P. Stefans。頁面沒有列出曲目。",
+        "en": "Film-music orchestra Die Filmfoniker (20 years running), conducted by Ingo P. Stefans. Programme not listed.",
+        "de": "Die Filmfoniker unter Ingo P. Stefans – Filmmusik als große Orchestermusik. Programm nicht angegeben."
+      },
+      "category": "music",
+      "tags": [
+        "film-score"
+      ],
+      "start": "2026-11-21T19:30",
+      "end": null,
+      "venue": "Isarphilharmonie (Gasteig HP8)",
+      "city": "München",
+      "distance": "city",
+      "price": null,
+      "language": "none-needed",
+      "links": {
+        "official": "https://www.in-muenchen.de/events/filmfoniker-movie-night.html"
+      },
+      "verifiedAt": "2026-09-21"
+    },
+    {
+      "id": "tollwood-winter-2026",
+      "titleOriginal": "Tollwood Winterfestival",
+      "title": {
+        "zh-TW": "Tollwood 冬季藝術節",
+        "en": "Tollwood Winter Festival",
+        "de": "Tollwood Winterfestival"
+      },
+      "summary": {
+        "zh-TW": "冬季的藝文市集，有異國小吃、手作攤位和帳篷表演，九成以上的節目免費。",
+        "en": "Winter culture fair with international food, crafts and tent shows – 90% of the programme is free.",
+        "de": "Winterfestival mit internationalem Essen, Kunsthandwerk und Zelt-Programm – 90 % kostenlos."
+      },
+      "category": "festival",
+      "tags": [
+        "food",
+        "christmas"
+      ],
+      "start": "2026-11-24",
+      "end": "2026-12-23",
+      "venue": "Theresienwiese",
+      "city": "München",
+      "distance": "city",
+      "price": null,
+      "language": "none-needed",
+      "links": {
+        "official": "https://www.muenchen.travel/pois/maerkte-feste/tollwood-winterfestival"
+      },
+      "verifiedAt": "2026-09-21"
+    },
+    {
+      "id": "hisaishi-2026-11-25",
+      "titleOriginal": "Joe Hisaishi's World Dream Tour",
+      "title": {
+        "zh-TW": "久石讓 世界夢想巡演",
+        "en": "Joe Hisaishi's World Dream Tour",
+        "de": "Joe Hisaishi's World Dream Tour"
+      },
+      "summary": {
+        "zh-TW": "吉卜力的作曲家久石讓親自指揮並彈鋼琴，搭配 Royal Philharmonic Orchestra，演奏《蒼鷺與少年》交響組曲和新作 Concerto for Orchestra（歐洲首演）。",
+        "en": "The Studio Ghibli composer conducts and plays piano with the Royal Philharmonic Orchestra: The Boy and the Heron suite plus the European premiere of his Concerto for Orchestra.",
+        "de": "Der Ghibli-Komponist dirigiert und spielt Klavier mit dem Royal Philharmonic Orchestra: Suite aus Der Junge und der Reiher und Concerto for Orchestra (Europapremiere)."
+      },
+      "category": "music",
+      "tags": [
+        "film-score",
+        "anime"
+      ],
+      "start": "2026-11-25T20:00",
+      "end": null,
+      "venue": "Isarphilharmonie (Gasteig HP8)",
+      "city": "München",
+      "distance": "city",
+      "price": null,
+      "language": "none-needed",
+      "hardToGet": {
+        "reason": {
+          "zh-TW": "久石讓本人親自登台指揮，機會難得，建議盡早購票。",
+          "en": "Hisaishi conducting in person is a rare chance – book early.",
+          "de": "Hisaishi live am Pult ist selten – früh buchen."
+        },
+        "saleStart": null,
+        "saleStatus": "on-sale"
+      },
+      "links": {
+        "official": "https://www.gasteig.de/en/events/joe-hisaishis-world-dream-tour/",
+        "tickets": "https://www.muenchenmusik.de/mm/veranstaltungen/joe-hisaishis-world-dream-tour-251126"
+      },
+      "verifiedAt": "2026-09-21"
+    },
+    {
+      "id": "marchenbazar-2026",
+      "titleOriginal": "Märchenbazar",
+      "title": {
+        "zh-TW": "童話冬季市集",
+        "en": "Fairy-tale Bazaar",
+        "de": "Märchenbazar"
+      },
+      "summary": {
+        "zh-TW": "奧林匹克公園的懷舊風冬季市集。",
+        "en": "Nostalgic winter market at Olympiapark.",
+        "de": "Nostalgischer Wintermarkt im Olympiapark."
+      },
+      "category": "festival",
+      "tags": [
+        "christmas",
+        "market"
+      ],
+      "start": "2026-11-26",
+      "end": "2026-12-28",
+      "venue": "Olympiapark",
+      "city": "München",
+      "distance": "city",
+      "price": null,
+      "language": "none-needed",
+      "links": {
+        "official": "https://muc-blog.com/veranstaltungen-muenchen-november-2026/"
+      },
+      "verifiedAt": "2026-09-21"
+    },
+    {
+      "id": "animesy-2026-11-28",
+      "titleOriginal": "The Animesy",
+      "title": {
+        "zh-TW": "動漫交響音樂會",
+        "en": "The Animesy",
+        "de": "The Animesy"
+      },
+      "summary": {
+        "zh-TW": "63 人動漫交響樂團演奏約 20 首改編曲，包括《神隱少女》、《進擊的巨人》、《鬼滅之刃》、《海賊王》，現場還有 cosplay 比賽。",
+        "en": "A 63-piece anime symphony orchestra plays ~20 arrangements – Spirited Away, Attack on Titan, Demon Slayer, One Piece – plus a cosplay contest.",
+        "de": "63-köpfiges Anime-Orchester mit ~20 Arrangements aus Chihiros Reise, Attack on Titan, Demon Slayer, One Piece – plus Cosplay-Wettbewerb."
+      },
+      "category": "music",
+      "tags": [
+        "anime",
+        "film-score"
+      ],
+      "start": "2026-11-28T19:00",
+      "end": null,
+      "venue": "Herkulessaal (Residenz)",
+      "city": "München",
+      "distance": "city",
+      "price": null,
+      "language": "none-needed",
+      "links": {
+        "official": "https://www.in-muenchen.de/events/the-animesy.html"
+      },
+      "verifiedAt": "2026-09-21"
+    },
+    {
+      "id": "ccon-stuttgart-2026",
+      "titleOriginal": "Comic Con Stuttgart (CCON)",
+      "title": {
+        "zh-TW": "斯圖加特動漫展",
+        "en": "Comic Con Stuttgart",
+        "de": "Comic Con Stuttgart (CCON)"
+      },
+      "summary": {
+        "zh-TW": "結合動漫、影視和遊戲的流行文化展，從慕尼黑搭火車約 2.5 小時。",
+        "en": "Pop-culture convention with comics, film & gaming – about 2.5 h from Munich by train.",
+        "de": "Popkultur-Convention mit Comics, Film und Gaming – ca. 2,5 h mit dem Zug."
+      },
+      "category": "gaming",
+      "tags": [
+        "convention"
+      ],
+      "start": "2026-11-28",
+      "end": "2026-11-29",
+      "venue": "Messe Stuttgart",
+      "city": "Stuttgart",
+      "distance": "daytrip",
+      "price": null,
+      "language": "none-needed",
+      "links": {
+        "official": "https://www.gameswirtschaft.de/events/terminkalender-2026-games-messen-festivals-konferenzen-210426/"
+      },
+      "verifiedAt": "2026-09-21"
+    },
+    {
+      "id": "nacht-der-filmmusik-2026-12-01",
+      "titleOriginal": "Die Nacht der Filmmusik – Klassik Radio live in Concert",
+      "title": {
+        "zh-TW": "電影音樂之夜",
+        "en": "The Night of Film Music",
+        "de": "Die Nacht der Filmmusik"
+      },
+      "summary": {
+        "zh-TW": "Pete Harrison 指揮，演奏 Hans Zimmer、John Williams、Ennio Morricone 的經典配樂，Klassik Radio 主持人串場。",
+        "en": "Pete Harrison conducts classic scores by Hans Zimmer, John Williams and Ennio Morricone, hosted by Klassik Radio.",
+        "de": "Pete Harrison dirigiert Soundtracks von Zimmer, Williams und Morricone, moderiert von Klassik Radio."
+      },
+      "category": "music",
+      "tags": [
+        "film-score"
+      ],
+      "start": "2026-12-01T20:00",
+      "end": null,
+      "venue": "Isarphilharmonie (Gasteig HP8)",
+      "city": "München",
+      "distance": "city",
+      "price": "ab €79",
+      "language": "none-needed",
+      "links": {
+        "official": "https://www.klassikradio.de/live-in-concert/termine/muenchen-01-12-2026/"
+      },
+      "verifiedAt": "2026-09-21"
+    },
+    {
+      "id": "game-on-symphony-2026-12-04",
+      "titleOriginal": "Münchner Rundfunkorchester: Game On Symphony",
+      "title": {
+        "zh-TW": "電玩交響音樂會",
+        "en": "Game On Symphony",
+        "de": "Game On Symphony"
+      },
+      "summary": {
+        "zh-TW": "慕尼黑廣播管弦樂團的電玩音樂系列，這場的遊戲曲目頁面尚未公布。",
+        "en": "The Munich Radio Orchestra's video-game music series. Game line-up not yet published.",
+        "de": "Game-Musik-Reihe des Münchner Rundfunkorchesters. Spieleauswahl noch nicht veröffentlicht."
+      },
+      "category": "music",
+      "tags": [
+        "game-music"
+      ],
+      "start": "2026-12-04T19:30",
+      "end": null,
+      "venue": "Backstage Arena",
+      "city": "München",
+      "distance": "city",
+      "price": null,
+      "language": "none-needed",
+      "links": {
+        "official": "https://www.in-muenchen.de/events/munchner-rundfunkorchester-202627-game-on-symphony.html"
+      },
+      "verifiedAt": "2026-09-21"
+    },
+    {
+      "id": "anime-reimagined-2026-12-18",
+      "titleOriginal": "Anime: Reimagined",
+      "title": {
+        "zh-TW": "動漫鋼琴獨奏會",
+        "en": "Anime: Reimagined",
+        "de": "Anime: Reimagined"
+      },
+      "summary": {
+        "zh-TW": "鋼琴家 Magnus Baumgartl 用一台平台鋼琴，彈奏自己改編的《火影忍者》、《你的名字》、吉卜力等動漫配樂，全長 90 分鐘。",
+        "en": "Pianist Magnus Baumgartl plays his own solo arrangements of Naruto, Your Name, Ghibli and more – 90 minutes.",
+        "de": "Magnus Baumgartl spielt eigene Klavierarrangements aus Naruto, Your Name, Ghibli u. a. – 90 Minuten."
+      },
+      "category": "music",
+      "tags": [
+        "anime"
+      ],
+      "start": "2026-12-18T19:00",
+      "end": null,
+      "venue": "Johannissaal, Schloss Nymphenburg",
+      "city": "München",
+      "distance": "city",
+      "price": null,
+      "language": "none-needed",
+      "links": {
+        "official": "https://www.in-muenchen.de/events/anime-reimagined.html",
+        "tickets": "https://www.magnus-baumgartl.com/event-details/munchen-anime-reimagined"
+      },
+      "verifiedAt": "2026-09-21"
+    },
+    {
+      "id": "saraceno-2026",
+      "titleOriginal": "Tomás Saraceno: Ancestral Futures",
+      "title": {
+        "zh-TW": "托馬斯·薩拉切諾：祖先的未來",
+        "en": "Tomás Saraceno: Ancestral Futures",
+        "de": "Tomás Saraceno: Ancestral Futures"
+      },
+      "summary": {
+        "zh-TW": "阿根廷藝術家 Tomás Saraceno 在 Haus der Kunst 的大型展覽。頁面未提供更多細節。",
+        "en": "Major exhibition by Argentine artist Tomás Saraceno at Haus der Kunst. No further details on the page.",
+        "de": "Große Ausstellung des argentinischen Künstlers im Haus der Kunst. Weitere Details nicht angegeben."
+      },
+      "category": "exhibition",
+      "tags": [],
+      "start": "2026-07-17",
+      "end": "2027-02-07",
+      "venue": "Haus der Kunst",
+      "city": "München",
+      "distance": "city",
+      "price": null,
+      "language": "unknown",
+      "links": {
+        "official": "https://www.muenchen.de/sehenswuerdigkeiten/museen/vorschau-der-muenchner-museen-2026-2-jahreshaelfte"
+      },
+      "verifiedAt": "2026-09-21"
+    },
+    {
+      "id": "zelda-40th-tba",
+      "titleOriginal": "The Legend of Zelda 40th Anniversary Concert",
+      "title": {
+        "zh-TW": "薩爾達傳說 40 週年音樂會",
+        "en": "The Legend of Zelda 40th Anniversary Concert",
+        "de": "The Legend of Zelda 40th Anniversary Concert"
+      },
+      "summary": {
+        "zh-TW": "薩爾達 40 週年巡迴音樂會。目前只公布 2027 年 2 月起的英美和瑞典場次，德國場次尚未公布。",
+        "en": "Zelda 40th-anniversary concert tour. Only US/UK/Sweden dates from Feb 2027 so far; German dates TBA.",
+        "de": "Zelda-Jubiläumstour. Bisher nur Termine in USA/UK/Schweden ab Feb. 2027; Deutschland folgt."
+      },
+      "category": "gaming",
+      "tags": [
+        "game-music"
+      ],
+      "start": null,
+      "end": null,
+      "tba": true,
+      "venue": "TBA",
+      "city": "TBA",
+      "distance": "daytrip",
+      "price": null,
+      "language": "none-needed",
+      "hardToGet": {
+        "reason": {
+          "zh-TW": "德國場次尚未公布，建議訂閱官方通知，一公布就能搶票。",
+          "en": "German dates not announced yet – subscribe to official updates to be first in line.",
+          "de": "Deutsche Termine noch offen – Newsletter abonnieren, um früh dabei zu sein."
+        },
+        "saleStart": null,
+        "saleStatus": "announced"
+      },
+      "links": {
+        "official": "https://zelda.gameconcerts.com/de/"
+      },
+      "verifiedAt": "2026-09-21"
+    }
+  ]
+}

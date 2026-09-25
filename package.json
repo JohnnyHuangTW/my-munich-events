@@ -1,0 +1,11 @@
+{
+  "name": "my-munich-events",
+  "private": true,
+  "type": "module",
+  "description": "Weekly curated events in and around Munich (繁中 / EN / DE).",
+  "scripts": {
+    "validate": "node scripts/validate.mjs",
+    "dev": "npx --yes serve -l 5173 ."
+  },
+  "engines": { "node": ">=18" }
+}

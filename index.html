@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Munich Event Picks</title>
+  <meta name="description" content="Weekly picks of exhibitions, concerts, markets and more in and around Munich – in 繁中, English and Deutsch.">
+  <meta name="theme-color" content="#1c1a19">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='8' fill='%231c1a19'/%3E%3Crect x='7' y='9' width='18' height='16' rx='3' fill='none' stroke='%23e0864c' stroke-width='2.4'/%3E%3Cpath d='M7 14h18M12 6v5M20 6v5' stroke='%23e0864c' stroke-width='2.4' stroke-linecap='round'/%3E%3C/svg%3E">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Noto+Sans+TC:wght@400;500;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/styles.css">
+</head>
+<body>
+  <header class="topbar">
+    <div class="topbar__inner">
+      <div class="brand">
+        <span class="brand__mark" aria-hidden="true"></span>
+        <span class="brand__name" data-i18n="siteTitle">慕尼黑活動精選</span>
+      </div>
+      <div class="langswitch" role="group" aria-label="Language">
+        <button type="button" data-lang="zh-TW">繁中</button>
+        <button type="button" data-lang="en">EN</button>
+        <button type="button" data-lang="de">DE</button>
+      </div>
+    </div>
+  </header>
+
+  <main class="page">
+    <section class="intro">
+      <p class="intro__tagline" data-i18n="tagline"></p>
+      <p class="intro__meta" id="meta"></p>
+    </section>
+
+    <div class="toolbar">
+      <div class="viewtabs" role="tablist">
+        <button type="button" role="tab" data-view="list" data-i18n="listView">List view</button>
+        <button type="button" role="tab" data-view="calendar" data-i18n="calendarView">Calendar view</button>
+      </div>
+      <label class="search">
+        <svg viewBox="0 0 20 20" aria-hidden="true"><circle cx="9" cy="9" r="6"/><path d="m14 14 4 4"/></svg>
+        <input type="search" id="q" autocomplete="off">
+      </label>
+    </div>
+
+    <div class="filters">
+      <div class="chips" id="chips"></div>
+      <div class="filters__right">
+        <select id="distance" aria-label="Distance"></select>
+        <label class="toggle">
+          <input type="checkbox" id="englishOnly">
+          <span class="toggle__track" aria-hidden="true"></span>
+          <span data-i18n="englishOnly"></span>
+        </label>
+      </div>
+    </div>
+
+    <div id="view"></div>
+
+    <p class="disclaimer" data-i18n="disclaimer"></p>
+  </main>
+
+  <dialog id="detail" class="detail">
+    <form method="dialog" class="detail__close"><button aria-label="Close">✕</button></form>
+    <div id="detailBody"></div>
+  </dialog>
+
+  <script src="assets/app.js" type="module"></script>
+</body>
+</html>
