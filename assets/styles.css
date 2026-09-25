@@ -241,4 +241,5 @@ a { color: inherit; }
 @media (max-width: 420px) {
   .brand__name { font-size: 15px; }
   .langswitch button { padding: 5px 9px; }
+  .langswitch .flag { display: none; }
 }
