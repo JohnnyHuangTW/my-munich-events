@@ -22,6 +22,8 @@
   "groups.later": "1–3 months out",
   "groups.beyond": "3+ months out",
   "ongoing": "Running this month",
+  "ongoingMore": "+{n} more",
+  "ongoingLess": "Show less",
   "official": "Official page",
   "tickets": "Tickets",
   "addToCalendar": "Add to calendar",

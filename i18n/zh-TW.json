@@ -22,6 +22,8 @@
   "groups.later": "1～3 個月後",
   "groups.beyond": "3 個月以後",
   "ongoing": "本月持續進行",
+  "ongoingMore": "還有 {n} 個",
+  "ongoingLess": "收合",
   "official": "官方頁面",
   "tickets": "購票",
   "addToCalendar": "加入行事曆",

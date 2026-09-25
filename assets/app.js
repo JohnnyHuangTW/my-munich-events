@@ -22,6 +22,7 @@ const state = {
   q: "",
   month: null, // {y, m} (m: 0-11)
   selectedDay: null, // day number
+  ongoingExpanded: false,
   data: null,
   dict: {},
 };
@@ -199,6 +200,13 @@ function renderCalendar(events, today) {
   const dows = Array.from({ length: 7 }, (_, i) => fmt(4 + i, { weekday: "short" })); // 1970-01-05 was a Monday
   const pill = (e, cls = "") => `<span role="button" tabindex="0" class="pill${cls}" style="--c: var(--c-${esc(e.category)})" data-open="${esc(e.id)}">${timeOf(e.start) ? `${timeOf(e.start)} ` : ""}${esc(L(e.title) || e.titleOriginal)}</span>`;
 
+  const ONGOING_LIMIT = 2;
+  const longExpanded = state.ongoingExpanded || long.length <= ONGOING_LIMIT;
+  const longVisible = longExpanded ? long : long.slice(0, ONGOING_LIMIT);
+  const ongoingToggle = long.length > ONGOING_LIMIT
+    ? `<button type="button" class="cal__ongoing-toggle" data-toggle="ongoing">${longExpanded ? esc(t("ongoingLess")) : esc(t("ongoingMore", { n: long.length - ONGOING_LIMIT }))}</button>`
+    : "";
+
   let grid = dows.map((d) => `<div class="cal__dow">${esc(d)}</div>`).join("");
   for (let i = 0; i < cells; i++) {
     const n = gridStart + i;
@@ -223,7 +231,7 @@ function renderCalendar(events, today) {
         <button type="button" data-nav="1" aria-label="${esc(t("nextMonth"))}">${ICON.next}</button>
       </div>
     </div>
-    ${long.length ? `<div class="cal__ongoing"><span>${esc(t("ongoing"))}:</span>${long.map((e) => pill(e, " pill--inline")).join("")}</div>` : ""}
+    ${long.length ? `<div class="cal__ongoing"><span>${esc(t("ongoing"))}:</span>${longVisible.map((e) => pill(e, " pill--inline")).join("")}${ongoingToggle}</div>` : ""}
     <div class="cal__grid">${grid}</div>
   </div>`;
 
@@ -325,7 +333,7 @@ async function setLang(lang) {
 
 /* ---------- Events ---------- */
 document.addEventListener("click", (ev) => {
-  const el = ev.target.closest("[data-lang],[data-view],[data-cat],[data-ics],[data-open],[data-nav],[data-day]");
+  const el = ev.target.closest("[data-lang],[data-view],[data-cat],[data-ics],[data-open],[data-nav],[data-day],[data-toggle]");
   if (!el) return;
   const d = el.dataset;
   if (d.lang) { if (d.lang !== state.lang) setLang(d.lang); return; }
@@ -336,10 +344,12 @@ document.addEventListener("click", (ev) => {
   }
   if (d.ics) { const e = state.data.events.find((x) => x.id === d.ics); if (e) downloadICS(e); return; }
   if (d.open) { ev.stopPropagation(); openDetail(d.open); return; }
+  if (d.toggle === "ongoing") { state.ongoingExpanded = !state.ongoingExpanded; render(); return; }
   if (d.nav !== undefined) {
     const n = Number(d.nav);
     if (n === 0) { state.month = null; state.selectedDay = dayNum(todayStr()); }
     else { const { y, m } = state.month; const dt = new Date(Date.UTC(y, m + n, 1)); state.month = { y: dt.getUTCFullYear(), m: dt.getUTCMonth() }; state.selectedDay = null; }
+    state.ongoingExpanded = false;
     render(); return;
   }
   if (d.day) { const n = Number(d.day); state.selectedDay = state.selectedDay === n ? null : n; render(); }
