@@ -1,71 +1,11 @@
 {
-  "updatedAt": "2026-09-25",
+  "updatedAt": "2026-10-02",
   "weekPicks": [
     "hans-zimmer-2026-10-20",
     "hisaishi-2026-11-25",
     "mphil-motus-animi-2026-10-11"
   ],
   "events": [
-    {
-      "id": "kunstdesign-markt-2026-09-26",
-      "titleOriginal": "Kunstdesign-Markt",
-      "title": {
-        "zh-TW": "藝術設計市集",
-        "en": "Art & Design Market",
-        "de": "Kunstdesign-Markt"
-      },
-      "summary": {
-        "zh-TW": "160 多個攤位，賣手作商品和在地產品，還有街頭小吃。",
-        "en": "160+ stalls with handmade goods, regional products and street food.",
-        "de": "Über 160 Ausstellende mit Handgemachtem, regionalen Produkten und Streetfood."
-      },
-      "category": "festival",
-      "tags": [
-        "market"
-      ],
-      "start": "2026-09-26",
-      "end": "2026-09-27",
-      "venue": "MVG Museum",
-      "city": "München",
-      "distance": "city",
-      "price": "€7",
-      "language": "none-needed",
-      "links": {
-        "official": "https://www.in-muenchen.de/events/kunst-design-markt.html"
-      },
-      "verifiedAt": "2026-09-25"
-    },
-    {
-      "id": "bauernmarktmeile-2026-09-27",
-      "titleOriginal": "Bauernmarktmeile München",
-      "title": {
-        "zh-TW": "巴伐利亞農夫市集大道",
-        "en": "Farmers' Market Mile",
-        "de": "Bauernmarktmeile München"
-      },
-      "summary": {
-        "zh-TW": "巴伐利亞農家沿著 Ludwigstraße 擺攤，直接販售自家農產和食品。",
-        "en": "Bavarian farmers sell their own produce along Ludwigstraße and Galeriestraße.",
-        "de": "Bayerische Direktvermarkter entlang Ludwig- und Galeriestraße."
-      },
-      "category": "festival",
-      "tags": [
-        "market",
-        "food",
-        "free"
-      ],
-      "start": "2026-09-27",
-      "end": null,
-      "venue": "Odeonsplatz",
-      "city": "München",
-      "distance": "city",
-      "price": null,
-      "language": "none-needed",
-      "links": {
-        "official": "https://www.in-muenchen.de/events/bauernmarktmeile.html"
-      },
-      "verifiedAt": "2026-09-25"
-    },
     {
       "id": "oktoberfest-2026",
       "titleOriginal": "191. Oktoberfest",
@@ -93,7 +33,7 @@
       "links": {
         "official": "https://www.oktoberfest.de/en"
       },
-      "verifiedAt": "2026-09-25"
+      "verifiedAt": "2026-10-02"
     },
     {
       "id": "korean-mysteries-2026",
@@ -122,7 +62,7 @@
       "links": {
         "official": "https://www.muenchner-stadtmuseum.de/sammlungen/filmmuseum/filmreihen/korean-mysteries"
       },
-      "verifiedAt": "2026-09-25"
+      "verifiedAt": "2026-10-02"
     },
     {
       "id": "nuernberg-pop-2026",
@@ -151,7 +91,7 @@
       "links": {
         "official": "https://www.nuernberg-pop.com/"
       },
-      "verifiedAt": "2026-09-25"
+      "verifiedAt": "2026-10-02"
     },
     {
       "id": "residenzwoche-2026",
@@ -178,7 +118,7 @@
       "links": {
         "official": "https://www.residenzwoche.de/"
       },
-      "verifiedAt": "2026-09-25"
+      "verifiedAt": "2026-10-02"
     },
     {
       "id": "lange-nacht-museen-2026",
@@ -205,7 +145,7 @@
       "links": {
         "official": "https://www.muenchen.de/veranstaltungen/freizeit/ausstellungen/die-lange-nacht-der-muenchner-museen-2026"
       },
-      "verifiedAt": "2026-09-25"
+      "verifiedAt": "2026-10-02"
     },
     {
       "id": "auer-dult-herbst-2026",
@@ -235,7 +175,7 @@
       "links": {
         "official": "https://www.auerdult.de/"
       },
-      "verifiedAt": "2026-09-25"
+      "verifiedAt": "2026-10-02"
     },
     {
       "id": "hans-zimmer-2026-10-20",
@@ -265,7 +205,7 @@
         "official": "https://www.olympiapark.de/en/events/the-world-of-hans-zimmer-n4924",
         "tickets": "https://www.muenchenticket.de/event/the-world-of-hans-zimmer-32680/"
       },
-      "verifiedAt": "2026-09-25"
+      "verifiedAt": "2026-10-02"
     },
     {
       "id": "voice-passion-2026-10-23",
@@ -294,7 +234,7 @@
       "links": {
         "official": "https://www.in-muenchen.de/events/voice-passion-songs-from-outlander-vikings-the-last-kingdom.html"
       },
-      "verifiedAt": "2026-09-25"
+      "verifiedAt": "2026-10-02"
     },
     {
       "id": "barcelona-moderna-2026",
@@ -321,7 +261,7 @@
       "links": {
         "official": "https://www.kunsthalle-muc.de/barcelona/"
       },
-      "verifiedAt": "2026-09-25"
+      "verifiedAt": "2026-10-02"
     },
     {
       "id": "nuejazz-2026",
@@ -350,7 +290,7 @@
       "links": {
         "official": "https://www.nuejazz.de/de"
       },
-      "verifiedAt": "2026-09-25"
+      "verifiedAt": "2026-10-02"
     },
     {
       "id": "mucho-2026",
@@ -361,16 +301,16 @@
         "de": "MUCHO – Munich Chocolate Festival"
       },
       "summary": {
-        "zh-TW": "約 50 個巧克力攤位，還有現場展示。兩個來源寫的場地不同，出發前請再確認。",
-        "en": "About 50 chocolate exhibitors plus shows. Sources list different venues – double-check before going.",
-        "de": "Rund 50 Ausstellende mit Schokolade und Shows. Quellen nennen unterschiedliche Orte – bitte prüfen."
+        "zh-TW": "約 50 個巧克力攤位，還有現場展示，只有週六 10/24 一天。兩個來源寫的場地不同，出發前請再確認。",
+        "en": "About 50 chocolate exhibitors plus shows, Saturday 24 Oct only. Sources list different venues – double-check before going.",
+        "de": "Rund 50 Ausstellende mit Schokolade und Shows, nur Samstag 24.10. Quellen nennen unterschiedliche Orte – bitte prüfen."
       },
       "category": "festival",
       "tags": [
         "food"
       ],
       "start": "2026-10-24",
-      "end": "2026-10-25",
+      "end": null,
       "venue": "Alte Paketposthalle / Pineapple Park",
       "city": "München",
       "distance": "city",
@@ -379,7 +319,7 @@
       "links": {
         "official": "https://www.in-muenchen.de/maerkte"
       },
-      "verifiedAt": "2026-09-21"
+      "verifiedAt": "2026-10-02"
     },
     {
       "id": "faust-100-2026-10-25",
@@ -408,7 +348,7 @@
       "links": {
         "official": "https://www.muenchner-stadtmuseum.de/sammlungen/filmmuseum/filmreihen"
       },
-      "verifiedAt": "2026-09-21"
+      "verifiedAt": "2026-10-02"
     },
     {
       "id": "maria-jarema-2026",
@@ -435,7 +375,7 @@
       "links": {
         "official": "https://www.muenchen.de/sehenswuerdigkeiten/museen/vorschau-der-muenchner-museen-2026-2-jahreshaelfte"
       },
-      "verifiedAt": "2026-09-21"
+      "verifiedAt": "2026-10-02"
     },
     {
       "id": "brso-harmoniemusik-2026-10-31",
@@ -756,22 +696,22 @@
       "venue": "Isarphilharmonie (Gasteig HP8)",
       "city": "München",
       "distance": "city",
-      "price": null,
+      "price": "from €79.90",
       "language": "none-needed",
       "hardToGet": {
         "reason": {
-          "zh-TW": "久石讓本人親自登台指揮，機會難得，建議盡早購票。",
-          "en": "Hisaishi conducting in person is a rare chance – book early.",
-          "de": "Hisaishi live am Pult ist selten – früh buchen."
+          "zh-TW": "久石讓本人親自登台指揮，機會難得；Gasteig 頁面說售票資訊「稍後公布」，但票務網站顯示預售已結束，請向 Gasteig 確認。",
+          "en": "Hisaishi conducting in person is a rare chance. Gasteig says ticket info will follow, but the ticket site shows advance sales ended – check with Gasteig.",
+          "de": "Hisaishi live am Pult ist selten. Gasteig kündigt Ticketinfos an, die Ticketseite zeigt den Vorverkauf als beendet – bitte beim Gasteig nachfragen."
         },
         "saleStart": null,
-        "saleStatus": "on-sale"
+        "saleStatus": null
       },
       "links": {
         "official": "https://www.gasteig.de/en/events/joe-hisaishis-world-dream-tour/",
         "tickets": "https://www.muenchenmusik.de/mm/veranstaltungen/joe-hisaishis-world-dream-tour-251126"
       },
-      "verifiedAt": "2026-09-21"
+      "verifiedAt": "2026-10-02"
     },
     {
       "id": "marchenbazar-2026",
@@ -975,7 +915,7 @@
       "links": {
         "official": "https://www.muenchen.de/sehenswuerdigkeiten/museen/vorschau-der-muenchner-museen-2026-2-jahreshaelfte"
       },
-      "verifiedAt": "2026-09-21"
+      "verifiedAt": "2026-10-02"
     },
     {
       "id": "zelda-40th-tba",
@@ -986,9 +926,9 @@
         "de": "The Legend of Zelda 40th Anniversary Concert"
       },
       "summary": {
-        "zh-TW": "薩爾達 40 週年巡迴音樂會。目前只公布 2027 年 2 月起的英美和瑞典場次，德國場次尚未公布。",
-        "en": "Zelda 40th-anniversary concert tour. Only US/UK/Sweden dates from Feb 2027 so far; German dates TBA.",
-        "de": "Zelda-Jubiläumstour. Bisher nur Termine in USA/UK/Schweden ab Feb. 2027; Deutschland folgt."
+        "zh-TW": "薩爾達 40 週年巡迴音樂會。官方頁面仍寫德國等場次「規劃中」；已公布的有美加、澳洲、倫敦、斯德哥爾摩、愛丁堡、格拉斯哥（2027），多場已售罄。",
+        "en": "Zelda 40th-anniversary concert tour. Germany is still only \"in planning\"; announced so far are US/Canada, Australia, London, Stockholm, Edinburgh and Glasgow (2027), many already sold out.",
+        "de": "Zelda-Jubiläumstour. Deutschland ist weiter nur „in Planung“; bisher US/Kanada, Australien, London, Stockholm, Edinburgh, Glasgow (2027), viele ausverkauft."
       },
       "category": "gaming",
       "tags": [
@@ -1014,7 +954,7 @@
       "links": {
         "official": "https://zelda.gameconcerts.com/de/"
       },
-      "verifiedAt": "2026-09-21"
+      "verifiedAt": "2026-10-02"
     },
     {
       "id": "christkindlesmarkt-nuernberg-2026",
@@ -1105,7 +1045,7 @@
       "links": {
         "official": "https://www.flohmarkt-riem.com/"
       },
-      "verifiedAt": "2026-09-25"
+      "verifiedAt": "2026-10-02"
     },
     {
       "id": "sound-zimmer-williams-2027-03",
@@ -1143,7 +1083,7 @@
       "links": {
         "official": "https://www.muenchenmusik.de/me/veranstaltungen/sound-hans-zimmer-john-williams-202627"
       },
-      "verifiedAt": "2026-09-25"
+      "verifiedAt": "2026-10-02"
     },
     {
       "id": "mphil-motus-animi-2026-10-11",
@@ -1167,13 +1107,13 @@
       "venue": "Festsaal, Münchner Künstlerhaus",
       "city": "München",
       "distance": "city",
-      "price": null,
+      "price": "€25 (€11 under 30)",
       "language": "none-needed",
       "links": {
         "official": "https://www.mphil.de/en/concerts-tickets/calendar/concerts/motus-animi-continuus-bach-fasch-vivaldi-haendel-telemann-2026-10-11-11-00-00",
         "tickets": "https://tickets.muenchenticket.net/shop/142/link/event/445477?language=2"
       },
-      "verifiedAt": "2026-09-25"
+      "verifiedAt": "2026-10-02"
     },
     {
       "id": "jazzfest-muenchen-2026",
@@ -1258,7 +1198,7 @@
       "links": {
         "official": "https://smaek.de/ausstellungen/aegypten-geschichte-und-modernitaet/"
       },
-      "verifiedAt": "2026-09-25"
+      "verifiedAt": "2026-10-02"
     },
     {
       "id": "blauer-reiter-lenbachhaus-2026",
@@ -1285,90 +1225,7 @@
       "links": {
         "official": "https://www.lenbachhaus.de/en/program/exhibitions/details/ueber-die-welt-hinaus-der-blaue-reiter"
       },
-      "verifiedAt": "2026-09-25"
-    },
-    {
-      "id": "turner-van-gogh-alte-pinakothek",
-      "titleOriginal": "Von Turner bis van Gogh",
-      "title": {
-        "zh-TW": "從透納到梵谷：新繪畫陳列館名作展",
-        "en": "From Turner to van Gogh",
-        "de": "Von Turner bis van Gogh"
-      },
-      "summary": {
-        "zh-TW": "新繪畫陳列館整修期間，其 19 世紀名作（Caspar David Friedrich、馬奈、莫內、塞尚、梵谷）暫時在舊繪畫陳列館展出；週日門票只要 €1。",
-        "en": "19th-century masterpieces of the closed Neue Pinakothek (Friedrich, Manet, Monet, Cézanne, van Gogh) shown as guests in the Alte Pinakothek; €1 on Sundays.",
-        "de": "Meisterwerke der geschlossenen Neuen Pinakothek (Friedrich, Manet, Monet, Cézanne, van Gogh) zu Gast in der Alten Pinakothek; sonntags €1."
-      },
-      "category": "exhibition",
-      "tags": [],
-      "start": "2024-12-18",
-      "end": "2026-12-31",
-      "venue": "Alte Pinakothek",
-      "city": "München",
-      "distance": "city",
-      "price": "€9 (Sun €1)",
-      "language": "none-needed",
-      "links": {
-        "official": "https://www.pinakothek.de/en/from-turner-to-van-gogh"
-      },
-      "verifiedAt": "2026-09-25"
-    },
-    {
-      "id": "homo-mobilis-verkehrszentrum-2026",
-      "titleOriginal": "Homo Mobilis – Fotografien von Martin Roemers",
-      "title": {
-        "zh-TW": "Homo Mobilis：人與交通工具攝影展",
-        "en": "Homo Mobilis – Photographs by Martin Roemers",
-        "de": "Homo Mobilis – Fotografien von Martin Roemers"
-      },
-      "summary": {
-        "zh-TW": "荷蘭攝影師 Martin Roemers 在白色背景前拍攝世界各地的人和他們的交通工具，探討移動文化。10/31 閉展。",
-        "en": "Dutch photographer Martin Roemers portrays people worldwide with their vehicles against white backdrops, exploring mobility culture. Closes 31 Oct.",
-        "de": "Martin Roemers porträtiert Menschen weltweit mit ihren Fahrzeugen vor weißem Hintergrund. Nur noch bis 31.10."
-      },
-      "category": "exhibition",
-      "tags": [],
-      "start": "2026-04-24",
-      "end": "2026-10-31",
-      "venue": "Deutsches Museum Verkehrszentrum",
-      "city": "München",
-      "distance": "city",
-      "price": null,
-      "language": "none-needed",
-      "links": {
-        "official": "https://www.deutsches-museum.de/verkehrszentrum/ausstellungen/sonderausstellungen"
-      },
-      "verifiedAt": "2026-09-25"
-    },
-    {
-      "id": "retrogamescon-nuernberg-2026-09-26",
-      "titleOriginal": "RetroGamesCon Nürnberg",
-      "title": {
-        "zh-TW": "紐倫堡復古電玩展",
-        "en": "RetroGamesCon Nuremberg",
-        "de": "RetroGamesCon Nürnberg"
-      },
-      "summary": {
-        "zh-TW": "復古電玩跳蚤市場兼展覽：買賣 70–2000 年代的主機、C64/Amiga/Atari 電腦與遊戲，現場有可試玩的機台、瑪利歐賽車比賽和電玩問答。",
-        "en": "Retro-gaming market and expo: dealers selling vintage consoles, C64/Amiga/Atari computers and games from the 70s–2000s, plus playable stations, a Mario Kart tournament and a quiz.",
-        "de": "Retro-Gaming-Börse: Händler mit Konsolen, C64/Amiga/Atari und Spielen der 70er bis 2000er, dazu Spielstationen, Mario-Kart-Turnier und Quiz."
-      },
-      "category": "gaming",
-      "tags": [
-        "convention"
-      ],
-      "start": "2026-09-26T11:00",
-      "end": "2026-09-26T16:00",
-      "venue": "Gemeinschaftshaus Langwasser",
-      "city": "Nürnberg",
-      "distance": "daytrip",
-      "price": "€4–8",
-      "language": "none-needed",
-      "links": {
-        "official": "https://retrogamescon.de/"
-      },
-      "verifiedAt": "2026-09-25"
+      "verifiedAt": "2026-10-02"
     },
     {
       "id": "spielwiesn-2026",
@@ -1548,7 +1405,7 @@
       "links": {
         "official": "https://www.muenchner-stadtmuseum.de/sammlungen/filmmuseum/filmreihen/humphrey-bogart"
       },
-      "verifiedAt": "2026-09-25"
+      "verifiedAt": "2026-10-02"
     },
     {
       "id": "standup-drehleier-2026-10-31",
@@ -1630,6 +1487,269 @@
         "official": "https://www.museum-fuenf-kontinente.de/besuch/ausstellungen/vorschau/kabuki-schauspiel-drucke-fankultur"
       },
       "verifiedAt": "2026-09-25"
+    },
+    {
+      "id": "holiday-in-concert-2026-12-25",
+      "verifiedAt": "2026-10-02",
+      "titleOriginal": "Liebe braucht keine Ferien – in Concert",
+      "title": {
+        "zh-TW": "《愛是你，愛是我》（The Holiday）電影配樂音樂會",
+        "en": "The Holiday – Live in Concert",
+        "de": "Liebe braucht keine Ferien – in Concert"
+      },
+      "summary": {
+        "zh-TW": "布拉格皇家愛樂現場演奏漢斯・季默的《愛是你，愛是我》配樂並同步放映電影，英語原音配德文字幕；共兩場：12/25 與 12/26。",
+        "en": "The Prague Royal Philharmonic plays Hans Zimmer's score live to the film, shown in English with German subtitles. Two shows: 25 and 26 Dec.",
+        "de": "Das Prague Royal Philharmonic spielt Hans Zimmers Filmmusik live zum Film (englisches Original mit deutschen Untertiteln). Zwei Termine: 25. und 26.12."
+      },
+      "category": "music",
+      "tags": [
+        "film-score"
+      ],
+      "start": "2026-12-25T19:30",
+      "end": "2026-12-26T19:30",
+      "venue": "Isarphilharmonie (Gasteig HP8)",
+      "city": "München",
+      "distance": "city",
+      "price": null,
+      "language": "english",
+      "links": {
+        "official": "https://www.in-muenchen.de/events/liebe-braucht-keine-ferien-in-concert.html"
+      }
+    },
+    {
+      "id": "ghibli-concert-nuernberg-2026-10-08",
+      "verifiedAt": "2026-10-02",
+      "titleOriginal": "Studio Ghibli in Concert – A symphonic homage to the best of Japanese anime",
+      "title": {
+        "zh-TW": "吉卜力交響音樂會（紐倫堡）",
+        "en": "Studio Ghibli in Concert (Nuremberg)",
+        "de": "Studio Ghibli in Concert (Nürnberg)"
+      },
+      "summary": {
+        "zh-TW": "以久石讓的吉卜力配樂為主的交響致敬演出，搭配舞台視覺；並非久石讓本人出演。",
+        "en": "A symphonic tribute to Joe Hisaishi's Studio Ghibli music with staged visuals; Hisaishi himself does not appear.",
+        "de": "Symphonische Hommage an Joe Hisaishis Studio-Ghibli-Musik mit Bühnenvisuals; Hisaishi selbst tritt nicht auf."
+      },
+      "category": "music",
+      "tags": [
+        "film-score",
+        "anime"
+      ],
+      "start": "2026-10-08T19:30",
+      "end": null,
+      "venue": "Meistersingerhalle",
+      "city": "Nürnberg",
+      "distance": "daytrip",
+      "price": "from €70",
+      "language": "none-needed",
+      "links": {
+        "official": "https://www.mvp.de/nuernberg/veranstaltungen/studio-ghibli-in-concert-a-symphonic-homage-to-the-best-nuernberg/",
+        "tickets": "https://www.eventim.de/noapp/event/20965844/"
+      }
+    },
+    {
+      "id": "can-you-imagine-part-2-2026",
+      "verifiedAt": "2026-10-02",
+      "titleOriginal": "Can You Imagine? | Part II",
+      "title": {
+        "zh-TW": "Can You Imagine? 第二部：1945 年後的藝術",
+        "en": "Can You Imagine? | Part II",
+        "de": "Can You Imagine? | Part II"
+      },
+      "summary": {
+        "zh-TW": "現代美術館館藏重新佈展，第二部新增 1945 年後的展廳（11–17 室），展出 Warhol、Richter、Trockel 等人的作品；展籤有英德雙語。",
+        "en": "A new rehang of the collection adds the post-1945 rooms (11–17) with works by Warhol, Richter, Trockel and others; English and German texts.",
+        "de": "Neupräsentation der Sammlung: Teil II ergänzt die Räume zur Kunst nach 1945 (11–17) u. a. mit Warhol, Richter, Trockel; Deutsch und Englisch."
+      },
+      "category": "exhibition",
+      "tags": [],
+      "start": "2026-10-08",
+      "end": null,
+      "venue": "Pinakothek der Moderne",
+      "city": "München",
+      "distance": "city",
+      "price": "€10 (€1 on Sundays)",
+      "language": "none-needed",
+      "links": {
+        "official": "https://www.pinakothek-der-moderne.de/en/exhibitions/can-you-imagine/",
+        "tickets": "https://pinakothek.shop/#/tickets/time?museum_id=3&group=day"
+      }
+    },
+    {
+      "id": "stonehenge-asm-2026",
+      "verifiedAt": "2026-10-02",
+      "titleOriginal": "STONEHENGE. Uralte Geheimnisse, neue Entdeckungen",
+      "title": {
+        "zh-TW": "巨石陣：古老的秘密與新發現",
+        "en": "STONEHENGE. Ancient secrets, new discoveries",
+        "de": "STONEHENGE. Uralte Geheimnisse, neue Entdeckungen"
+      },
+      "summary": {
+        "zh-TW": "約 600 件原件與複製品，說明巨石陣如何興建，並展出巴伐利亞出土文物（如奧格斯堡附近墓葬的波羅的海琥珀）；展覽語言為德語。",
+        "en": "About 600 originals and replicas on how Stonehenge was built, plus Bavarian finds such as Baltic amber from a burial near Augsburg; exhibition text in German.",
+        "de": "Rund 600 Originale und Repliken zum Bau von Stonehenge sowie bayerische Funde wie baltischer Bernstein aus einem Grab bei Augsburg."
+      },
+      "category": "exhibition",
+      "tags": [],
+      "start": "2026-09-18",
+      "end": "2027-08-29",
+      "venue": "Archäologische Staatssammlung",
+      "city": "München",
+      "distance": "city",
+      "price": null,
+      "language": "unknown",
+      "links": {
+        "official": "https://www.muenchen.de/veranstaltungen/freizeit/ausstellungen/stonehenge-uralte-geheimnisse-neue-entdeckungen"
+      }
+    },
+    {
+      "id": "underdox-2026",
+      "verifiedAt": "2026-10-02",
+      "titleOriginal": "21. UNDER|DOX",
+      "title": {
+        "zh-TW": "UNDER|DOX 紀錄與實驗電影節（第 21 屆）",
+        "en": "UNDER|DOX documentary & experimental film festival (21st)",
+        "de": "21. UNDER|DOX"
+      },
+      "summary": {
+        "zh-TW": "今年主題「Remembering」，包含短片單元、巴西與波隆那影像典藏專題；頁面標示德英雙語節目，各片是否有英文字幕未列明。",
+        "en": "Theme \"Remembering\": short-film programmes, a Brazil focus and a Bologna-archives focus. Programme listed in German and English; per-film subtitles not stated.",
+        "de": "Thema „Remembering“: Kurzfilmprogramme, Fokus Brasilien und Archive Bologna. Programm auf Deutsch und Englisch; Untertitel je Film nicht angegeben."
+      },
+      "category": "stage",
+      "tags": [
+        "film"
+      ],
+      "start": "2026-10-08",
+      "end": "2026-10-14",
+      "venue": "Filmmuseum München, Werkstattkino, Villa Stuck",
+      "city": "München",
+      "distance": "city",
+      "price": null,
+      "language": "unknown",
+      "links": {
+        "official": "https://underdox-festival.de/en/"
+      }
+    },
+    {
+      "id": "english-comedy-imal-2026-10-10",
+      "verifiedAt": "2026-10-02",
+      "titleOriginal": "English Comedy Mixed Show @IMAL",
+      "title": {
+        "zh-TW": "英語脫口秀綜合場 @IMAL",
+        "en": "English Comedy Mixed Show @IMAL",
+        "de": "English Comedy Mixed Show @IMAL"
+      },
+      "summary": {
+        "zh-TW": "來自慕尼黑與世界各地的喜劇演員輪番上場，全程英語；另有 11/13 場。",
+        "en": "Handpicked comedians from Munich and around the world in an English-language stand-up bill; a second show follows on 13 Nov.",
+        "de": "Handverlesene Comedians aus München und der Welt, auf Englisch; weiterer Termin am 13.11."
+      },
+      "category": "stage",
+      "tags": [],
+      "start": "2026-10-10T20:00",
+      "end": null,
+      "venue": "International Munich ArtLab (Musiktheater)",
+      "city": "München",
+      "distance": "city",
+      "price": null,
+      "language": "english",
+      "links": {
+        "official": "https://www.in-muenchen.de/events/english-comedy-mixed-show-at-imal.html",
+        "tickets": "https://www.eventim.de/noapp/event/22066305/?affiliate=XMU"
+      }
+    },
+    {
+      "id": "japandult-2026-12-13",
+      "verifiedAt": "2026-10-02",
+      "titleOriginal": "Japandult München",
+      "title": {
+        "zh-TW": "慕尼黑日本文化市集 Japandult（第 23 屆）",
+        "en": "Japandult Munich (23rd edition)",
+        "de": "Japandult München"
+      },
+      "summary": {
+        "zh-TW": "50 多個攤位販售和服、陶器、漫畫動漫周邊與日本小吃，有舞台表演，以及摺紙、漫畫、插花、書法工作坊。",
+        "en": "Japanese culture market with 50+ exhibitors (kimonos, ceramics, manga/anime, street food), stage acts and workshops in origami, manga drawing, ikebana and calligraphy.",
+        "de": "Japanischer Kulturmarkt mit 50+ Ausstellenden (Kimono, Keramik, Manga/Anime, Streetfood), Bühnenprogramm und Workshops (Origami, Manga, Ikebana, Kalligrafie)."
+      },
+      "category": "asia",
+      "tags": [
+        "market",
+        "anime"
+      ],
+      "start": "2026-12-13",
+      "end": null,
+      "venue": "Alte Kongresshalle",
+      "city": "München",
+      "distance": "city",
+      "price": null,
+      "language": "unknown",
+      "links": {
+        "official": "https://www.in-muenchen.de/?p=646799"
+      }
+    },
+    {
+      "id": "japanische-filmreihe-2026",
+      "verifiedAt": "2026-10-02",
+      "titleOriginal": "Japanische Filmreihe 2026",
+      "title": {
+        "zh-TW": "日本電影系列 2026（Gasteig Projektor）",
+        "en": "Japanese film series 2026",
+        "de": "Japanische Filmreihe 2026"
+      },
+      "summary": {
+        "zh-TW": "日德協會與慕尼黑市立圖書館每月放映：10/9《Die Katzen vom Gokogu-Schrein》、11/13《Winter in Sokcho》、12/11《崖上的波妞》（德語配音）；原語附字幕，是否英文字幕未明。",
+        "en": "Monthly screenings: 9 Oct Die Katzen vom Gokogu-Schrein, 13 Nov Winter in Sokcho, 11 Dec Ponyo (German dub). Original with subtitles, English subs not confirmed.",
+        "de": "Monatliche Vorführungen: 9.10. Die Katzen vom Gokogu-Schrein, 13.11. Winter in Sokcho, 11.12. Ponyo (deutsche Fassung); OmdtU/OmeU, Untertitelsprache unklar."
+      },
+      "category": "asia",
+      "tags": [
+        "film",
+        "anime"
+      ],
+      "start": "2026-10-09T19:00",
+      "end": "2026-12-11T19:00",
+      "venue": "Gasteig HP8 – Projektor",
+      "city": "München",
+      "distance": "city",
+      "price": null,
+      "language": "unknown",
+      "links": {
+        "official": "https://www.in-muenchen.de/events/japanische-filmreihe.html",
+        "tickets": "https://www.muenchenticket.de/event/japanische-filmreihe-2026-36047/"
+      }
+    },
+    {
+      "id": "jazz-and-the-citysounds-salzburg-2026",
+      "verifiedAt": "2026-10-02",
+      "titleOriginal": "Jazz&TheCitysounds 2026",
+      "title": {
+        "zh-TW": "薩爾茨堡 Jazz&TheCitysounds 爵士音樂節",
+        "en": "Jazz&TheCitysounds Salzburg",
+        "de": "Jazz&TheCitysounds 2026"
+      },
+      "summary": {
+        "zh-TW": "約 140 位音樂人在老城區 20 個場地（教堂、酒吧、公共空間）演出爵士、世界音樂與電子，免費入場，另有「Blind Dates」即興合作。",
+        "en": "About 140 artists at 20 venues across Salzburg's old town (churches, wine bars, public spaces): jazz, world music and electronic, free admission, plus \"Blind Dates\".",
+        "de": "Rund 140 Künstler:innen an 20 Orten der Salzburger Altstadt (Kirchen, Weinbars, öffentliche Plätze): Jazz, Weltmusik, Elektronik, freier Eintritt, plus „Blind Dates“."
+      },
+      "category": "nearby",
+      "tags": [
+        "music",
+        "free"
+      ],
+      "start": "2026-10-15",
+      "end": "2026-10-18",
+      "venue": "Altstadt Salzburg (various venues)",
+      "city": "Salzburg",
+      "distance": "daytrip",
+      "price": "free",
+      "language": "none-needed",
+      "links": {
+        "official": "https://salzburg.info/de/veranstaltungen/highlights/jazz-and-the-city"
+      }
     }
   ]
 }
