@@ -100,6 +100,6 @@ Writing rules:
 4. Write the new `data/events.json` (2-space indent, UTF-8, trailing newline), set `updatedAt` to today.
 5. Run `node scripts/validate.mjs`. Fix every error it reports and re-run until it passes.
    **Never push a file that fails validation.**
-6. Commit to `main` with message `data: weekly update YYYY-MM-DD (N events)` and push to `origin main`.
+6. Commit to the default branch (`master`; the repo has no `main`) with message `data: weekly update YYYY-MM-DD (N events)` and push to `origin master`, even if the session names a feature branch, unless something is wrong (validation fails, merge conflict, push rejected). If so, push to the session branch instead and notify.
    Vercel deploys automatically on push.
 7. Finish with a short summary: number of events per category, week picks, and anything you could not verify.
