@@ -1,40 +1,11 @@
 {
-  "updatedAt": "2026-10-02",
+  "updatedAt": "2026-10-09",
   "weekPicks": [
     "hans-zimmer-2026-10-20",
     "hisaishi-2026-11-25",
     "mphil-motus-animi-2026-10-11"
   ],
   "events": [
-    {
-      "id": "oktoberfest-2026",
-      "titleOriginal": "191. Oktoberfest",
-      "title": {
-        "zh-TW": "慕尼黑啤酒節",
-        "en": "Oktoberfest",
-        "de": "191. Oktoberfest"
-      },
-      "summary": {
-        "zh-TW": "世界最大的啤酒節，有啤酒帳篷、遊樂設施和巴伐利亞傳統美食，最後一天是 10/4。",
-        "en": "The world's biggest beer festival: beer tents, rides and Bavarian food. Last day 4 Oct.",
-        "de": "Bierzelte, Fahrgeschäfte und bayerische Schmankerl – letzter Tag am 4. Oktober."
-      },
-      "category": "festival",
-      "tags": [
-        "food"
-      ],
-      "start": "2026-09-19",
-      "end": "2026-10-04",
-      "venue": "Theresienwiese",
-      "city": "München",
-      "distance": "city",
-      "price": null,
-      "language": "none-needed",
-      "links": {
-        "official": "https://www.oktoberfest.de/en"
-      },
-      "verifiedAt": "2026-10-02"
-    },
     {
       "id": "korean-mysteries-2026",
       "titleOriginal": "Korean Mysteries",
@@ -118,7 +89,7 @@
       "links": {
         "official": "https://www.residenzwoche.de/"
       },
-      "verifiedAt": "2026-10-02"
+      "verifiedAt": "2026-10-09"
     },
     {
       "id": "lange-nacht-museen-2026",
@@ -145,7 +116,7 @@
       "links": {
         "official": "https://www.muenchen.de/veranstaltungen/freizeit/ausstellungen/die-lange-nacht-der-muenchner-museen-2026"
       },
-      "verifiedAt": "2026-10-02"
+      "verifiedAt": "2026-10-09"
     },
     {
       "id": "auer-dult-herbst-2026",
@@ -205,7 +176,7 @@
         "official": "https://www.olympiapark.de/en/events/the-world-of-hans-zimmer-n4924",
         "tickets": "https://www.muenchenticket.de/event/the-world-of-hans-zimmer-32680/"
       },
-      "verifiedAt": "2026-10-02"
+      "verifiedAt": "2026-10-09"
     },
     {
       "id": "voice-passion-2026-10-23",
@@ -234,7 +205,7 @@
       "links": {
         "official": "https://www.in-muenchen.de/events/voice-passion-songs-from-outlander-vikings-the-last-kingdom.html"
       },
-      "verifiedAt": "2026-10-02"
+      "verifiedAt": "2026-10-09"
     },
     {
       "id": "barcelona-moderna-2026",
@@ -261,7 +232,7 @@
       "links": {
         "official": "https://www.kunsthalle-muc.de/barcelona/"
       },
-      "verifiedAt": "2026-10-02"
+      "verifiedAt": "2026-10-09"
     },
     {
       "id": "nuejazz-2026",
@@ -375,7 +346,7 @@
       "links": {
         "official": "https://www.muenchen.de/sehenswuerdigkeiten/museen/vorschau-der-muenchner-museen-2026-2-jahreshaelfte"
       },
-      "verifiedAt": "2026-10-02"
+      "verifiedAt": "2026-10-09"
     },
     {
       "id": "brso-harmoniemusik-2026-10-31",
@@ -1113,7 +1084,7 @@
         "official": "https://www.mphil.de/en/concerts-tickets/calendar/concerts/motus-animi-continuus-bach-fasch-vivaldi-haendel-telemann-2026-10-11-11-00-00",
         "tickets": "https://tickets.muenchenticket.net/shop/142/link/event/445477?language=2"
       },
-      "verifiedAt": "2026-10-02"
+      "verifiedAt": "2026-10-09"
     },
     {
       "id": "jazzfest-muenchen-2026",
@@ -1518,65 +1489,6 @@
       }
     },
     {
-      "id": "ghibli-concert-nuernberg-2026-10-08",
-      "verifiedAt": "2026-10-02",
-      "titleOriginal": "Studio Ghibli in Concert – A symphonic homage to the best of Japanese anime",
-      "title": {
-        "zh-TW": "吉卜力交響音樂會（紐倫堡）",
-        "en": "Studio Ghibli in Concert (Nuremberg)",
-        "de": "Studio Ghibli in Concert (Nürnberg)"
-      },
-      "summary": {
-        "zh-TW": "以久石讓的吉卜力配樂為主的交響致敬演出，搭配舞台視覺；並非久石讓本人出演。",
-        "en": "A symphonic tribute to Joe Hisaishi's Studio Ghibli music with staged visuals; Hisaishi himself does not appear.",
-        "de": "Symphonische Hommage an Joe Hisaishis Studio-Ghibli-Musik mit Bühnenvisuals; Hisaishi selbst tritt nicht auf."
-      },
-      "category": "music",
-      "tags": [
-        "film-score",
-        "anime"
-      ],
-      "start": "2026-10-08T19:30",
-      "end": null,
-      "venue": "Meistersingerhalle",
-      "city": "Nürnberg",
-      "distance": "daytrip",
-      "price": "from €70",
-      "language": "none-needed",
-      "links": {
-        "official": "https://www.mvp.de/nuernberg/veranstaltungen/studio-ghibli-in-concert-a-symphonic-homage-to-the-best-nuernberg/",
-        "tickets": "https://www.eventim.de/noapp/event/20965844/"
-      }
-    },
-    {
-      "id": "can-you-imagine-part-2-2026",
-      "verifiedAt": "2026-10-02",
-      "titleOriginal": "Can You Imagine? | Part II",
-      "title": {
-        "zh-TW": "Can You Imagine? 第二部：1945 年後的藝術",
-        "en": "Can You Imagine? | Part II",
-        "de": "Can You Imagine? | Part II"
-      },
-      "summary": {
-        "zh-TW": "現代美術館館藏重新佈展，第二部新增 1945 年後的展廳（11–17 室），展出 Warhol、Richter、Trockel 等人的作品；展籤有英德雙語。",
-        "en": "A new rehang of the collection adds the post-1945 rooms (11–17) with works by Warhol, Richter, Trockel and others; English and German texts.",
-        "de": "Neupräsentation der Sammlung: Teil II ergänzt die Räume zur Kunst nach 1945 (11–17) u. a. mit Warhol, Richter, Trockel; Deutsch und Englisch."
-      },
-      "category": "exhibition",
-      "tags": [],
-      "start": "2026-10-08",
-      "end": null,
-      "venue": "Pinakothek der Moderne",
-      "city": "München",
-      "distance": "city",
-      "price": "€10 (€1 on Sundays)",
-      "language": "none-needed",
-      "links": {
-        "official": "https://www.pinakothek-der-moderne.de/en/exhibitions/can-you-imagine/",
-        "tickets": "https://pinakothek.shop/#/tickets/time?museum_id=3&group=day"
-      }
-    },
-    {
       "id": "stonehenge-asm-2026",
       "verifiedAt": "2026-10-02",
       "titleOriginal": "STONEHENGE. Uralte Geheimnisse, neue Entdeckungen",
@@ -1692,7 +1604,7 @@
     },
     {
       "id": "japanische-filmreihe-2026",
-      "verifiedAt": "2026-10-02",
+      "verifiedAt": "2026-10-09",
       "titleOriginal": "Japanische Filmreihe 2026",
       "title": {
         "zh-TW": "日本電影系列 2026（Gasteig Projektor）",
@@ -1750,6 +1662,44 @@
       "links": {
         "official": "https://salzburg.info/de/veranstaltungen/highlights/jazz-and-the-city"
       }
+    },
+    {
+      "id": "video-game-music-in-concert-2027-06-25",
+      "titleOriginal": "Video Game Music in Concert",
+      "title": {
+        "zh-TW": "電玩音樂音樂會（Video Game Music in Concert）",
+        "en": "Video Game Music in Concert",
+        "de": "Video Game Music in Concert"
+      },
+      "summary": {
+        "zh-TW": "慕尼黑廣播管弦樂團與 BR 合唱團在 Circus Krone 演出《Final Fantasy》、《Civilization》、《World of Warcraft》等遊戲配樂，指揮 Eímear Noone；同步線上直播。",
+        "en": "The Münchner Rundfunkorchester and BR Chor play music from Final Fantasy, Civilization, World of Warcraft and more at Circus Krone, conducted by Eímear Noone; also livestreamed.",
+        "de": "Münchner Rundfunkorchester und BR-Chor spielen im Circus Krone Musik aus Final Fantasy, Civilization, World of Warcraft u. a. unter Eímear Noone; mit Livestream."
+      },
+      "category": "music",
+      "tags": [
+        "game-music"
+      ],
+      "start": "2027-06-25T19:30",
+      "end": null,
+      "venue": "Circus-Krone-Bau",
+      "city": "München",
+      "distance": "city",
+      "price": null,
+      "language": "none-needed",
+      "hardToGet": {
+        "reason": {
+          "zh-TW": "遊戲配樂是優先類別；線上售票 2027/2/25 9:00 開賣，熱門場次可能很快賣完。",
+          "en": "Video-game music is a priority interest; online sales open 25 Feb 2027 at 9:00 and popular concerts can sell out fast.",
+          "de": "Videospielmusik ist ein Schwerpunkt; Online-Verkauf startet am 25.02.2027 um 9:00 Uhr, beliebte Konzerte sind schnell ausverkauft."
+        },
+        "saleStart": "2027-02-25",
+        "saleStatus": "announced"
+      },
+      "links": {
+        "official": "https://www.br-chor.de/konzerte/26-27-video-game-music/"
+      },
+      "verifiedAt": "2026-10-09"
     }
   ]
 }
