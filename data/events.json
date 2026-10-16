@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-09",
+  "updatedAt": "2026-10-16",
   "weekPicks": [
     "hans-zimmer-2026-10-20",
-    "hisaishi-2026-11-25",
-    "mphil-motus-animi-2026-10-11"
+    "brso-harmoniemusik-2026-10-31",
+    "hisaishi-2026-11-25"
   ],
   "events": [
     {
@@ -36,35 +36,6 @@
       "verifiedAt": "2026-10-02"
     },
     {
-      "id": "nuernberg-pop-2026",
-      "titleOriginal": "Nürnberg Pop Festival",
-      "title": {
-        "zh-TW": "紐倫堡流行音樂節",
-        "en": "Nuremberg Pop Festival",
-        "de": "Nürnberg Pop Festival"
-      },
-      "summary": {
-        "zh-TW": "德南最大的 club 與 showcase 音樂節，indie、pop、hip-hop 樂團分散在紐倫堡多個場地演出。",
-        "en": "Southern Germany's biggest club & showcase festival – indie, pop and hip-hop across many venues.",
-        "de": "Süddeutschlands größtes Club- und Showcasefestival mit Indie, Pop und Hip-Hop."
-      },
-      "category": "nearby",
-      "tags": [
-        "music"
-      ],
-      "start": "2026-10-08",
-      "end": "2026-10-10",
-      "venue": "Various venues",
-      "city": "Nürnberg",
-      "distance": "daytrip",
-      "price": null,
-      "language": "none-needed",
-      "links": {
-        "official": "https://www.nuernberg-pop.com/"
-      },
-      "verifiedAt": "2026-10-02"
-    },
-    {
       "id": "residenzwoche-2026",
       "titleOriginal": "Residenzwoche",
       "title": {
@@ -89,7 +60,7 @@
       "links": {
         "official": "https://www.residenzwoche.de/"
       },
-      "verifiedAt": "2026-10-09"
+      "verifiedAt": "2026-10-16"
     },
     {
       "id": "lange-nacht-museen-2026",
@@ -116,7 +87,7 @@
       "links": {
         "official": "https://www.muenchen.de/veranstaltungen/freizeit/ausstellungen/die-lange-nacht-der-muenchner-museen-2026"
       },
-      "verifiedAt": "2026-10-09"
+      "verifiedAt": "2026-10-16"
     },
     {
       "id": "auer-dult-herbst-2026",
@@ -146,7 +117,7 @@
       "links": {
         "official": "https://www.auerdult.de/"
       },
-      "verifiedAt": "2026-10-02"
+      "verifiedAt": "2026-10-16"
     },
     {
       "id": "hans-zimmer-2026-10-20",
@@ -176,7 +147,7 @@
         "official": "https://www.olympiapark.de/en/events/the-world-of-hans-zimmer-n4924",
         "tickets": "https://www.muenchenticket.de/event/the-world-of-hans-zimmer-32680/"
       },
-      "verifiedAt": "2026-10-09"
+      "verifiedAt": "2026-10-16"
     },
     {
       "id": "voice-passion-2026-10-23",
@@ -205,7 +176,7 @@
       "links": {
         "official": "https://www.in-muenchen.de/events/voice-passion-songs-from-outlander-vikings-the-last-kingdom.html"
       },
-      "verifiedAt": "2026-10-09"
+      "verifiedAt": "2026-10-16"
     },
     {
       "id": "barcelona-moderna-2026",
@@ -232,7 +203,7 @@
       "links": {
         "official": "https://www.kunsthalle-muc.de/barcelona/"
       },
-      "verifiedAt": "2026-10-09"
+      "verifiedAt": "2026-10-16"
     },
     {
       "id": "nuejazz-2026",
@@ -261,7 +232,7 @@
       "links": {
         "official": "https://www.nuejazz.de/de"
       },
-      "verifiedAt": "2026-10-02"
+      "verifiedAt": "2026-10-16"
     },
     {
       "id": "mucho-2026",
@@ -375,7 +346,7 @@
       "links": {
         "official": "https://www.brso.de/konzerte/kammerkonzert-vortreffliche-harmonie-musik/"
       },
-      "verifiedAt": "2026-09-21"
+      "verifiedAt": "2026-10-16"
     },
     {
       "id": "disney-in-concert-2026-11-06",
@@ -404,7 +375,7 @@
       "links": {
         "official": "https://www.in-muenchen.de/events/disney-in-concert-2026.html"
       },
-      "verifiedAt": "2026-09-21"
+      "verifiedAt": "2026-10-16"
     },
     {
       "id": "anime-songs-2026-11-08",
@@ -433,7 +404,7 @@
       "links": {
         "official": "https://www.in-muenchen.de/events/anime-songs-in-concert-next-level-tour-extended.html"
       },
-      "verifiedAt": "2026-09-21"
+      "verifiedAt": "2026-10-16"
     },
     {
       "id": "buecherschau-2026",
@@ -795,12 +766,12 @@
       "venue": "Isarphilharmonie (Gasteig HP8)",
       "city": "München",
       "distance": "city",
-      "price": "ab €79",
+      "price": "ab €90.90",
       "language": "none-needed",
       "links": {
         "official": "https://www.klassikradio.de/live-in-concert/termine/muenchen-01-12-2026/"
       },
-      "verifiedAt": "2026-09-21"
+      "verifiedAt": "2026-10-16"
     },
     {
       "id": "game-on-symphony-2026-12-04",
@@ -811,9 +782,9 @@
         "de": "Game On Symphony"
       },
       "summary": {
-        "zh-TW": "慕尼黑廣播管弦樂團的電玩音樂系列，這場的遊戲曲目頁面尚未公布。",
-        "en": "The Munich Radio Orchestra's video-game music series. Game line-up not yet published.",
-        "de": "Game-Musik-Reihe des Münchner Rundfunkorchesters. Spieleauswahl noch nicht veröffentlicht."
+        "zh-TW": "慕尼黑廣播樂團的電玩音樂系列，本場演奏《魔獸世界》、《異塵餘生》等遊戲配樂，James Aaron Hardwick 指揮，Twitch 同步直播。",
+        "en": "The Munich Radio Orchestra's video-game music series: music from World of Warcraft, Fallout and more, conducted by James Aaron Hardwick, livestreamed on Twitch.",
+        "de": "Videospielmusik mit dem Münchner Rundfunkorchester: Musik aus World of Warcraft, Fallout u. a., Leitung James Aaron Hardwick, live auf Twitch."
       },
       "category": "music",
       "tags": [
@@ -829,7 +800,7 @@
       "links": {
         "official": "https://www.in-muenchen.de/events/munchner-rundfunkorchester-202627-game-on-symphony.html"
       },
-      "verifiedAt": "2026-09-21"
+      "verifiedAt": "2026-10-16"
     },
     {
       "id": "anime-reimagined-2026-12-18",
@@ -1057,36 +1028,6 @@
       "verifiedAt": "2026-10-02"
     },
     {
-      "id": "mphil-motus-animi-2026-10-11",
-      "titleOriginal": "Kammerkonzert »Motus animi continuus«",
-      "title": {
-        "zh-TW": "慕尼黑愛樂室內樂：巴洛克之夜（含雙簧管）",
-        "en": "Munich Philharmonic chamber concert: Motus animi continuus",
-        "de": "Kammerkonzert »Motus animi continuus«"
-      },
-      "summary": {
-        "zh-TW": "五位慕尼黑愛樂團員演出巴赫、Fasch、韋瓦第、泰勒曼等巴洛克室內樂，雙簧管由 Marie-Luise Modersohn 擔綱，週日上午場。",
-        "en": "Five Munich Philharmonic musicians, incl. oboist Marie-Luise Modersohn, play Baroque chamber music by Bach, Fasch, Vivaldi, Handel and Telemann; Sunday matinee.",
-        "de": "Fünf Mitglieder der Münchner Philharmoniker, u. a. Oboistin Marie-Luise Modersohn, spielen Barock von Bach, Fasch, Vivaldi, Händel und Telemann; Matinee."
-      },
-      "category": "music",
-      "tags": [
-        "oboe"
-      ],
-      "start": "2026-10-11T11:00",
-      "end": null,
-      "venue": "Festsaal, Münchner Künstlerhaus",
-      "city": "München",
-      "distance": "city",
-      "price": "€25 (€11 under 30)",
-      "language": "none-needed",
-      "links": {
-        "official": "https://www.mphil.de/en/concerts-tickets/calendar/concerts/motus-animi-continuus-bach-fasch-vivaldi-haendel-telemann-2026-10-11-11-00-00",
-        "tickets": "https://tickets.muenchenticket.net/shop/142/link/event/445477?language=2"
-      },
-      "verifiedAt": "2026-10-09"
-    },
-    {
       "id": "jazzfest-muenchen-2026",
       "titleOriginal": "Jazzfest München 2026",
       "title": {
@@ -1226,7 +1167,7 @@
         "official": "https://spielwiesn.de/sw",
         "tickets": "https://www.eventim-light.com/de/a/5b4d9db6dadab30001799a40/"
       },
-      "verifiedAt": "2026-09-25"
+      "verifiedAt": "2026-10-16"
     },
     {
       "id": "frankenmexx-2026-11-14",
@@ -1257,7 +1198,7 @@
         "official": "https://frankenmexx.de/",
         "tickets": "https://tickets.animexx.de/frankenmexx-2026/"
       },
-      "verifiedAt": "2026-09-25"
+      "verifiedAt": "2026-10-16"
     },
     {
       "id": "tcg-halloween-convention-2026",
@@ -1287,7 +1228,7 @@
         "official": "https://tcgermany.de/messe-muenchen",
         "tickets": "https://tcgermany.ditix.shop/event/eyi9es3v9rcf53ef"
       },
-      "verifiedAt": "2026-09-25"
+      "verifiedAt": "2026-10-16"
     },
     {
       "id": "christkindlmarkt-salzburg-2026",
@@ -1430,7 +1371,7 @@
       "links": {
         "official": "https://entitytheatre.com/richard-iii-save-the-audition-date"
       },
-      "verifiedAt": "2026-09-25"
+      "verifiedAt": "2026-10-16"
     },
     {
       "id": "kabuki-museum-fuenf-kontinente-2026",
@@ -1457,7 +1398,7 @@
       "links": {
         "official": "https://www.museum-fuenf-kontinente.de/besuch/ausstellungen/vorschau/kabuki-schauspiel-drucke-fankultur"
       },
-      "verifiedAt": "2026-09-25"
+      "verifiedAt": "2026-10-16"
     },
     {
       "id": "holiday-in-concert-2026-12-25",
@@ -1513,63 +1454,6 @@
       "language": "unknown",
       "links": {
         "official": "https://www.muenchen.de/veranstaltungen/freizeit/ausstellungen/stonehenge-uralte-geheimnisse-neue-entdeckungen"
-      }
-    },
-    {
-      "id": "underdox-2026",
-      "verifiedAt": "2026-10-02",
-      "titleOriginal": "21. UNDER|DOX",
-      "title": {
-        "zh-TW": "UNDER|DOX 紀錄與實驗電影節（第 21 屆）",
-        "en": "UNDER|DOX documentary & experimental film festival (21st)",
-        "de": "21. UNDER|DOX"
-      },
-      "summary": {
-        "zh-TW": "今年主題「Remembering」，包含短片單元、巴西與波隆那影像典藏專題；頁面標示德英雙語節目，各片是否有英文字幕未列明。",
-        "en": "Theme \"Remembering\": short-film programmes, a Brazil focus and a Bologna-archives focus. Programme listed in German and English; per-film subtitles not stated.",
-        "de": "Thema „Remembering“: Kurzfilmprogramme, Fokus Brasilien und Archive Bologna. Programm auf Deutsch und Englisch; Untertitel je Film nicht angegeben."
-      },
-      "category": "stage",
-      "tags": [
-        "film"
-      ],
-      "start": "2026-10-08",
-      "end": "2026-10-14",
-      "venue": "Filmmuseum München, Werkstattkino, Villa Stuck",
-      "city": "München",
-      "distance": "city",
-      "price": null,
-      "language": "unknown",
-      "links": {
-        "official": "https://underdox-festival.de/en/"
-      }
-    },
-    {
-      "id": "english-comedy-imal-2026-10-10",
-      "verifiedAt": "2026-10-02",
-      "titleOriginal": "English Comedy Mixed Show @IMAL",
-      "title": {
-        "zh-TW": "英語脫口秀綜合場 @IMAL",
-        "en": "English Comedy Mixed Show @IMAL",
-        "de": "English Comedy Mixed Show @IMAL"
-      },
-      "summary": {
-        "zh-TW": "來自慕尼黑與世界各地的喜劇演員輪番上場，全程英語；另有 11/13 場。",
-        "en": "Handpicked comedians from Munich and around the world in an English-language stand-up bill; a second show follows on 13 Nov.",
-        "de": "Handverlesene Comedians aus München und der Welt, auf Englisch; weiterer Termin am 13.11."
-      },
-      "category": "stage",
-      "tags": [],
-      "start": "2026-10-10T20:00",
-      "end": null,
-      "venue": "International Munich ArtLab (Musiktheater)",
-      "city": "München",
-      "distance": "city",
-      "price": null,
-      "language": "english",
-      "links": {
-        "official": "https://www.in-muenchen.de/events/english-comedy-mixed-show-at-imal.html",
-        "tickets": "https://www.eventim.de/noapp/event/22066305/?affiliate=XMU"
       }
     },
     {
@@ -1700,6 +1584,89 @@
         "official": "https://www.br-chor.de/konzerte/26-27-video-game-music/"
       },
       "verifiedAt": "2026-10-09"
+    },
+    {
+      "id": "siegfried-staatsoper-2026-11-01",
+      "titleOriginal": "Siegfried (Richard Wagner) – Bayerische Staatsoper",
+      "title": {
+        "zh-TW": "華格納《齊格飛》（巴伐利亞國家歌劇院）",
+        "en": "Siegfried – Bavarian State Opera",
+        "de": "Siegfried – Bayerische Staatsoper"
+      },
+      "summary": {
+        "zh-TW": "Tobias Kratzer 導演、Vladimir Jurowski 指揮的《尼伯龍根的指環》新製作第三部，德語演唱，附德英文字幕。",
+        "en": "Wagner's Siegfried in the new Ring production directed by Tobias Kratzer and conducted by Vladimir Jurowski; sung in German with German and English surtitles.",
+        "de": "Wagners Siegfried in der Neuproduktion von Tobias Kratzer, Dirigent Vladimir Jurowski; auf Deutsch gesungen, mit deutschen und englischen Übertiteln."
+      },
+      "category": "stage",
+      "tags": [],
+      "start": "2026-11-01T16:00",
+      "end": null,
+      "venue": "Nationaltheater",
+      "city": "München",
+      "distance": "city",
+      "price": null,
+      "language": "en-subs",
+      "links": {
+        "official": "https://www.staatsoper.de/en/productions/siegfried/2026-11-01-1600-16126"
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "id": "magic-hans-zimmer-showpalast-2027-02-06",
+      "titleOriginal": "The Magic of Hans Zimmer – The Concert",
+      "title": {
+        "zh-TW": "The Magic of Hans Zimmer 音樂會",
+        "en": "The Magic of Hans Zimmer – The Concert",
+        "de": "The Magic of Hans Zimmer – The Concert"
+      },
+      "summary": {
+        "zh-TW": "Cinema Festival Symphonics 的管弦樂團、獨唱與合唱演奏《神鬼戰士》、《獅子王》、《全面啟動》、《黑暗騎士》等配樂，搭配同步動畫與燈光。",
+        "en": "Cinema Festival Symphonics orchestra, soloists and choir play Gladiator, The Lion King, Inception, The Dark Knight and more, with synchronised screen animations and lights.",
+        "de": "Orchester, Solisten und Chor der Cinema Festival Symphonics spielen Gladiator, Der König der Löwen, Inception, The Dark Knight u. a., mit Animationen und Lichteffekten."
+      },
+      "category": "music",
+      "tags": [
+        "film-score"
+      ],
+      "start": "2027-02-06T20:00",
+      "end": null,
+      "venue": "Showpalast München",
+      "city": "München",
+      "distance": "city",
+      "price": "ab €56.05",
+      "language": "none-needed",
+      "links": {
+        "official": "https://www.mvp.de/muenchen/veranstaltungen/the-magic-of-hans-zimmer-the-concert-showpalast-muenchen/"
+      },
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "id": "tropische-schmetterlinge-2026",
+      "titleOriginal": "Tropische Schmetterlinge",
+      "title": {
+        "zh-TW": "熱帶蝴蝶特展",
+        "en": "Tropical Butterflies",
+        "de": "Tropische Schmetterlinge"
+      },
+      "summary": {
+        "zh-TW": "慕尼黑植物園水生植物溫室的冬季特展，預告期間為 2026/12/12–2027/3/14（頁面未提供詳細內容；上一季為 400 多隻活體蝴蝶）。",
+        "en": "Winter special exhibition in the Botanischer Garten water-plant house, listed for 12 Dec 2026–14 Mar 2027 (no details yet; last season had 400+ live butterflies).",
+        "de": "Winterliche Sonderausstellung im Wasserpflanzenhaus des Botanischen Gartens, angekündigt für 12.12.2026–14.3.2027 (noch keine Details; letzte Saison über 400 lebende Falter)."
+      },
+      "category": "exhibition",
+      "tags": [],
+      "start": "2026-12-12",
+      "end": "2027-03-14",
+      "venue": "Botanischer Garten München-Nymphenburg",
+      "city": "München",
+      "distance": "city",
+      "price": null,
+      "language": "none-needed",
+      "links": {
+        "official": "https://www.muenchen.de/sehenswuerdigkeiten/museen/vorschau-der-muenchner-museen-2026-2-jahreshaelfte"
+      },
+      "verifiedAt": "2026-10-16"
     }
   ]
 }
