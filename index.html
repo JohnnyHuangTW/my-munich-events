@@ -15,7 +15,7 @@
 <body>
   <header class="topbar">
     <div class="topbar__inner">
-      <div class="brand">
+      <a class="brand" href="#">
         <svg class="brand__mark" viewBox="0 0 32 32" aria-hidden="true" focusable="false">
           <rect x="5" y="14" width="7" height="15" rx="2" fill="var(--accent)"/>
           <path d="M5 14 Q8.5 4 12 14 Z" fill="var(--c-exhibition)"/>
@@ -30,48 +30,55 @@
           <path d="M16 9.5 l1 2.6 2.6 1 -2.6 1 -1 2.6 -1 -2.6 -2.6 -1 2.6 -1 Z" fill="var(--c-asia)"/>
         </svg>
         <span class="brand__name" data-i18n="siteTitle">慕尼黑活動精選</span>
-      </div>
-      <div class="langswitch" role="group" aria-label="Language">
-        <button type="button" data-lang="zh-TW">
-          <svg class="flag" viewBox="0 0 20 14" aria-hidden="true">
-            <defs><clipPath id="flag-tw-clip"><rect width="20" height="14" rx="2"/></clipPath></defs>
-            <g clip-path="url(#flag-tw-clip)">
-              <rect width="20" height="14" fill="#fe0000"/>
-              <rect width="10" height="7" fill="#000095"/>
-              <circle cx="5" cy="3.5" r="1.9" fill="#fff"/>
-              <circle cx="5" cy="3.5" r=".9" fill="#000095"/>
-            </g>
-          </svg>
-          <span>繁中</span>
-        </button>
-        <button type="button" data-lang="en">
-          <svg class="flag" viewBox="0 0 20 14" aria-hidden="true">
-            <defs><clipPath id="flag-us-clip"><rect width="20" height="14" rx="2"/></clipPath></defs>
-            <g clip-path="url(#flag-us-clip)">
-              <rect width="20" height="14" fill="#fff"/>
-              <rect y="0" width="20" height="1.08" fill="#b22234"/>
-              <rect y="2.15" width="20" height="1.08" fill="#b22234"/>
-              <rect y="4.31" width="20" height="1.08" fill="#b22234"/>
-              <rect y="6.46" width="20" height="1.08" fill="#b22234"/>
-              <rect y="8.62" width="20" height="1.08" fill="#b22234"/>
-              <rect y="10.77" width="20" height="1.08" fill="#b22234"/>
-              <rect y="12.92" width="20" height="1.08" fill="#b22234"/>
-              <rect width="8" height="7.5" fill="#3c3b6e"/>
-            </g>
-          </svg>
-          <span>EN</span>
-        </button>
-        <button type="button" data-lang="de">
-          <svg class="flag" viewBox="0 0 20 14" aria-hidden="true">
-            <defs><clipPath id="flag-de-clip"><rect width="20" height="14" rx="2"/></clipPath></defs>
-            <g clip-path="url(#flag-de-clip)">
-              <rect width="20" height="4.67" y="0" fill="#000"/>
-              <rect width="20" height="4.67" y="4.67" fill="#dd0000"/>
-              <rect width="20" height="4.66" y="9.34" fill="#ffce00"/>
-            </g>
-          </svg>
-          <span>DE</span>
-        </button>
+      </a>
+      <div class="topbar__right">
+        <a class="newlink" id="newLink" href="#new">
+          <svg class="newlink__icon" viewBox="0 0 16 16" aria-hidden="true"><path d="M8 1.5 9.5 6.5 14.5 8 9.5 9.5 8 14.5 6.5 9.5 1.5 8 6.5 6.5Z"/></svg>
+          <span class="newlink__label" data-i18n="newNav">新上架</span>
+          <span class="newlink__count" id="newCount"></span>
+        </a>
+        <div class="langswitch" role="group" aria-label="Language">
+          <button type="button" data-lang="zh-TW">
+            <svg class="flag" viewBox="0 0 20 14" aria-hidden="true">
+              <defs><clipPath id="flag-tw-clip"><rect width="20" height="14" rx="2"/></clipPath></defs>
+              <g clip-path="url(#flag-tw-clip)">
+                <rect width="20" height="14" fill="#fe0000"/>
+                <rect width="10" height="7" fill="#000095"/>
+                <circle cx="5" cy="3.5" r="1.9" fill="#fff"/>
+                <circle cx="5" cy="3.5" r=".9" fill="#000095"/>
+              </g>
+            </svg>
+            <span>繁中</span>
+          </button>
+          <button type="button" data-lang="en">
+            <svg class="flag" viewBox="0 0 20 14" aria-hidden="true">
+              <defs><clipPath id="flag-us-clip"><rect width="20" height="14" rx="2"/></clipPath></defs>
+              <g clip-path="url(#flag-us-clip)">
+                <rect width="20" height="14" fill="#fff"/>
+                <rect y="0" width="20" height="1.08" fill="#b22234"/>
+                <rect y="2.15" width="20" height="1.08" fill="#b22234"/>
+                <rect y="4.31" width="20" height="1.08" fill="#b22234"/>
+                <rect y="6.46" width="20" height="1.08" fill="#b22234"/>
+                <rect y="8.62" width="20" height="1.08" fill="#b22234"/>
+                <rect y="10.77" width="20" height="1.08" fill="#b22234"/>
+                <rect y="12.92" width="20" height="1.08" fill="#b22234"/>
+                <rect width="8" height="7.5" fill="#3c3b6e"/>
+              </g>
+            </svg>
+            <span>EN</span>
+          </button>
+          <button type="button" data-lang="de">
+            <svg class="flag" viewBox="0 0 20 14" aria-hidden="true">
+              <defs><clipPath id="flag-de-clip"><rect width="20" height="14" rx="2"/></clipPath></defs>
+              <g clip-path="url(#flag-de-clip)">
+                <rect width="20" height="4.67" y="0" fill="#000"/>
+                <rect width="20" height="4.67" y="4.67" fill="#dd0000"/>
+                <rect width="20" height="4.66" y="9.34" fill="#ffce00"/>
+              </g>
+            </svg>
+            <span>DE</span>
+          </button>
+        </div>
       </div>
     </div>
   </header>
@@ -93,16 +100,28 @@
           <span data-i18n="calendarView">Calendar view</span>
         </button>
       </div>
-      <label class="search">
-        <svg viewBox="0 0 20 20" aria-hidden="true"><circle cx="9" cy="9" r="6"/><path d="m14 14 4 4"/></svg>
-        <input type="search" id="q" autocomplete="off">
-      </label>
+      <div class="toolbar__tools">
+        <label class="search">
+          <svg viewBox="0 0 20 20" aria-hidden="true"><circle cx="9" cy="9" r="6"/><path d="m14 14 4 4"/></svg>
+          <input type="search" id="q" autocomplete="off">
+        </label>
+        <button type="button" class="filterbtn" id="filterBtn" data-filter="open" aria-haspopup="dialog">
+          <svg viewBox="0 0 20 20" aria-hidden="true"><path d="M3 6h14M6 10h8M8.5 14h3"/></svg>
+          <span data-i18n="filter">篩選</span><span class="filterbtn__count" id="filterCount"></span>
+        </button>
+      </div>
     </div>
 
     <div class="filters">
-      <div class="chips" id="chips"></div>
+      <div class="filters__group">
+        <p class="filters__label" data-i18n="category"></p>
+        <div class="chips" id="chips"></div>
+      </div>
       <div class="filters__right">
-        <select id="distance" aria-label="Distance"></select>
+        <div class="filters__group">
+          <p class="filters__label" data-i18n="distance"></p>
+          <select id="distance" aria-label="Distance"></select>
+        </div>
         <label class="toggle">
           <input type="checkbox" id="englishOnly">
           <span class="toggle__track" aria-hidden="true"></span>
@@ -119,6 +138,17 @@
   <dialog id="detail" class="detail">
     <form method="dialog" class="detail__close"><button aria-label="Close">✕</button></form>
     <div id="detailBody"></div>
+  </dialog>
+
+  <dialog id="filterSheet" class="sheet" aria-labelledby="sheetTitle">
+    <div class="sheet__inner">
+      <div class="sheet__head">
+        <h2 id="sheetTitle" data-i18n="filters"></h2>
+        <button type="button" class="sheet__reset" data-filter="reset" data-i18n="reset"></button>
+      </div>
+      <div class="sheet__body" id="sheetBody"></div>
+      <button type="button" class="btn btn--primary sheet__done" id="sheetDone" data-filter="close"></button>
+    </div>
   </dialog>
 
   <script src="assets/app.js" type="module"></script>

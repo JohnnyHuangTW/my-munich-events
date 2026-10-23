@@ -7,13 +7,19 @@ const DISTANCES = ["city", "suburb", "daytrip"];
 const ENGLISH_FRIENDLY = new Set(["en-subs", "english", "none-needed"]);
 const LONG_RUN_DAYS = 14; // longer events show in the calendar's "ongoing" strip instead of every cell
 const TZ = "Europe/Berlin";
+const NEW_DAYS = 7; // "New" = added within a week of the latest update, so a re-run a day later keeps last Friday's batch
+const NEW_PAGE_UPDATES = 4; // how many update batches the #new page lists
+const mobile = matchMedia("(max-width: 720px)");
 
 const store = {
   get(k) { try { return localStorage.getItem(k); } catch { return null; } },
   set(k, v) { try { localStorage.setItem(k, v); } catch { /* private mode etc. */ } },
 };
 
+const pageFromHash = () => (location.hash === "#new" ? "new" : "home");
+
 const state = {
+  page: pageFromHash(),
   lang: pickLang(),
   view: store.get("view") === "calendar" ? "calendar" : "list",
   cats: new Set(),
@@ -70,6 +76,9 @@ function dateLabel(e) {
 
 /* ---------- Filtering & grouping ---------- */
 function isActive(e, today) { return e.tba || !e.start ? false : endDay(e) >= today; }
+const notPast = (e, today) => e.tba || !e.start || endDay(e) >= today;
+const isNew = (e) => !!e.addedAt && dayNum(state.data.updatedAt) - dayNum(e.addedAt) < NEW_DAYS;
+const filterCount = () => state.cats.size + (state.distance !== "all") + state.englishOnly;
 
 function matches(e) {
   if (state.cats.size && !state.cats.has(e.category)) return false;
@@ -102,6 +111,7 @@ const ICON = {
   cal: '<svg viewBox="0 0 16 16"><rect x="2" y="3" width="12" height="11" rx="2"/><path d="M2 7h12M5 1.5v3M11 1.5v3"/></svg>',
   prev: '<svg viewBox="0 0 16 16" width="14" height="14" fill="none" stroke="currentColor" stroke-width="2"><path d="m10 3-5 5 5 5"/></svg>',
   next: '<svg viewBox="0 0 16 16" width="14" height="14" fill="none" stroke="currentColor" stroke-width="2"><path d="m6 3 5 5-5 5"/></svg>',
+  spark: '<svg viewBox="0 0 16 16" aria-hidden="true"><path d="M8 1.5 9.5 6.5 14.5 8 9.5 9.5 8 14.5 6.5 9.5 1.5 8 6.5 6.5Z"/></svg>',
 };
 
 /* ---------- Card ---------- */
@@ -127,7 +137,7 @@ function cardHTML(e, { pick = false } = {}) {
     <div class="card__body">
       <div class="card__head">
         <div>
-          <h3 class="card__title">${esc(title)}</h3>
+          <h3 class="card__title">${isNew(e) ? `<span class="newtag">${esc(t("newBadge"))}</span>` : ""}${esc(title)}</h3>
           ${showOrig ? `<p class="card__orig">${esc(e.titleOriginal)}</p>` : ""}
         </div>
         ${!pick && time ? `<span class="card__time">${time}</span>` : ""}
@@ -181,6 +191,31 @@ function renderList(events, today) {
   return html;
 }
 
+/* ---------- New page (#new) ---------- */
+function newEvents(events, today) {
+  return events.filter((e) => e.addedAt && notPast(e, today));
+}
+
+function renderNew(events, today) {
+  const recent = newEvents(events, today);
+  const batches = [...new Set(state.data.events.map((e) => e.addedAt).filter(Boolean))].sort().reverse().slice(0, NEW_PAGE_UPDATES);
+  let html = `<section class="newpage__head">
+    <a class="newpage__back" href="#">${ICON.prev}${esc(t("backToAll"))}</a>
+    <h1 class="newpage__title">${ICON.spark}${esc(t("newPageTitle"))}</h1>
+    <p class="newpage__intro">${esc(t("newPageIntro"))}</p>
+  </section>`;
+  let any = false;
+  for (const d of batches) {
+    const list = recent.filter((e) => e.addedAt === d).sort(byStart);
+    if (!list.length) continue;
+    any = true;
+    html += `<section class="section"><h2 class="section__title"><b>${esc(t("addedOn", { date: fmtLong(dayNum(d)) }))}</b> · ${list.length}</h2>
+      <div class="list">${list.map((e) => cardHTML(e)).join("")}</div></section>`;
+  }
+  if (!any) html += `<p class="empty">${esc(t("noNew"))}</p>`;
+  return html;
+}
+
 /* ---------- Calendar view ---------- */
 function renderCalendar(events, today) {
   if (!state.month) { const d = fromDayNum(today); state.month = { y: d.getUTCFullYear(), m: d.getUTCMonth() }; }
@@ -198,7 +233,7 @@ function renderCalendar(events, today) {
   const onDay = (n) => short.filter((e) => startDay(e) <= n && endDay(e) >= n).sort(byStart);
 
   const dows = Array.from({ length: 7 }, (_, i) => fmt(4 + i, { weekday: "short" })); // 1970-01-05 was a Monday
-  const pill = (e, cls = "") => `<span role="button" tabindex="0" class="pill${cls}" style="--c: var(--c-${esc(e.category)})" data-open="${esc(e.id)}">${timeOf(e.start) ? `${timeOf(e.start)} ` : ""}${esc(L(e.title) || e.titleOriginal)}</span>`;
+  const pill = (e, cls = "") => `<span role="button" tabindex="0" class="pill${cls}" style="--c: var(--c-${esc(e.category)})" data-open="${esc(e.id)}">${isNew(e) ? '<b class="pill__new">✦</b> ' : ""}${timeOf(e.start) ? `${timeOf(e.start)} ` : ""}${esc(L(e.title) || e.titleOriginal)}</span>`;
 
   const ONGOING_LIMIT = 2;
   const longExpanded = state.ongoingExpanded || long.length <= ONGOING_LIMIT;
@@ -296,6 +331,7 @@ function render() {
   $("#q").placeholder = t("search");
   document.querySelectorAll(".langswitch button").forEach((b) => b.setAttribute("aria-pressed", String(b.dataset.lang === state.lang)));
   document.querySelectorAll(".viewtabs button").forEach((b) => b.setAttribute("aria-selected", String(b.dataset.view === state.view)));
+  $(".viewtabs").hidden = state.page === "new";
 
   const activeCount = state.data.events.filter((e) => isActive(e, today)).length;
   $("#meta").textContent = `${t("updated", { date: fmtLong(dayNum(state.data.updatedAt)) })} · ${t("count", { n: activeCount })}`;
@@ -307,8 +343,37 @@ function render() {
   $("#distance").innerHTML = `<option value="all">${esc(t("distanceAll"))}</option>` +
     DISTANCES.map((d) => `<option value="${d}"${state.distance === d ? " selected" : ""}>${esc(t(`dist.${d}`))}</option>`).join("");
   $("#distance").setAttribute("aria-label", t("distance"));
+  $("#englishOnly").checked = state.englishOnly;
 
-  $("#view").innerHTML = state.view === "calendar" ? renderCalendar(events, today) : renderList(events, today);
+  // Header "New" pill: count of the latest batch, highlighted until #new was opened on this device
+  const newCount = state.data.events.filter((e) => isNew(e) && notPast(e, today)).length;
+  const link = $("#newLink");
+  $("#newCount").textContent = newCount || "";
+  link.classList.toggle("newlink--empty", !newCount);
+  link.classList.toggle("newlink--unseen", newCount > 0 && store.get("seenNew") !== state.data.updatedAt);
+  link.setAttribute("aria-label", newCount ? `${t("newNavAria")} (${newCount})` : t("newNavAria"));
+  if (state.page === "new") link.setAttribute("aria-current", "page"); else link.removeAttribute("aria-current");
+
+  const nFilters = filterCount();
+  $("#filterCount").textContent = nFilters ? ` · ${nFilters}` : "";
+  $("#filterBtn").classList.toggle("filterbtn--active", nFilters > 0);
+  const shown = state.page === "new" ? newEvents(events, today).length : events.filter((e) => notPast(e, today)).length;
+  $("#sheetDone").textContent = t("showResults", { n: shown });
+
+  $("#view").innerHTML = state.page === "new" ? renderNew(events, today)
+    : state.view === "calendar" ? renderCalendar(events, today) : renderList(events, today);
+}
+
+function showPage() {
+  state.page = pageFromHash();
+  if (state.page === "new" && state.data) store.set("seenNew", state.data.updatedAt);
+}
+
+// Filters sit inline on desktop and inside the bottom sheet on phones
+function placeFilters() {
+  const filters = $(".filters");
+  if (mobile.matches) $("#sheetBody").append(filters);
+  else { if ($("#filterSheet").open) $("#filterSheet").close(); $(".toolbar").after(filters); }
 }
 
 function openDetail(id) {
@@ -333,9 +398,12 @@ async function setLang(lang) {
 
 /* ---------- Events ---------- */
 document.addEventListener("click", (ev) => {
-  const el = ev.target.closest("[data-lang],[data-view],[data-cat],[data-ics],[data-open],[data-nav],[data-day],[data-toggle]");
+  const el = ev.target.closest("[data-lang],[data-view],[data-cat],[data-ics],[data-open],[data-nav],[data-day],[data-toggle],[data-filter]");
   if (!el) return;
   const d = el.dataset;
+  if (d.filter === "open") { $("#filterSheet").showModal(); return; }
+  if (d.filter === "close") { $("#filterSheet").close(); return; }
+  if (d.filter === "reset") { state.cats.clear(); state.distance = "all"; state.englishOnly = false; render(); return; }
   if (d.lang) { if (d.lang !== state.lang) setLang(d.lang); return; }
   if (d.view) { state.view = d.view; store.set("view", d.view); render(); return; }
   if (d.cat !== undefined) {
@@ -365,6 +433,15 @@ $("#q").addEventListener("input", (ev) => { state.q = ev.target.value.trim(); re
 $("#distance").addEventListener("change", (ev) => { state.distance = ev.target.value; render(); });
 $("#englishOnly").addEventListener("change", (ev) => { state.englishOnly = ev.target.checked; render(); });
 $("#detail").addEventListener("click", (ev) => { if (ev.target === ev.currentTarget) ev.currentTarget.close(); });
+$("#filterSheet").addEventListener("click", (ev) => { if (ev.target === ev.currentTarget) ev.currentTarget.close(); });
+mobile.addEventListener("change", placeFilters);
+placeFilters();
+window.addEventListener("hashchange", () => {
+  showPage();
+  if (!state.data) return;
+  render();
+  window.scrollTo(0, 0);
+});
 
 /* ---------- Boot ---------- */
 (async function boot() {
@@ -375,6 +452,7 @@ $("#detail").addEventListener("click", (ev) => { if (ev.target === ev.currentTar
     ]);
     state.data = data;
     state.dict = dict;
+    showPage();
     render();
   } catch (err) {
     console.error(err);
