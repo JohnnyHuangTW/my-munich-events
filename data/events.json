@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-16",
+  "updatedAt": "2026-10-23",
   "weekPicks": [
-    "hans-zimmer-2026-10-20",
     "brso-harmoniemusik-2026-10-31",
-    "hisaishi-2026-11-25"
+    "hisaishi-2026-11-25",
+    "game-on-symphony-2026-12-04"
   ],
   "events": [
     {
@@ -33,7 +33,7 @@
       "links": {
         "official": "https://www.muenchner-stadtmuseum.de/sammlungen/filmmuseum/filmreihen/korean-mysteries"
       },
-      "verifiedAt": "2026-10-02",
+      "verifiedAt": "2026-10-23",
       "addedAt": "2026-09-25"
     },
     {
@@ -65,34 +65,6 @@
       "addedAt": "2026-09-25"
     },
     {
-      "id": "lange-nacht-museen-2026",
-      "titleOriginal": "Lange Nacht der Münchner Museen",
-      "title": {
-        "zh-TW": "慕尼黑博物館長夜",
-        "en": "Long Night of Munich Museums",
-        "de": "Lange Nacht der Münchner Museen"
-      },
-      "summary": {
-        "zh-TW": "一張票就能在夜間逛遍全市多間博物館和展覽空間。",
-        "en": "One ticket gets you into many of the city's museums and galleries, late into the night.",
-        "de": "Mit einem Ticket nachts durch zahlreiche Münchner Museen und Ausstellungshäuser."
-      },
-      "category": "exhibition",
-      "tags": [],
-      "start": "2026-10-17",
-      "end": null,
-      "venue": "Various museums",
-      "city": "München",
-      "distance": "city",
-      "price": "€20",
-      "language": "none-needed",
-      "links": {
-        "official": "https://www.muenchen.de/veranstaltungen/freizeit/ausstellungen/die-lange-nacht-der-muenchner-museen-2026"
-      },
-      "verifiedAt": "2026-10-16",
-      "addedAt": "2026-09-25"
-    },
-    {
       "id": "auer-dult-herbst-2026",
       "titleOriginal": "Auer Kirchweihdult",
       "title": {
@@ -119,37 +91,6 @@
       "language": "none-needed",
       "links": {
         "official": "https://www.auerdult.de/"
-      },
-      "verifiedAt": "2026-10-16",
-      "addedAt": "2026-09-25"
-    },
-    {
-      "id": "hans-zimmer-2026-10-20",
-      "titleOriginal": "The World of Hans Zimmer – A New Dimension",
-      "title": {
-        "zh-TW": "漢斯·季默的音樂世界",
-        "en": "The World of Hans Zimmer – A New Dimension",
-        "de": "The World of Hans Zimmer – A New Dimension"
-      },
-      "summary": {
-        "zh-TW": "現場管弦樂團演奏 Hans Zimmer 的電影配樂，有《沙丘》、《獅子王》、《黑暗騎士》、《雨人》等。",
-        "en": "Live orchestra performing Hans Zimmer scores – Dune, The Lion King, The Dark Knight, Rain Man and more.",
-        "de": "Orchester live mit Hans-Zimmer-Hits aus Dune, Der König der Löwen, The Dark Knight, Rain Man u. a."
-      },
-      "category": "music",
-      "tags": [
-        "film-score"
-      ],
-      "start": "2026-10-20T19:30",
-      "end": null,
-      "venue": "Olympiahalle",
-      "city": "München",
-      "distance": "city",
-      "price": "€64.90–129.90",
-      "language": "none-needed",
-      "links": {
-        "official": "https://www.olympiapark.de/en/events/the-world-of-hans-zimmer-n4924",
-        "tickets": "https://www.muenchenticket.de/event/the-world-of-hans-zimmer-32680/"
       },
       "verifiedAt": "2026-10-16",
       "addedAt": "2026-09-25"
@@ -209,7 +150,7 @@
       "links": {
         "official": "https://www.kunsthalle-muc.de/barcelona/"
       },
-      "verifiedAt": "2026-10-16",
+      "verifiedAt": "2026-10-23",
       "addedAt": "2026-09-25"
     },
     {
@@ -327,7 +268,7 @@
       "links": {
         "official": "https://www.muenchen.de/sehenswuerdigkeiten/museen/vorschau-der-muenchner-museen-2026-2-jahreshaelfte"
       },
-      "verifiedAt": "2026-10-09",
+      "verifiedAt": "2026-10-23",
       "addedAt": "2026-09-25"
     },
     {
@@ -357,7 +298,7 @@
       "links": {
         "official": "https://www.brso.de/konzerte/kammerkonzert-vortreffliche-harmonie-musik/"
       },
-      "verifiedAt": "2026-10-16",
+      "verifiedAt": "2026-10-23",
       "addedAt": "2026-09-25"
     },
     {
@@ -387,7 +328,7 @@
       "links": {
         "official": "https://www.in-muenchen.de/events/disney-in-concert-2026.html"
       },
-      "verifiedAt": "2026-10-16",
+      "verifiedAt": "2026-10-23",
       "addedAt": "2026-09-25"
     },
     {
@@ -417,7 +358,7 @@
       "links": {
         "official": "https://www.in-muenchen.de/events/anime-songs-in-concert-next-level-tour-extended.html"
       },
-      "verifiedAt": "2026-10-16",
+      "verifiedAt": "2026-10-23",
       "addedAt": "2026-09-25"
     },
     {
@@ -447,7 +388,7 @@
       "links": {
         "official": "https://muc-blog.com/veranstaltungen-muenchen-november-2026/"
       },
-      "verifiedAt": "2026-09-21",
+      "verifiedAt": "2026-10-23",
       "addedAt": "2026-09-25"
     },
     {
@@ -796,7 +737,7 @@
       "links": {
         "official": "https://www.klassikradio.de/live-in-concert/termine/muenchen-01-12-2026/"
       },
-      "verifiedAt": "2026-10-16",
+      "verifiedAt": "2026-10-23",
       "addedAt": "2026-09-25"
     },
     {
@@ -826,7 +767,7 @@
       "links": {
         "official": "https://www.in-muenchen.de/events/munchner-rundfunkorchester-202627-game-on-symphony.html"
       },
-      "verifiedAt": "2026-10-16",
+      "verifiedAt": "2026-10-23",
       "addedAt": "2026-09-25"
     },
     {
@@ -885,7 +826,7 @@
       "links": {
         "official": "https://www.muenchen.de/sehenswuerdigkeiten/museen/vorschau-der-muenchner-museen-2026-2-jahreshaelfte"
       },
-      "verifiedAt": "2026-10-02",
+      "verifiedAt": "2026-10-23",
       "addedAt": "2026-09-25"
     },
     {
@@ -1044,21 +985,21 @@
       "venue": "Isarphilharmonie (Gasteig HP8)",
       "city": "München",
       "distance": "city",
-      "price": "from €60.90",
+      "price": "from €67.60",
       "language": "none-needed",
       "hardToGet": {
         "reason": {
-          "zh-TW": "售票網站已顯示四場預售「結束」，可能只剩現場餘票；想去請盡快向 Gasteig 確認。",
-          "en": "The ticket site already shows advance sales ended for all four shows – check with Gasteig soon.",
-          "de": "Laut Ticketseite ist der Vorverkauf für alle vier Termine bereits beendet – bald beim Gasteig nachfragen."
+          "zh-TW": "共 4 場，熱門配樂音樂會常快速售罄；票務頁面現已有購票連結（Eventim），建議盡早決定場次。",
+          "en": "Four shows, but popular film-score concerts sell out fast; the ticket page now links to Eventim for every date – decide early.",
+          "de": "Vier Termine, doch beliebte Filmmusik-Konzerte sind schnell ausverkauft; die Ticketseite verlinkt inzwischen Eventim für alle Termine – früh entscheiden."
         },
         "saleStart": null,
-        "saleStatus": null
+        "saleStatus": "on-sale"
       },
       "links": {
         "official": "https://www.muenchenmusik.de/me/veranstaltungen/sound-hans-zimmer-john-williams-202627"
       },
-      "verifiedAt": "2026-10-02",
+      "verifiedAt": "2026-10-23",
       "addedAt": "2026-09-25"
     },
     {
@@ -1205,7 +1146,7 @@
         "official": "https://spielwiesn.de/sw",
         "tickets": "https://www.eventim-light.com/de/a/5b4d9db6dadab30001799a40/"
       },
-      "verifiedAt": "2026-10-16",
+      "verifiedAt": "2026-10-23",
       "addedAt": "2026-09-25"
     },
     {
@@ -1268,7 +1209,7 @@
         "official": "https://tcgermany.de/messe-muenchen",
         "tickets": "https://tcgermany.ditix.shop/event/eyi9es3v9rcf53ef"
       },
-      "verifiedAt": "2026-10-16",
+      "verifiedAt": "2026-10-23",
       "addedAt": "2026-09-25"
     },
     {
@@ -1479,7 +1420,7 @@
     },
     {
       "id": "stonehenge-asm-2026",
-      "verifiedAt": "2026-10-02",
+      "verifiedAt": "2026-10-23",
       "titleOriginal": "STONEHENGE. Uralte Geheimnisse, neue Entdeckungen",
       "title": {
         "zh-TW": "巨石陣：古老的秘密與新發現",
@@ -1538,7 +1479,7 @@
     },
     {
       "id": "japanische-filmreihe-2026",
-      "verifiedAt": "2026-10-09",
+      "verifiedAt": "2026-10-23",
       "titleOriginal": "Japanische Filmreihe 2026",
       "title": {
         "zh-TW": "日本電影系列 2026（Gasteig Projektor）",
@@ -1546,9 +1487,9 @@
         "de": "Japanische Filmreihe 2026"
       },
       "summary": {
-        "zh-TW": "日德協會與慕尼黑市立圖書館每月放映：10/9《Die Katzen vom Gokogu-Schrein》、11/13《Winter in Sokcho》、12/11《崖上的波妞》（德語配音）；原語附字幕，是否英文字幕未明。",
-        "en": "Monthly screenings: 9 Oct Die Katzen vom Gokogu-Schrein, 13 Nov Winter in Sokcho, 11 Dec Ponyo (German dub). Original with subtitles, English subs not confirmed.",
-        "de": "Monatliche Vorführungen: 9.10. Die Katzen vom Gokogu-Schrein, 13.11. Winter in Sokcho, 11.12. Ponyo (deutsche Fassung); OmdtU/OmeU, Untertitelsprache unklar."
+        "zh-TW": "日德協會與慕尼黑市立圖書館每月放映：11/13《Winter in Sokcho》（原語＋德文字幕）、12/11《崖上的波妞》（德語配音）；頁面未提供英文字幕。",
+        "en": "Monthly screenings: 13 Nov Winter in Sokcho (original with German subtitles), 11 Dec Ponyo (German dub); no English subtitles listed.",
+        "de": "Monatliche Vorführungen: 13.11. Winter in Sokcho (OmdtU), 11.12. Ponyo (deutsche Fassung); keine englischen Untertitel angegeben."
       },
       "category": "asia",
       "tags": [
@@ -1561,41 +1502,10 @@
       "city": "München",
       "distance": "city",
       "price": null,
-      "language": "unknown",
+      "language": "german-only",
       "links": {
         "official": "https://www.in-muenchen.de/events/japanische-filmreihe.html",
         "tickets": "https://www.muenchenticket.de/event/japanische-filmreihe-2026-36047/"
-      },
-      "addedAt": "2026-10-02"
-    },
-    {
-      "id": "jazz-and-the-citysounds-salzburg-2026",
-      "verifiedAt": "2026-10-02",
-      "titleOriginal": "Jazz&TheCitysounds 2026",
-      "title": {
-        "zh-TW": "薩爾茨堡 Jazz&TheCitysounds 爵士音樂節",
-        "en": "Jazz&TheCitysounds Salzburg",
-        "de": "Jazz&TheCitysounds 2026"
-      },
-      "summary": {
-        "zh-TW": "約 140 位音樂人在老城區 20 個場地（教堂、酒吧、公共空間）演出爵士、世界音樂與電子，免費入場，另有「Blind Dates」即興合作。",
-        "en": "About 140 artists at 20 venues across Salzburg's old town (churches, wine bars, public spaces): jazz, world music and electronic, free admission, plus \"Blind Dates\".",
-        "de": "Rund 140 Künstler:innen an 20 Orten der Salzburger Altstadt (Kirchen, Weinbars, öffentliche Plätze): Jazz, Weltmusik, Elektronik, freier Eintritt, plus „Blind Dates“."
-      },
-      "category": "nearby",
-      "tags": [
-        "music",
-        "free"
-      ],
-      "start": "2026-10-15",
-      "end": "2026-10-18",
-      "venue": "Altstadt Salzburg (various venues)",
-      "city": "Salzburg",
-      "distance": "daytrip",
-      "price": "free",
-      "language": "none-needed",
-      "links": {
-        "official": "https://salzburg.info/de/veranstaltungen/highlights/jazz-and-the-city"
       },
       "addedAt": "2026-10-02"
     },
@@ -1721,8 +1631,126 @@
       "links": {
         "official": "https://www.muenchen.de/sehenswuerdigkeiten/museen/vorschau-der-muenchner-museen-2026-2-jahreshaelfte"
       },
-      "verifiedAt": "2026-10-16",
+      "verifiedAt": "2026-10-23",
       "addedAt": "2026-10-16"
+    },
+    {
+      "end": null,
+      "price": null,
+      "addedAt": "2026-10-23",
+      "verifiedAt": "2026-10-23",
+      "id": "sound-of-epic-anime-2027-01-23",
+      "titleOriginal": "The Sound of Epic Anime",
+      "title": {
+        "zh-TW": "史詩動漫音樂會",
+        "en": "The Sound of Epic Anime",
+        "de": "The Sound of Epic Anime"
+      },
+      "summary": {
+        "zh-TW": "慕尼黑交響樂團由 John Jesensky 指揮，演奏吉卜力、鬼滅之刃、火影忍者、海賊王、進擊的巨人、福音戰士等動漫配樂，Nino Kerl 主持。",
+        "en": "Münchner Symphoniker under John Jesensky play anime scores from Studio Ghibli, Demon Slayer, Naruto, One Piece, Attack on Titan and Evangelion, hosted by Nino Kerl.",
+        "de": "Die Münchner Symphoniker unter John Jesensky spielen Anime-Musik aus Studio Ghibli, Demon Slayer, Naruto, One Piece, Attack on Titan und Evangelion; Moderation Nino Kerl."
+      },
+      "category": "music",
+      "tags": [
+        "anime",
+        "film-score"
+      ],
+      "start": "2027-01-23T19:30",
+      "venue": "Isarphilharmonie (Gasteig HP8)",
+      "city": "München",
+      "distance": "city",
+      "language": "none-needed",
+      "links": {
+        "official": "https://www.in-muenchen.de/events/the-sound-of-epic-anime-gasteig-hp8-isarphilharmonie.html",
+        "tickets": "https://www.muenchenticket.de/event/the-sound-of-epic-anime-38205/448178"
+      }
+    },
+    {
+      "end": "2026-11-29",
+      "price": null,
+      "addedAt": "2026-10-23",
+      "verifiedAt": "2026-10-23",
+      "id": "food-and-life-2026",
+      "titleOriginal": "FOOD & LIFE 2026",
+      "title": {
+        "zh-TW": "FOOD & LIFE 美食與生活展",
+        "en": "FOOD & LIFE 2026",
+        "de": "FOOD & LIFE 2026"
+      },
+      "summary": {
+        "zh-TW": "慕尼黑展覽中心的美食展：地方與國際特色美食、名廚現場示範、烹飪秀與試吃、烘焙／香料／烈酒主題區和餐車；門票同時可進 Heim+Handwerk。",
+        "en": "Food fair at Messe München: regional and international specialities, live demos by celebrity chefs, cooking shows and tastings, themed areas for baking, spices and spirits, plus food trucks; ticket also covers Heim+Handwerk.",
+        "de": "Genussmesse auf der Messe München: regionale und internationale Spezialitäten, Live-Demos von Starköchen, Kochshows und Verkostungen, Themenwelten zu Backen, Gewürzen und Spirituosen, Foodtrucks; Ticket gilt auch für Heim+Handwerk."
+      },
+      "category": "festival",
+      "tags": [
+        "food"
+      ],
+      "start": "2026-11-25",
+      "venue": "Messe München",
+      "city": "München",
+      "distance": "city",
+      "language": "none-needed",
+      "links": {
+        "official": "https://www.food-life.de/en/"
+      }
+    },
+    {
+      "end": null,
+      "price": null,
+      "addedAt": "2026-10-23",
+      "verifiedAt": "2026-10-23",
+      "id": "english-comedy-imal-2026-11-13",
+      "titleOriginal": "English Comedy Mixed Show at IMAL",
+      "title": {
+        "zh-TW": "IMAL 英語脫口秀綜合場",
+        "en": "English Comedy Mixed Show at IMAL",
+        "de": "English Comedy Mixed Show at IMAL"
+      },
+      "summary": {
+        "zh-TW": "慕尼黑與國際喜劇演員的綜合脫口秀，全程英語，由 Medium Rare Comedy 與 Lucky Punch Comedy Club 合辦，現場可買飲料。",
+        "en": "Mixed stand-up show with Munich and international comedians, performed entirely in English; co-presented by Medium Rare Comedy and Lucky Punch Comedy Club; drinks on site.",
+        "de": "Stand-up-Mixed-Show mit Münchner und internationalen Comedians, komplett auf Englisch; präsentiert von Medium Rare Comedy und Lucky Punch Comedy Club; Getränke vor Ort."
+      },
+      "category": "stage",
+      "tags": [],
+      "start": "2026-11-13T20:00",
+      "venue": "International Munich ArtLab (Musiktheater)",
+      "city": "München",
+      "distance": "city",
+      "language": "english",
+      "links": {
+        "official": "https://www.in-muenchen.de/events/english-comedy-mixed-show-at-imal.html"
+      }
+    },
+    {
+      "end": "2026-11-08",
+      "price": null,
+      "addedAt": "2026-10-23",
+      "verifiedAt": "2026-10-23",
+      "id": "krishna-museum-fuenf-kontinente-2026",
+      "titleOriginal": "Krishna. Religion, Kunst und Popkultur",
+      "title": {
+        "zh-TW": "黑天神：宗教、藝術與流行文化",
+        "en": "Krishna. Religion, Art and Pop Culture",
+        "de": "Krishna. Religion, Kunst und Popkultur"
+      },
+      "summary": {
+        "zh-TW": "約 100 件展品，從印度教信仰一路看到黑天神在全球流行文化中的形象；展期至 11/8。",
+        "en": "About 100 objects trace Krishna from Hindu worship to global pop culture; closes 8 Nov.",
+        "de": "Rund 100 Objekte folgen Krishna vom hinduistischen Kult bis in die globale Popkultur; bis 8.11."
+      },
+      "category": "asia",
+      "tags": [],
+      "start": "2026-04-24",
+      "venue": "Museum Fünf Kontinente",
+      "city": "München",
+      "distance": "city",
+      "language": "unknown",
+      "links": {
+        "official": "https://www.muenchen.de/sehenswuerdigkeiten/museen/vorschau-der-muenchner-museen-2026-2-jahreshaelfte"
+      }
     }
   ]
 }
