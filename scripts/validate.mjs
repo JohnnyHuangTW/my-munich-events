@@ -2,6 +2,7 @@
 // Validates data/events.json against the data contract described in ROUTINE.md.
 // Usage: node scripts/validate.mjs [path]   (exit code 1 on any error)
 import { readFileSync } from "node:fs";
+import { execFileSync } from "node:child_process";
 
 const path = process.argv[2] || new URL("../data/events.json", import.meta.url);
 const LANGS = ["zh-TW", "en", "de"];
@@ -62,6 +63,8 @@ for (const [i, e] of (data.events || []).entries()) {
   if (!e.links || !isUrl(e.links.official)) err(w, "links.official must be an https URL");
   if (e.links?.tickets !== undefined && !isUrl(e.links.tickets)) err(w, "links.tickets must be an https URL");
   if (!DATE.test(e.verifiedAt || "")) err(w, "verifiedAt must be YYYY-MM-DD");
+  if (!DATE.test(e.addedAt || "") || !realDate(e.addedAt)) err(w, "addedAt must be YYYY-MM-DD");
+  else if (e.addedAt > data.updatedAt) err(w, "addedAt is after updatedAt");
   if (e.hardToGet) {
     i18n(`${w}.hardToGet.reason`, e.hardToGet.reason, 200);
     if (e.hardToGet.saleStart != null && !DATE.test(e.hardToGet.saleStart)) err(w, "hardToGet.saleStart must be YYYY-MM-DD or null");
@@ -69,6 +72,22 @@ for (const [i, e] of (data.events || []).entries()) {
   }
 }
 for (const id of data.weekPicks || []) if (!ids.has(id)) err("weekPicks", `unknown id "${id}"`);
+
+// addedAt drives the "New" badge: compare with the last committed version so kept events keep their date
+// and new events get today's. Skipped when validating another file or when git/HEAD isn't available.
+let prev = null;
+if (!process.argv[2]) {
+  try { prev = JSON.parse(execFileSync("git", ["show", "HEAD:data/events.json"], { cwd: new URL("..", import.meta.url), encoding: "utf8", stdio: ["ignore", "pipe", "ignore"], maxBuffer: 1 << 26 })); }
+  catch { /* no git history */ }
+}
+if (prev) {
+  const before = new Map(prev.events.map((e) => [e.id, e.addedAt]));
+  for (const e of data.events || []) {
+    if (!e?.addedAt) continue;
+    if (!before.has(e.id)) { if (e.addedAt !== data.updatedAt) err(`${e.id}`, `new event: addedAt must be today's updatedAt (${data.updatedAt})`); }
+    else if (before.get(e.id) && before.get(e.id) !== e.addedAt) err(`${e.id}`, `addedAt changed from ${before.get(e.id)} – keep the original date`);
+  }
+}
 
 if (errors.length) {
   console.error(`✗ ${errors.length} problem(s) in events.json:\n  - ${errors.join("\n  - ")}`);

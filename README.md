@@ -13,7 +13,8 @@ npm run validate   # checks data/events.json against the data contract
 ## How it updates
 
 A scheduled Claude Code routine runs every Friday morning, follows [`ROUTINE.md`](ROUTINE.md),
-rewrites `data/events.json`, validates it, and pushes to `main`. Vercel redeploys on push.
+rewrites `data/events.json`, validates it, pushes to `master` and sends a digest (push + email) of new
+and priority events. Vercel redeploys on push.
 
 ## Structure
 
