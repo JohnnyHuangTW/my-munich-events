@@ -115,6 +115,8 @@ const ICON = {
 };
 
 /* ---------- Card ---------- */
+const mapsUrl = (e) => `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent([e.venue, e.city].filter(Boolean).join(", "))}`;
+
 function cardHTML(e, { pick = false } = {}) {
   const title = L(e.title) || e.titleOriginal;
   const showOrig = title.trim() !== e.titleOriginal.trim();
@@ -144,7 +146,7 @@ function cardHTML(e, { pick = false } = {}) {
       </div>
       <div class="card__meta">
         ${!pick ? `<span>${esc(dateLabel(e))}</span>` : ""}
-        <span>${ICON.pin}${esc(e.venue)}${e.city && !e.venue.includes(e.city) ? `, ${esc(e.city)}` : ""}</span>
+        <a class="card__place" href="${esc(mapsUrl(e))}" target="_blank" rel="noopener">${ICON.pin}${esc(e.venue)}${e.city && !e.venue.includes(e.city) ? `, ${esc(e.city)}` : ""}</a>
         ${e.price ? `<span>${ICON.euro}${esc(e.price)}</span>` : ""}
       </div>
       <p class="card__summary">${esc(L(e.summary))}</p>
