@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-23",
+  "updatedAt": "2026-10-30",
   "weekPicks": [
     "brso-harmoniemusik-2026-10-31",
-    "hisaishi-2026-11-25",
-    "game-on-symphony-2026-12-04"
+    "disney-in-concert-2026-11-06",
+    "hisaishi-2026-11-25"
   ],
   "events": [
     {
@@ -34,95 +34,6 @@
         "official": "https://www.muenchner-stadtmuseum.de/sammlungen/filmmuseum/filmreihen/korean-mysteries"
       },
       "verifiedAt": "2026-10-23",
-      "addedAt": "2026-09-25"
-    },
-    {
-      "id": "residenzwoche-2026",
-      "titleOriginal": "Residenzwoche",
-      "title": {
-        "zh-TW": "王宮週",
-        "en": "Residence Week",
-        "de": "Residenzwoche"
-      },
-      "summary": {
-        "zh-TW": "以慕尼黑王宮為中心的年度文化週。頁面未提供詳細節目內容。",
-        "en": "Annual culture week centred on the Munich Residenz. No programme details on the page.",
-        "de": "Kulturwoche rund um die Residenz München. Details auf der Seite nicht angegeben."
-      },
-      "category": "exhibition",
-      "tags": [],
-      "start": "2026-10-16",
-      "end": "2026-10-25",
-      "venue": "Residenz München & Schloss Schleißheim",
-      "city": "München",
-      "distance": "city",
-      "price": null,
-      "language": "unknown",
-      "links": {
-        "official": "https://www.residenzwoche.de/"
-      },
-      "verifiedAt": "2026-10-16",
-      "addedAt": "2026-09-25"
-    },
-    {
-      "id": "auer-dult-herbst-2026",
-      "titleOriginal": "Auer Kirchweihdult",
-      "title": {
-        "zh-TW": "奧爾秋季市集",
-        "en": "Auer Dult (autumn fair)",
-        "de": "Auer Kirchweihdult"
-      },
-      "summary": {
-        "zh-TW": "慕尼黑的傳統市集，有鍋碗瓢盆、古董攤和遊樂設施。",
-        "en": "Munich's traditional fair: kitchenware, antiques stalls and fairground rides.",
-        "de": "Jahrmarkt mit Haushaltswaren, Antiquitäten und Fahrgeschäften."
-      },
-      "category": "festival",
-      "tags": [
-        "market",
-        "free"
-      ],
-      "start": "2026-10-17",
-      "end": "2026-10-25",
-      "venue": "Mariahilfplatz",
-      "city": "München",
-      "distance": "city",
-      "price": null,
-      "language": "none-needed",
-      "links": {
-        "official": "https://www.auerdult.de/"
-      },
-      "verifiedAt": "2026-10-16",
-      "addedAt": "2026-09-25"
-    },
-    {
-      "id": "voice-passion-2026-10-23",
-      "titleOriginal": "Voice Passion: Songs from Outlander, Vikings & The Last Kingdom",
-      "title": {
-        "zh-TW": "《古戰場傳奇》《維京傳奇》影集歌曲之夜",
-        "en": "Voice Passion: Songs from Outlander, Vikings & The Last Kingdom",
-        "de": "Voice Passion: Songs aus Outlander, Vikings & The Last Kingdom"
-      },
-      "summary": {
-        "zh-TW": "威爾斯歌手 Lauren Francis 演唱凱爾特與北歐風的影集歌曲，搭配藝術投影。",
-        "en": "Welsh singer Lauren Francis performs Celtic and Nordic songs from the TV series, with art projections.",
-        "de": "Die walisische Sängerin Lauren Francis mit keltischen und nordischen Serien-Songs und Projektionen."
-      },
-      "category": "music",
-      "tags": [
-        "film-score"
-      ],
-      "start": "2026-10-23T20:00",
-      "end": null,
-      "venue": "Allerheiligen-Hofkirche (Residenz)",
-      "city": "München",
-      "distance": "city",
-      "price": null,
-      "language": "none-needed",
-      "links": {
-        "official": "https://www.in-muenchen.de/events/voice-passion-songs-from-outlander-vikings-the-last-kingdom.html"
-      },
-      "verifiedAt": "2026-10-16",
       "addedAt": "2026-09-25"
     },
     {
@@ -180,67 +91,7 @@
       "links": {
         "official": "https://www.nuejazz.de/de"
       },
-      "verifiedAt": "2026-10-16",
-      "addedAt": "2026-09-25"
-    },
-    {
-      "id": "mucho-2026",
-      "titleOriginal": "MUCHO – Munich Chocolate Festival",
-      "title": {
-        "zh-TW": "慕尼黑巧克力節",
-        "en": "MUCHO – Munich Chocolate Festival",
-        "de": "MUCHO – Munich Chocolate Festival"
-      },
-      "summary": {
-        "zh-TW": "約 50 個巧克力攤位，還有現場展示，只有週六 10/24 一天。兩個來源寫的場地不同，出發前請再確認。",
-        "en": "About 50 chocolate exhibitors plus shows, Saturday 24 Oct only. Sources list different venues – double-check before going.",
-        "de": "Rund 50 Ausstellende mit Schokolade und Shows, nur Samstag 24.10. Quellen nennen unterschiedliche Orte – bitte prüfen."
-      },
-      "category": "festival",
-      "tags": [
-        "food"
-      ],
-      "start": "2026-10-24",
-      "end": null,
-      "venue": "Alte Paketposthalle / Pineapple Park",
-      "city": "München",
-      "distance": "city",
-      "price": null,
-      "language": "none-needed",
-      "links": {
-        "official": "https://www.in-muenchen.de/maerkte"
-      },
-      "verifiedAt": "2026-10-02",
-      "addedAt": "2026-09-25"
-    },
-    {
-      "id": "faust-100-2026-10-25",
-      "titleOriginal": "100 Jahre FAUST",
-      "title": {
-        "zh-TW": "《浮士德》百年：默片配現場音樂",
-        "en": "100 Years of FAUST – silent film with live music",
-        "de": "100 Jahre FAUST – Stummfilm mit Live-Musik"
-      },
-      "summary": {
-        "zh-TW": "放映 F.W. Murnau 1926 年的默片經典《浮士德》，現場樂手即時配樂。",
-        "en": "F.W. Murnau's 1926 silent classic Faust, screened with live musical accompaniment.",
-        "de": "F.W. Murnaus Stummfilmklassiker mit Live-Musik."
-      },
-      "category": "stage",
-      "tags": [
-        "film"
-      ],
-      "start": "2026-10-25",
-      "end": null,
-      "venue": "Filmmuseum München",
-      "city": "München",
-      "distance": "city",
-      "price": null,
-      "language": "unknown",
-      "links": {
-        "official": "https://www.muenchner-stadtmuseum.de/sammlungen/filmmuseum/filmreihen"
-      },
-      "verifiedAt": "2026-10-02",
+      "verifiedAt": "2026-10-30",
       "addedAt": "2026-09-25"
     },
     {
@@ -419,7 +270,7 @@
       "links": {
         "official": "https://muc-blog.com/veranstaltungen-muenchen-november-2026/"
       },
-      "verifiedAt": "2026-09-21",
+      "verifiedAt": "2026-10-30",
       "addedAt": "2026-09-25"
     },
     {
@@ -451,7 +302,7 @@
       "links": {
         "official": "https://www.muenchen.de/veranstaltungen/weihnachtsmaerkte-christkindlmaerkte-2026"
       },
-      "verifiedAt": "2026-09-21",
+      "verifiedAt": "2026-10-30",
       "addedAt": "2026-09-25"
     },
     {
@@ -543,7 +394,7 @@
       "links": {
         "official": "https://www.in-muenchen.de/events/filmfoniker-movie-night.html"
       },
-      "verifiedAt": "2026-09-21",
+      "verifiedAt": "2026-10-30",
       "addedAt": "2026-09-25"
     },
     {
@@ -615,7 +466,7 @@
         "official": "https://www.gasteig.de/en/events/joe-hisaishis-world-dream-tour/",
         "tickets": "https://www.muenchenmusik.de/mm/veranstaltungen/joe-hisaishis-world-dream-tour-251126"
       },
-      "verifiedAt": "2026-10-02",
+      "verifiedAt": "2026-10-30",
       "addedAt": "2026-09-25"
     },
     {
@@ -898,7 +749,7 @@
       "links": {
         "official": "https://www.christkindlesmarkt.de/"
       },
-      "verifiedAt": "2026-09-25",
+      "verifiedAt": "2026-10-30",
       "addedAt": "2026-09-25"
     },
     {
@@ -929,7 +780,7 @@
       "links": {
         "official": "https://www.augsburg.de/freizeit/feste-und-maerkte/christkindlesmarkt"
       },
-      "verifiedAt": "2026-09-25",
+      "verifiedAt": "2026-10-30",
       "addedAt": "2026-09-25"
     },
     {
@@ -1030,7 +881,7 @@
         "official": "https://jazzfestmuenchen.de/",
         "tickets": "https://jazzfestmuenchen.dein-ticket.shop/events/jazzfest-muenchen-2026"
       },
-      "verifiedAt": "2026-09-25",
+      "verifiedAt": "2026-10-30",
       "addedAt": "2026-09-25"
     },
     {
@@ -1178,7 +1029,7 @@
         "official": "https://frankenmexx.de/",
         "tickets": "https://tickets.animexx.de/frankenmexx-2026/"
       },
-      "verifiedAt": "2026-10-16",
+      "verifiedAt": "2026-10-30",
       "addedAt": "2026-09-25"
     },
     {
@@ -1357,7 +1208,7 @@
       "links": {
         "official": "https://entitytheatre.com/richard-iii-save-the-audition-date"
       },
-      "verifiedAt": "2026-10-16",
+      "verifiedAt": "2026-10-30",
       "addedAt": "2026-09-25"
     },
     {
@@ -1751,6 +1602,67 @@
       "links": {
         "official": "https://www.muenchen.de/sehenswuerdigkeiten/museen/vorschau-der-muenchner-museen-2026-2-jahreshaelfte"
       }
+    },
+    {
+      "id": "star-wars-in-concert-2027-01-02",
+      "titleOriginal": "STAR WARS in Concert – Eine neue Hoffnung",
+      "title": {
+        "zh-TW": "星際大戰電影音樂會：曙光乍現",
+        "en": "STAR WARS in Concert – A New Hope",
+        "de": "STAR WARS in Concert – Eine neue Hoffnung"
+      },
+      "summary": {
+        "zh-TW": "《星際大戰四：曙光乍現》全片放映，捷克皮爾森愛樂在 Caleb Young 指揮下現場演奏 John Williams 配樂；影片為德語配音，頁面未提供字幕資訊。連演 3 晚。",
+        "en": "The full film Star Wars: A New Hope screens while the Pilsen Philharmonic under Caleb Young plays John Williams' score live. Film in German; no subtitle info on the page. Three evenings.",
+        "de": "Der komplette Film Eine neue Hoffnung läuft, während die Pilsner Philharmonie unter Caleb Young John Williams' Score live spielt. Film in deutscher Sprache; keine Angabe zu Untertiteln. Drei Abende."
+      },
+      "category": "music",
+      "tags": [
+        "film-score"
+      ],
+      "start": "2027-01-02T19:30",
+      "end": "2027-01-04T19:30",
+      "venue": "Isarphilharmonie (Gasteig HP8)",
+      "city": "München",
+      "distance": "city",
+      "price": null,
+      "language": "unknown",
+      "links": {
+        "official": "https://www.in-muenchen.de/events/star-wars-in-concert-neue-hoffnung.html",
+        "tickets": "https://www.muenchenticket.de/event/star-wars-in-concert-38213/448275"
+      },
+      "verifiedAt": "2026-10-30",
+      "addedAt": "2026-10-30"
+    },
+    {
+      "id": "muenchner-symphoniker-oboe-2027-02-02",
+      "titleOriginal": "Münchner Symphoniker – Haydn Oboenkonzert & Dvořák 6",
+      "title": {
+        "zh-TW": "慕尼黑交響樂團：海頓雙簧管協奏曲與德沃夏克第六號",
+        "en": "Münchner Symphoniker: Haydn Oboe Concerto & Dvořák 6",
+        "de": "Münchner Symphoniker: Haydn Oboenkonzert & Dvořák 6"
+      },
+      "summary": {
+        "zh-TW": "Ruth Reinhardt 指揮慕尼黑交響樂團，雙簧管名家 Ramón Ortega Quero 獨奏海頓 C 大調雙簧管協奏曲；另演出 Martinů《Toccata e due canzoni》與德沃夏克第六號交響曲。",
+        "en": "Ruth Reinhardt conducts the Münchner Symphoniker with oboist Ramón Ortega Quero in Haydn's Oboe Concerto in C major, plus Martinů's Toccata e due canzoni and Dvořák's Symphony No. 6.",
+        "de": "Ruth Reinhardt dirigiert die Münchner Symphoniker; Ramón Ortega Quero spielt Haydns Oboenkonzert C-Dur, dazu Martinůs Toccata e due canzoni und Dvořáks Sinfonie Nr. 6. Einführung 19:00."
+      },
+      "category": "music",
+      "tags": [
+        "oboe"
+      ],
+      "start": "2027-02-02T19:30",
+      "end": null,
+      "venue": "Prinzregententheater",
+      "city": "München",
+      "distance": "city",
+      "price": null,
+      "language": "none-needed",
+      "links": {
+        "official": "https://www.in-muenchen.de/events/munchner-symphoniker-prinzregententheater-prinzregententheater-prinzregententheater-prinzregententheater.html"
+      },
+      "verifiedAt": "2026-10-30",
+      "addedAt": "2026-10-30"
     }
   ]
 }
