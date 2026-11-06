@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-30",
+  "updatedAt": "2026-11-06",
   "weekPicks": [
-    "brso-harmoniemusik-2026-10-31",
-    "disney-in-concert-2026-11-06",
-    "hisaishi-2026-11-25"
+    "hisaishi-2026-11-25",
+    "filmfoniker-2026-11-21",
+    "tollwood-winter-2026"
   ],
   "events": [
     {
@@ -123,36 +123,6 @@
       "addedAt": "2026-09-25"
     },
     {
-      "id": "brso-harmoniemusik-2026-10-31",
-      "titleOriginal": "BRSO Kammerkonzert »Vortreffliche Harmonie-Musik«",
-      "title": {
-        "zh-TW": "BRSO 管樂室內樂：精緻的和聲音樂",
-        "en": "BRSO chamber concert: \"Excellent Harmony Music\"",
-        "de": "BRSO Kammerkonzert »Vortreffliche Harmonie-Musik«"
-      },
-      "summary": {
-        "zh-TW": "BRSO 樂手演奏貝多芬的八重奏、雙簧管與英國管三重奏，以及莫札特小夜曲 KV 388，雙簧管由 Ramón Ortega Quero 等人擔任。另有 10/29 Baierbrunn 場與 11/1 Tutzing 場。",
-        "en": "BRSO players perform Beethoven's Octet and Trio for oboes & cor anglais plus Mozart's Serenade KV 388, with oboist Ramón Ortega Quero. Also 29 Oct (Baierbrunn) & 1 Nov (Tutzing).",
-        "de": "Beethovens Oktett, Trio für Oboen & Englischhorn und Mozarts Serenade KV 388 mit Ramón Ortega Quero u. a. Weitere Termine: 29.10. Baierbrunn, 1.11. Tutzing."
-      },
-      "category": "music",
-      "tags": [
-        "oboe"
-      ],
-      "start": "2026-10-31T20:00",
-      "end": null,
-      "venue": "Max-Joseph-Saal (Residenz)",
-      "city": "München",
-      "distance": "city",
-      "price": "€18–30 (U30 €10)",
-      "language": "none-needed",
-      "links": {
-        "official": "https://www.brso.de/konzerte/kammerkonzert-vortreffliche-harmonie-musik/"
-      },
-      "verifiedAt": "2026-10-23",
-      "addedAt": "2026-09-25"
-    },
-    {
       "id": "disney-in-concert-2026-11-06",
       "titleOriginal": "Disney in Concert 2026 – Wishes and Wonders",
       "title": {
@@ -209,7 +179,7 @@
       "links": {
         "official": "https://www.in-muenchen.de/events/anime-songs-in-concert-next-level-tour-extended.html"
       },
-      "verifiedAt": "2026-10-23",
+      "verifiedAt": "2026-11-06",
       "addedAt": "2026-09-25"
     },
     {
@@ -394,7 +364,7 @@
       "links": {
         "official": "https://www.in-muenchen.de/events/filmfoniker-movie-night.html"
       },
-      "verifiedAt": "2026-10-30",
+      "verifiedAt": "2026-11-06",
       "addedAt": "2026-09-25"
     },
     {
@@ -466,7 +436,7 @@
         "official": "https://www.gasteig.de/en/events/joe-hisaishis-world-dream-tour/",
         "tickets": "https://www.muenchenmusik.de/mm/veranstaltungen/joe-hisaishis-world-dream-tour-251126"
       },
-      "verifiedAt": "2026-10-30",
+      "verifiedAt": "2026-11-06",
       "addedAt": "2026-09-25"
     },
     {
@@ -583,12 +553,12 @@
       "venue": "Isarphilharmonie (Gasteig HP8)",
       "city": "München",
       "distance": "city",
-      "price": "ab €90.90",
+      "price": "from €79",
       "language": "none-needed",
       "links": {
         "official": "https://www.klassikradio.de/live-in-concert/termine/muenchen-01-12-2026/"
       },
-      "verifiedAt": "2026-10-23",
+      "verifiedAt": "2026-11-06",
       "addedAt": "2026-09-25"
     },
     {
@@ -618,7 +588,7 @@
       "links": {
         "official": "https://www.in-muenchen.de/events/munchner-rundfunkorchester-202627-game-on-symphony.html"
       },
-      "verifiedAt": "2026-10-23",
+      "verifiedAt": "2026-11-06",
       "addedAt": "2026-09-25"
     },
     {
@@ -1033,37 +1003,6 @@
       "addedAt": "2026-09-25"
     },
     {
-      "id": "tcg-halloween-convention-2026",
-      "titleOriginal": "Halloween Special Card Convention 2026",
-      "title": {
-        "zh-TW": "萬聖節集換式卡牌展",
-        "en": "Halloween Trading Card Convention",
-        "de": "Halloween Special Card Convention 2026"
-      },
-      "summary": {
-        "zh-TW": "200 多個卡牌攤位（寶可夢、遊戲王、魔法風雲會、One Piece、Lorcana 等），有萬聖節變裝主題、Cosplay 比賽和抽獎。",
-        "en": "Trading-card fair with 200+ dealer tables (Pokémon, Yu-Gi-Oh!, Magic, One Piece, Lorcana …), Halloween costume theme, cosplay contest and raffle.",
-        "de": "Sammelkarten-Messe mit über 200 Händlertischen (Pokémon, Yu-Gi-Oh!, Magic, One Piece, Lorcana …), Halloween-Motto, Cosplay-Wettbewerb und Verlosung."
-      },
-      "category": "gaming",
-      "tags": [
-        "convention"
-      ],
-      "start": "2026-10-31",
-      "end": "2026-11-01",
-      "venue": "MTC world of fashion",
-      "city": "München",
-      "distance": "city",
-      "price": "€20 (weekend €30)",
-      "language": "none-needed",
-      "links": {
-        "official": "https://tcgermany.de/messe-muenchen",
-        "tickets": "https://tcgermany.ditix.shop/event/eyi9es3v9rcf53ef"
-      },
-      "verifiedAt": "2026-10-23",
-      "addedAt": "2026-09-25"
-    },
-    {
       "id": "christkindlmarkt-salzburg-2026",
       "titleOriginal": "Salzburger Christkindlmarkt",
       "title": {
@@ -1156,34 +1095,6 @@
       "addedAt": "2026-09-25"
     },
     {
-      "id": "standup-drehleier-2026-10-31",
-      "titleOriginal": "Munich's Biggest English-German Stand-up Comedy Show",
-      "title": {
-        "zh-TW": "慕尼黑最大英德雙語脫口秀",
-        "en": "Munich's Biggest English-German Stand-up Comedy Show",
-        "de": "Munich's Biggest English-German Stand-up Comedy Show"
-      },
-      "summary": {
-        "zh-TW": "由 Mel Kelly 主持，多位喜劇演員輪流用德語和英語表演，節目大約各半，適合英語聽眾。",
-        "en": "Hosted by Mel Kelly, a mixed lineup of comedians alternates between German and English sets — roughly half the show is in English.",
-        "de": "Moderiert von Mel Kelly, Comedians wechseln zwischen deutschen und englischen Sets – etwa die Hälfte des Programms auf Englisch."
-      },
-      "category": "stage",
-      "tags": [],
-      "start": "2026-10-31T20:00",
-      "end": null,
-      "venue": "Theater Drehleier",
-      "city": "München",
-      "distance": "city",
-      "price": null,
-      "language": "english",
-      "links": {
-        "official": "https://www.eventbrite.de/e/munichs-biggest-english-german-stand-up-comedy-show-theater-drehleier-tickets-2000814176061"
-      },
-      "verifiedAt": "2026-09-25",
-      "addedAt": "2026-09-25"
-    },
-    {
       "id": "richard-iii-entity-theatre-2026-11",
       "titleOriginal": "The True Tragedy of Richard III",
       "title": {
@@ -1208,7 +1119,7 @@
       "links": {
         "official": "https://entitytheatre.com/richard-iii-save-the-audition-date"
       },
-      "verifiedAt": "2026-10-30",
+      "verifiedAt": "2026-11-06",
       "addedAt": "2026-09-25"
     },
     {
@@ -1299,7 +1210,7 @@
     },
     {
       "id": "japandult-2026-12-13",
-      "verifiedAt": "2026-10-02",
+      "verifiedAt": "2026-11-06",
       "titleOriginal": "Japandult München",
       "title": {
         "zh-TW": "慕尼黑日本文化市集 Japandult（第 23 屆）",
@@ -1400,34 +1311,6 @@
       "addedAt": "2026-10-09"
     },
     {
-      "id": "siegfried-staatsoper-2026-11-01",
-      "titleOriginal": "Siegfried (Richard Wagner) – Bayerische Staatsoper",
-      "title": {
-        "zh-TW": "華格納《齊格飛》（巴伐利亞國家歌劇院）",
-        "en": "Siegfried – Bavarian State Opera",
-        "de": "Siegfried – Bayerische Staatsoper"
-      },
-      "summary": {
-        "zh-TW": "Tobias Kratzer 導演、Vladimir Jurowski 指揮的《尼伯龍根的指環》新製作第三部，德語演唱，附德英文字幕。",
-        "en": "Wagner's Siegfried in the new Ring production directed by Tobias Kratzer and conducted by Vladimir Jurowski; sung in German with German and English surtitles.",
-        "de": "Wagners Siegfried in der Neuproduktion von Tobias Kratzer, Dirigent Vladimir Jurowski; auf Deutsch gesungen, mit deutschen und englischen Übertiteln."
-      },
-      "category": "stage",
-      "tags": [],
-      "start": "2026-11-01T16:00",
-      "end": null,
-      "venue": "Nationaltheater",
-      "city": "München",
-      "distance": "city",
-      "price": null,
-      "language": "en-subs",
-      "links": {
-        "official": "https://www.staatsoper.de/en/productions/siegfried/2026-11-01-1600-16126"
-      },
-      "verifiedAt": "2026-10-16",
-      "addedAt": "2026-10-16"
-    },
-    {
       "id": "magic-hans-zimmer-showpalast-2027-02-06",
       "titleOriginal": "The Magic of Hans Zimmer – The Concert",
       "title": {
@@ -1521,7 +1404,7 @@
       "end": "2026-11-29",
       "price": null,
       "addedAt": "2026-10-23",
-      "verifiedAt": "2026-10-23",
+      "verifiedAt": "2026-11-06",
       "id": "food-and-life-2026",
       "titleOriginal": "FOOD & LIFE 2026",
       "title": {
@@ -1663,6 +1546,150 @@
       },
       "verifiedAt": "2026-10-30",
       "addedAt": "2026-10-30"
+    },
+    {
+      "id": "franzoesische-filmwoche-2026",
+      "titleOriginal": "Französische Filmwoche 2026",
+      "title": {
+        "zh-TW": "法國電影週 2026",
+        "en": "French Film Week 2026",
+        "de": "Französische Filmwoche 2026"
+      },
+      "summary": {
+        "zh-TW": "Theatiner Filmkunst 的一週法語新片，11 部影片原文放映；其中 11/22 17:15《Sarah Bernhardt, la divine》與 11/23 18:15《L'épreuve du feu》附英文字幕，其餘為德文字幕。",
+        "en": "A week of new French films at Theatiner Filmkunst, 11 titles in the original; only Sarah Bernhardt, la divine (22 Nov, 17:15) and L'épreuve du feu (23 Nov, 18:15) have English subtitles, the rest German.",
+        "de": "Eine Woche neue französische Filme im Theatiner Filmkunst, 11 Titel im Original; nur Sarah Bernhardt, la divine (22.11., 17:15) und L'épreuve du feu (23.11., 18:15) mit englischen Untertiteln, die übrigen mit deutschen."
+      },
+      "category": "stage",
+      "tags": [
+        "film"
+      ],
+      "start": "2026-11-19",
+      "end": "2026-11-25",
+      "venue": "Theatiner Filmkunst",
+      "city": "München",
+      "distance": "city",
+      "price": null,
+      "language": "en-subs",
+      "links": {
+        "official": "https://www.in-muenchen.de/?p=1106525"
+      },
+      "verifiedAt": "2026-11-06",
+      "addedAt": "2026-11-06"
+    },
+    {
+      "id": "drei-haselnuesse-regensburg-2026-12-12",
+      "titleOriginal": "Drei Haselnüsse für Aschenbrödel – Der Originalfilm mit Live-Orchester",
+      "title": {
+        "zh-TW": "《三顆榛果獻給灰姑娘》電影配現場交響樂團",
+        "en": "Three Wishes for Cinderella – film with live orchestra",
+        "de": "Drei Haselnüsse für Aschenbrödel – Der Originalfilm mit Live-Orchester"
+      },
+      "summary": {
+        "zh-TW": "經典聖誕電影在大銀幕播放，交響樂團現場演奏 Karel Svoboda 的配樂；當天 16:00 與 19:00 兩場，電影為德語，頁面未提及字幕。",
+        "en": "The Christmas classic on a cinema screen while a symphony orchestra plays Karel Svoboda's score live; two shows (16:00 and 19:00). Film is in German, page mentions no subtitles.",
+        "de": "Der Weihnachtsklassiker auf Leinwand, ein Sinfonieorchester spielt Karel Svobodas Filmmusik live; zwei Vorstellungen (16:00 und 19:00). Film auf Deutsch, Untertitel nicht erwähnt."
+      },
+      "category": "music",
+      "tags": [
+        "film-score"
+      ],
+      "start": "2026-12-12T16:00",
+      "end": null,
+      "venue": "Audimax",
+      "city": "Regensburg",
+      "distance": "daytrip",
+      "price": "from €59.50",
+      "language": "unknown",
+      "links": {
+        "official": "https://www.mvp.de/regensburg/veranstaltungen/drei-haselnuesse-fuer-aschenbroedel-der-originalfilm-mit-audimax/"
+      },
+      "verifiedAt": "2026-11-06",
+      "addedAt": "2026-11-06"
+    },
+    {
+      "id": "jungle-comedy-club-2026-11",
+      "titleOriginal": "Jungle Comedy Showcase: Live English Standup",
+      "title": {
+        "zh-TW": "Jungle Comedy 英語脫口秀專場",
+        "en": "Jungle Comedy Showcase: Live English Standup",
+        "de": "Jungle Comedy Showcase: Live English Standup"
+      },
+      "summary": {
+        "zh-TW": "Jungle Comedy Club 每週五晚 20:00 的英語脫口秀，一場 4–6 位本地與國際喜劇演員，11/6、11/13、11/20。",
+        "en": "English stand-up at the Jungle Comedy Club on Fridays 20:00, each night with 4–6 local and international comedians; 6, 13 and 20 Nov.",
+        "de": "Englischsprachiges Stand-up im Jungle Comedy Club freitags 20:00, je 4–6 lokale und internationale Comedians; 6., 13. und 20.11."
+      },
+      "category": "stage",
+      "tags": [],
+      "start": "2026-11-06T20:00",
+      "end": "2026-11-20T22:00",
+      "venue": "The Jungle Comedy Club",
+      "city": "München",
+      "distance": "city",
+      "price": null,
+      "language": "english",
+      "links": {
+        "official": "https://www.in-muenchen.de/?p=1099699"
+      },
+      "verifiedAt": "2026-11-06",
+      "addedAt": "2026-11-06"
+    },
+    {
+      "id": "kevin-bridges-2027-01-27",
+      "titleOriginal": "Kevin Bridges – Here If You Need Me",
+      "title": {
+        "zh-TW": "Kevin Bridges 脫口秀《Here If You Need Me》",
+        "en": "Kevin Bridges – Here If You Need Me",
+        "de": "Kevin Bridges – Here If You Need Me"
+      },
+      "summary": {
+        "zh-TW": "蘇格蘭脫口秀演員 Kevin Bridges 的新巡演慕尼黑場；頁面未明列語言，但應為英語，建議向主辦單位確認。",
+        "en": "Scottish stand-up Kevin Bridges with his new tour show in Munich; the page doesn't state the language (very likely English) – confirm with the organiser.",
+        "de": "Der schottische Stand-up-Comedian Kevin Bridges mit seiner neuen Tour in München; Sprache nicht angegeben (vermutlich Englisch) – beim Veranstalter prüfen."
+      },
+      "category": "stage",
+      "tags": [],
+      "start": "2027-01-27T20:00",
+      "end": null,
+      "venue": "Alte Kongresshalle",
+      "city": "München",
+      "distance": "city",
+      "price": null,
+      "language": "unknown",
+      "links": {
+        "official": "https://www.in-muenchen.de/events/kevin-bridges.html"
+      },
+      "verifiedAt": "2026-11-06",
+      "addedAt": "2026-11-06"
+    },
+    {
+      "id": "nussknacker-staatsballett-2026-12",
+      "titleOriginal": "Der Nussknacker (John Neumeier)",
+      "title": {
+        "zh-TW": "巴伐利亞國家芭蕾舞團《胡桃鉗》",
+        "en": "The Nutcracker – Bavarian State Ballet",
+        "de": "Der Nussknacker – Bayerisches Staatsballett"
+      },
+      "summary": {
+        "zh-TW": "John Neumeier 編舞、柴可夫斯基音樂的《胡桃鉗》聖誕版，Mikhail Agrest 指揮，國家劇院演出（12/12、12/18、12/21、12/25、12/28 等場次）。",
+        "en": "John Neumeier's Christmas Nutcracker to Tchaikovsky's score, conducted by Mikhail Agrest, at the Nationaltheater (12, 18, 21, 25, 28 Dec and more).",
+        "de": "John Neumeiers Weihnachts-Nussknacker zu Tschaikowskys Musik, Dirigent Mikhail Agrest, im Nationaltheater (12., 18., 21., 25., 28.12. u. a.)."
+      },
+      "category": "stage",
+      "tags": [],
+      "start": "2026-12-12T19:30",
+      "end": "2026-12-28",
+      "venue": "Nationaltheater",
+      "city": "München",
+      "distance": "city",
+      "price": null,
+      "language": "none-needed",
+      "links": {
+        "official": "https://www.in-muenchen.de/?p=1095584"
+      },
+      "verifiedAt": "2026-11-06",
+      "addedAt": "2026-11-06"
     }
   ]
 }
