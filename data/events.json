@@ -1,41 +1,11 @@
 {
-  "updatedAt": "2026-11-06",
+  "updatedAt": "2026-11-13",
   "weekPicks": [
-    "hisaishi-2026-11-25",
+    "lotr-gefaehrten-2027-03-19",
     "filmfoniker-2026-11-21",
-    "tollwood-winter-2026"
+    "hisaishi-2026-11-25"
   ],
   "events": [
-    {
-      "id": "korean-mysteries-2026",
-      "titleOriginal": "Korean Mysteries",
-      "title": {
-        "zh-TW": "韓國奇幻電影回顧",
-        "en": "Korean Mysteries (film series)",
-        "de": "Korean Mysteries (Filmreihe)"
-      },
-      "summary": {
-        "zh-TW": "Filmmuseum 的影展單元，回顧 1960 年代至今的韓國奇幻與懸疑電影。",
-        "en": "Filmmuseum series tracing Korean fantastic and mystery cinema from the 1960s on.",
-        "de": "Filmreihe im Filmmuseum: eine Reise durch das koreanische phantastische Kino seit den 1960ern."
-      },
-      "category": "asia",
-      "tags": [
-        "film"
-      ],
-      "start": "2026-09-27",
-      "end": "2026-11-10",
-      "venue": "Filmmuseum München",
-      "city": "München",
-      "distance": "city",
-      "price": null,
-      "language": "unknown",
-      "links": {
-        "official": "https://www.muenchner-stadtmuseum.de/sammlungen/filmmuseum/filmreihen/korean-mysteries"
-      },
-      "verifiedAt": "2026-10-23",
-      "addedAt": "2026-09-25"
-    },
     {
       "id": "barcelona-moderna-2026",
       "titleOriginal": "Barcelona moderna. Von Gaudí bis Picasso",
@@ -120,66 +90,6 @@
         "official": "https://www.muenchen.de/sehenswuerdigkeiten/museen/vorschau-der-muenchner-museen-2026-2-jahreshaelfte"
       },
       "verifiedAt": "2026-10-23",
-      "addedAt": "2026-09-25"
-    },
-    {
-      "id": "disney-in-concert-2026-11-06",
-      "titleOriginal": "Disney in Concert 2026 – Wishes and Wonders",
-      "title": {
-        "zh-TW": "迪士尼音樂會：願望與奇蹟",
-        "en": "Disney in Concert – Wishes and Wonders",
-        "de": "Disney in Concert – Wishes and Wonders"
-      },
-      "summary": {
-        "zh-TW": "頁面未提供詳細內容，目前只確認了日期和場地。",
-        "en": "No programme details on the page – only date and venue confirmed.",
-        "de": "Auf der Seite keine Programmdetails – nur Datum und Ort bestätigt."
-      },
-      "category": "music",
-      "tags": [
-        "film-score"
-      ],
-      "start": "2026-11-06T19:30",
-      "end": null,
-      "venue": "Olympiahalle",
-      "city": "München",
-      "distance": "city",
-      "price": null,
-      "language": "unknown",
-      "links": {
-        "official": "https://www.in-muenchen.de/events/disney-in-concert-2026.html"
-      },
-      "verifiedAt": "2026-10-23",
-      "addedAt": "2026-09-25"
-    },
-    {
-      "id": "anime-songs-2026-11-08",
-      "titleOriginal": "Anime Songs in Concert – Next Level Tour Extended",
-      "title": {
-        "zh-TW": "動畫歌曲演唱會",
-        "en": "Anime Songs in Concert",
-        "de": "Anime Songs in Concert"
-      },
-      "summary": {
-        "zh-TW": "Petra Scheeser 和樂團現場演唱動畫主題曲，包括《名偵探柯南》、《寶可夢》、《七龍珠 Z》、《數碼寶貝》，可以拿螢光棒跟唱。",
-        "en": "Petra Scheeser and band sing anime themes – Detective Conan, Pokémon, Dragon Ball Z, Digimon. Glow sticks & sing-along.",
-        "de": "Petra Scheeser & Band mit Anime-Songs aus Detektiv Conan, Pokémon, Dragon Ball Z, Digimon – Knicklichter & Mitsingen."
-      },
-      "category": "music",
-      "tags": [
-        "anime"
-      ],
-      "start": "2026-11-08T20:00",
-      "end": null,
-      "venue": "Technikum (Werksviertel)",
-      "city": "München",
-      "distance": "city",
-      "price": null,
-      "language": "none-needed",
-      "links": {
-        "official": "https://www.in-muenchen.de/events/anime-songs-in-concert-next-level-tour-extended.html"
-      },
-      "verifiedAt": "2026-11-06",
       "addedAt": "2026-09-25"
     },
     {
@@ -364,7 +274,7 @@
       "links": {
         "official": "https://www.in-muenchen.de/events/filmfoniker-movie-night.html"
       },
-      "verifiedAt": "2026-11-06",
+      "verifiedAt": "2026-11-13",
       "addedAt": "2026-09-25"
     },
     {
@@ -436,7 +346,7 @@
         "official": "https://www.gasteig.de/en/events/joe-hisaishis-world-dream-tour/",
         "tickets": "https://www.muenchenmusik.de/mm/veranstaltungen/joe-hisaishis-world-dream-tour-251126"
       },
-      "verifiedAt": "2026-11-06",
+      "verifiedAt": "2026-11-13",
       "addedAt": "2026-09-25"
     },
     {
@@ -558,7 +468,7 @@
       "links": {
         "official": "https://www.klassikradio.de/live-in-concert/termine/muenchen-01-12-2026/"
       },
-      "verifiedAt": "2026-11-06",
+      "verifiedAt": "2026-11-13",
       "addedAt": "2026-09-25"
     },
     {
@@ -588,7 +498,7 @@
       "links": {
         "official": "https://www.in-muenchen.de/events/munchner-rundfunkorchester-202627-game-on-symphony.html"
       },
-      "verifiedAt": "2026-11-06",
+      "verifiedAt": "2026-11-13",
       "addedAt": "2026-09-25"
     },
     {
@@ -851,36 +761,7 @@
         "official": "https://jazzfestmuenchen.de/",
         "tickets": "https://jazzfestmuenchen.dein-ticket.shop/events/jazzfest-muenchen-2026"
       },
-      "verifiedAt": "2026-10-30",
-      "addedAt": "2026-09-25"
-    },
-    {
-      "id": "belle-sebastian-2026-12-01",
-      "titleOriginal": "Belle & Sebastian – If You're Feeling Sinister",
-      "title": {
-        "zh-TW": "Belle & Sebastian 演唱會",
-        "en": "Belle & Sebastian live",
-        "de": "Belle & Sebastian live"
-      },
-      "summary": {
-        "zh-TW": "蘇格蘭獨立流行樂團完整演出 1996 年經典專輯《If You're Feeling Sinister》，再加上其他人氣歌曲。",
-        "en": "The Scottish indie-pop band plays their 1996 classic album 'If You're Feeling Sinister' in full, plus fan favourites.",
-        "de": "Die schottische Indie-Pop-Band spielt ihr Album „If You're Feeling Sinister“ (1996) komplett plus Fan-Favoriten."
-      },
-      "category": "music",
-      "tags": [],
-      "start": "2026-12-01T20:00",
-      "end": null,
-      "venue": "Muffathalle",
-      "city": "München",
-      "distance": "city",
-      "price": null,
-      "language": "none-needed",
-      "links": {
-        "official": "https://www.muffatwerk.de/de/events",
-        "tickets": "https://www.eventim.de/event/belle-sebastian-muffatwerk-21774549/"
-      },
-      "verifiedAt": "2026-09-25",
+      "verifiedAt": "2026-11-13",
       "addedAt": "2026-09-25"
     },
     {
@@ -937,37 +818,6 @@
         "official": "https://www.lenbachhaus.de/en/program/exhibitions/details/ueber-die-welt-hinaus-der-blaue-reiter"
       },
       "verifiedAt": "2026-10-02",
-      "addedAt": "2026-09-25"
-    },
-    {
-      "id": "spielwiesn-2026",
-      "titleOriginal": "SPIELWIESN",
-      "title": {
-        "zh-TW": "SPIELWIESN 桌遊展",
-        "en": "SPIELWIESN board game fair",
-        "de": "SPIELWIESN"
-      },
-      "summary": {
-        "zh-TW": "南德最大的桌遊展：現場有 4,000 多款遊戲可借來玩、2,500 個座位，還有比賽、Cosplay 和 TRPG 區；週五晚上是「桌遊長夜」。",
-        "en": "Southern Germany's biggest board-game fair: 4,000+ games to borrow and play at 2,500 seats, plus tournaments, cosplay and pen-&-paper areas; Friday 'Long Night of Games'.",
-        "de": "Süddeutschlands größte Spielemesse: über 4.000 Spiele zum Ausleihen an 2.500 Plätzen, Turniere, Cosplay und Pen-&-Paper; Freitag „Lange Nacht der Spiele“."
-      },
-      "category": "gaming",
-      "tags": [
-        "convention"
-      ],
-      "start": "2026-11-06",
-      "end": "2026-11-08",
-      "venue": "Messe Augsburg",
-      "city": "Augsburg",
-      "distance": "daytrip",
-      "price": "€12–17",
-      "language": "none-needed",
-      "links": {
-        "official": "https://spielwiesn.de/sw",
-        "tickets": "https://www.eventim-light.com/de/a/5b4d9db6dadab30001799a40/"
-      },
-      "verifiedAt": "2026-10-23",
       "addedAt": "2026-09-25"
     },
     {
@@ -1061,7 +911,7 @@
       "links": {
         "official": "https://krampusse.org/termine-2026-27/"
       },
-      "verifiedAt": "2026-09-25",
+      "verifiedAt": "2026-11-13",
       "addedAt": "2026-09-25"
     },
     {
@@ -1404,7 +1254,7 @@
       "end": "2026-11-29",
       "price": null,
       "addedAt": "2026-10-23",
-      "verifiedAt": "2026-11-06",
+      "verifiedAt": "2026-11-13",
       "id": "food-and-life-2026",
       "titleOriginal": "FOOD & LIFE 2026",
       "title": {
@@ -1456,34 +1306,6 @@
       "language": "english",
       "links": {
         "official": "https://www.in-muenchen.de/events/english-comedy-mixed-show-at-imal.html"
-      }
-    },
-    {
-      "end": "2026-11-08",
-      "price": null,
-      "addedAt": "2026-10-23",
-      "verifiedAt": "2026-10-23",
-      "id": "krishna-museum-fuenf-kontinente-2026",
-      "titleOriginal": "Krishna. Religion, Kunst und Popkultur",
-      "title": {
-        "zh-TW": "黑天神：宗教、藝術與流行文化",
-        "en": "Krishna. Religion, Art and Pop Culture",
-        "de": "Krishna. Religion, Kunst und Popkultur"
-      },
-      "summary": {
-        "zh-TW": "約 100 件展品，從印度教信仰一路看到黑天神在全球流行文化中的形象；展期至 11/8。",
-        "en": "About 100 objects trace Krishna from Hindu worship to global pop culture; closes 8 Nov.",
-        "de": "Rund 100 Objekte folgen Krishna vom hinduistischen Kult bis in die globale Popkultur; bis 8.11."
-      },
-      "category": "asia",
-      "tags": [],
-      "start": "2026-04-24",
-      "venue": "Museum Fünf Kontinente",
-      "city": "München",
-      "distance": "city",
-      "language": "unknown",
-      "links": {
-        "official": "https://www.muenchen.de/sehenswuerdigkeiten/museen/vorschau-der-muenchner-museen-2026-2-jahreshaelfte"
       }
     },
     {
@@ -1690,6 +1512,192 @@
       },
       "verifiedAt": "2026-11-06",
       "addedAt": "2026-11-06"
+    },
+    {
+      "id": "lotr-hobbit-konzert-2027-01-10",
+      "titleOriginal": "Der Herr der Ringe & Der Hobbit – Das Konzert",
+      "title": {
+        "zh-TW": "魔戒與哈比人電影音樂會",
+        "en": "The Lord of the Rings & The Hobbit – The Concert",
+        "de": "Der Herr der Ringe & Der Hobbit – Das Konzert"
+      },
+      "summary": {
+        "zh-TW": "Cinema Festival Symphonics 管弦樂團、獨唱與合唱團現場演奏 Howard Shore 的《魔戒》與《哈比人》配樂，搭配畫面動畫與燈光，並由獨唱者演唱 The Last Goodbye 等歌曲。",
+        "en": "The Cinema Festival Symphonics orchestra, soloists and choir play Howard Shore's music from The Lord of the Rings and The Hobbit with screen animations and lighting; soloists sing The Last Goodbye and more.",
+        "de": "Das Orchester Cinema Festival Symphonics mit Solisten und Chor spielt Howard Shores Musik aus Der Herr der Ringe und Der Hobbit, mit Animationen und Lichtshow; Solisten singen u. a. The Last Goodbye."
+      },
+      "category": "music",
+      "tags": [
+        "film-score"
+      ],
+      "start": "2027-01-10T18:00",
+      "end": null,
+      "venue": "Kleine Olympiahalle",
+      "city": "München",
+      "distance": "city",
+      "price": null,
+      "language": "none-needed",
+      "links": {
+        "official": "https://www.in-muenchen.de/events/der-herr-der-ringe-der-hobbit-das-konzert.html",
+        "tickets": "https://www.muenchenticket.de/event/der-herr-der-ringe-and-der-hobbit-37266/445279?campaign=3039"
+      },
+      "verifiedAt": "2026-11-13",
+      "addedAt": "2026-11-13"
+    },
+    {
+      "id": "lotr-gefaehrten-2027-03-19",
+      "titleOriginal": "Der Herr der Ringe: Die Gefährten – In Concert Live to Film",
+      "title": {
+        "zh-TW": "魔戒首部曲：魔戒現身 電影現場配樂音樂會",
+        "en": "The Lord of the Rings: The Fellowship of the Ring – Live to Film",
+        "de": "Der Herr der Ringe: Die Gefährten – In Concert Live to Film"
+      },
+      "summary": {
+        "zh-TW": "全片放映，Pilsen 愛樂、TUM 合唱團等 200 多位表演者現場演奏 Howard Shore 的奧斯卡配樂（Shore 唯一授權的音樂會版）；影片為英語原音、德文字幕。",
+        "en": "The full film screens while 200+ performers (Pilsen Philharmonic, TUM Choir, soloists) play Howard Shore's Oscar-winning score live – the only version authorised by Shore. English audio with German subtitles.",
+        "de": "Der komplette Film läuft, während über 200 Mitwirkende (Philharmonie Pilsen, TUM-Chor, Solisten) Howard Shores oscarprämierten Score live spielen – die einzige von Shore autorisierte Fassung. Englischer Ton, deutsche Untertitel."
+      },
+      "category": "music",
+      "tags": [
+        "film-score"
+      ],
+      "start": "2027-03-19T18:30",
+      "end": null,
+      "venue": "Olympiahalle",
+      "city": "München",
+      "distance": "city",
+      "price": "from €89",
+      "language": "english",
+      "hardToGet": {
+        "reason": {
+          "zh-TW": "Olympiahalle 的單場大型製作，只有一晚；Howard Shore 授權的唯一版本，建議盡早訂票。",
+          "en": "One night only in the Olympiahalle, and the only Shore-authorised version – book early.",
+          "de": "Nur ein Abend in der Olympiahalle, einzige von Shore autorisierte Fassung – früh buchen."
+        },
+        "saleStart": null,
+        "saleStatus": "on-sale"
+      },
+      "links": {
+        "official": "https://www.in-muenchen.de/events/der-herr-der-ringe-die-gefahrten.html",
+        "tickets": "https://www.muenchenticket.de/event/der-herr-der-ringe-die-gefahrten/445111?campaign=3039"
+      },
+      "verifiedAt": "2026-11-13",
+      "addedAt": "2026-11-13"
+    },
+    {
+      "id": "majoras-mask-endgegner-2027-03-23",
+      "titleOriginal": "Before the Moon Falls – A Live Game Music Concert (Majora's Mask)",
+      "title": {
+        "zh-TW": "《薩爾達傳說：姆吉拉的面具》遊戲音樂現場演出",
+        "en": "Before the Moon Falls – Majora's Mask live game music concert",
+        "de": "Before the Moon Falls – Live-Konzert mit Musik aus Majora's Mask"
+      },
+      "summary": {
+        "zh-TW": "科隆的電玩樂團 Endgegner 以四人樂團編制，依劇情順序演奏幾乎整張《姆吉拉的面具》（近藤浩治）配樂，結合爵士、古典、民謠與前衛搖滾，並有旁白與現場視覺。",
+        "en": "Cologne video-game band Endgegner plays nearly the whole Majora's Mask (Koji Kondo) soundtrack in story order, blending jazz, classical, folk and prog rock, with narration and live visuals.",
+        "de": "Die Kölner Videospiel-Band Endgegner spielt fast den ganzen Majora's-Mask-Soundtrack (Koji Kondo) in Story-Reihenfolge, zwischen Jazz, Klassik, Folk und Prog-Rock, mit Erzählung und Live-Visuals."
+      },
+      "category": "music",
+      "tags": [
+        "game-music"
+      ],
+      "start": "2027-03-23T20:00",
+      "end": null,
+      "venue": "Einstein Kultur",
+      "city": "München",
+      "distance": "city",
+      "price": "€31",
+      "language": "none-needed",
+      "links": {
+        "official": "https://www.eventbrite.com/e/1991053809542/"
+      },
+      "verifiedAt": "2026-11-13",
+      "addedAt": "2026-11-13"
+    },
+    {
+      "id": "alte-pinakothek-liaisons-francaises-2026",
+      "titleOriginal": "Liaisons françaises. Französische Malerei in Bayern von Claude Lorrain bis François Boucher",
+      "title": {
+        "zh-TW": "法國連結：從洛蘭到布雪的巴伐利亞法國繪畫",
+        "en": "Liaisons françaises: French Art in Bavaria from Claude Lorrain to François Boucher",
+        "de": "Liaisons françaises. Französische Malerei in Bayern von Claude Lorrain bis François Boucher"
+      },
+      "summary": {
+        "zh-TW": "老繪畫館首次以館藏法國繪畫為主角的大展：約 50 位藝術家的肖像、歷史畫與風景畫（源自維特爾斯巴赫家族收藏），另有國內外借展。",
+        "en": "The Alte Pinakothek's first major show devoted to its French paintings from Wittelsbach collections: portraits, history paintings and landscapes by about fifty artists, plus loans.",
+        "de": "Die erste große Ausstellung der Alten Pinakothek zu ihrer französischen Malerei aus wittelsbachischem Sammlungsbesitz: Porträts, Historien und Landschaften von rund fünfzig Künstlern plus Leihgaben."
+      },
+      "category": "exhibition",
+      "tags": [],
+      "start": "2026-11-26",
+      "end": "2027-04-04",
+      "venue": "Alte Pinakothek",
+      "city": "München",
+      "distance": "city",
+      "price": "€12 (reduced €8)",
+      "language": "none-needed",
+      "links": {
+        "official": "https://www.pinakothek.de/en/liaisons-francaises"
+      },
+      "verifiedAt": "2026-11-13",
+      "addedAt": "2026-11-13"
+    },
+    {
+      "id": "fritz-winter-pdm-2026",
+      "titleOriginal": "THE NIGHT TOUCHES THE EARTH: Fritz Winter's Cosmos of the 1930s and 40s",
+      "title": {
+        "zh-TW": "夜晚觸碰大地：Fritz Winter 1930–40 年代的宇宙",
+        "en": "The Night Touches the Earth: Fritz Winter's Cosmos of the 1930s and 40s",
+        "de": "Die Nacht berührt die Erde: Fritz Winters Kosmos der 1930er und 40er Jahre"
+      },
+      "summary": {
+        "zh-TW": "紀念 Fritz Winter 逝世 50 週年，依新開放的遺產檔案回顧這位包浩斯出身、以自然力量為題的抽象畫家，含 1944 年《大地的驅動力》系列與戰時素描。",
+        "en": "For the 50th anniversary of Fritz Winter's death: his non-representational works on natural forces, the 1944 'Driving Forces of the Earth' group and war-time drawings, drawn from his newly accessible estate.",
+        "de": "Zum 50. Todestag: Fritz Winters gegenstandsferne Werke über Naturkräfte, die Gruppe „Triebkräfte der Erde“ (1944) und Kriegszeichnungen aus dem neu zugänglichen Nachlass."
+      },
+      "category": "exhibition",
+      "tags": [],
+      "start": "2026-10-09",
+      "end": "2027-02-21",
+      "venue": "Pinakothek der Moderne",
+      "city": "München",
+      "distance": "city",
+      "price": "€10 (reduced €7)",
+      "language": "none-needed",
+      "links": {
+        "official": "https://www.pinakothek-der-moderne.de/en/exhibitions/die-nacht-beruehrt-die-erde/"
+      },
+      "verifiedAt": "2026-11-13",
+      "addedAt": "2026-11-13"
+    },
+    {
+      "id": "mustafa-algiyadi-2026-12-13",
+      "titleOriginal": "Mustafa Algiyadi – Almost Legal Alien",
+      "title": {
+        "zh-TW": "Mustafa Algiyadi 英語脫口秀《Almost Legal Alien》",
+        "en": "Mustafa Algiyadi – Almost Legal Alien (English stand-up)",
+        "de": "Mustafa Algiyadi – Almost Legal Alien (Stand-up auf Englisch)"
+      },
+      "summary": {
+        "zh-TW": "慕尼黑脫口秀演員 Mustafa Algiyadi 談利比亞阿拉伯背景與歐洲生活的碰撞，涵蓋習慣、宗教、冥想與成長故事；全程英語。",
+        "en": "Munich stand-up Mustafa Algiyadi on the clash between his Libyan Arab background and life in Europe – habits, religion, meditation, coming-of-age stories; entirely in English.",
+        "de": "Der Münchner Comedian Mustafa Algiyadi über den Clash zwischen libysch-arabischem Hintergrund und dem Leben in Europa; die Show läuft komplett auf Englisch."
+      },
+      "category": "stage",
+      "tags": [],
+      "start": "2026-12-13T19:00",
+      "end": null,
+      "venue": "Bergson Kunstkraftwerk",
+      "city": "München",
+      "distance": "city",
+      "price": "€24–34",
+      "language": "english",
+      "links": {
+        "official": "https://bergson.com/en/event/mustafa-algiyadi-almost-legal-alien-13-december-2026",
+        "tickets": "https://tickets.bergson.com/en/buyingflow/tickets/17086/42824/"
+      },
+      "verifiedAt": "2026-11-13",
+      "addedAt": "2026-11-13"
     }
   ]
 }
