@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-13",
+  "updatedAt": "2026-11-20",
   "weekPicks": [
-    "lotr-gefaehrten-2027-03-19",
     "filmfoniker-2026-11-21",
-    "hisaishi-2026-11-25"
+    "animesy-2026-11-28",
+    "game-on-symphony-2026-12-04"
   ],
   "events": [
     {
@@ -32,36 +32,6 @@
         "official": "https://www.kunsthalle-muc.de/barcelona/"
       },
       "verifiedAt": "2026-10-23",
-      "addedAt": "2026-09-25"
-    },
-    {
-      "id": "nuejazz-2026",
-      "titleOriginal": "NUEJAZZ Festival",
-      "title": {
-        "zh-TW": "紐倫堡爵士音樂節",
-        "en": "NUEJAZZ Festival",
-        "de": "NUEJAZZ Festival"
-      },
-      "summary": {
-        "zh-TW": "在紐倫堡和埃爾朗根多個場地舉行，涵蓋國際爵士、搖滾、流行和電子音樂。",
-        "en": "International jazz, rock, pop and electronic acts across venues in Nuremberg and Erlangen.",
-        "de": "Internationaler Jazz, Rock, Pop und Elektronik an vielen Orten in Nürnberg und Erlangen."
-      },
-      "category": "nearby",
-      "tags": [
-        "music"
-      ],
-      "start": "2026-10-23",
-      "end": "2026-11-15",
-      "venue": "Various venues",
-      "city": "Nürnberg / Erlangen",
-      "distance": "daytrip",
-      "price": "€30–50",
-      "language": "none-needed",
-      "links": {
-        "official": "https://www.nuejazz.de/de"
-      },
-      "verifiedAt": "2026-10-30",
       "addedAt": "2026-09-25"
     },
     {
@@ -274,7 +244,7 @@
       "links": {
         "official": "https://www.in-muenchen.de/events/filmfoniker-movie-night.html"
       },
-      "verifiedAt": "2026-11-13",
+      "verifiedAt": "2026-11-20",
       "addedAt": "2026-09-25"
     },
     {
@@ -331,22 +301,22 @@
       "venue": "Isarphilharmonie (Gasteig HP8)",
       "city": "München",
       "distance": "city",
-      "price": "from €79.90",
+      "price": null,
       "language": "none-needed",
       "hardToGet": {
         "reason": {
-          "zh-TW": "久石讓本人親自登台指揮，機會難得；Gasteig 頁面說售票資訊「稍後公布」，但票務網站顯示預售已結束，請向 Gasteig 確認。",
-          "en": "Hisaishi conducting in person is a rare chance. Gasteig says ticket info will follow, but the ticket site shows advance sales ended – check with Gasteig.",
-          "de": "Hisaishi live am Pult ist selten. Gasteig kündigt Ticketinfos an, die Ticketseite zeigt den Vorverkauf als beendet – bitte beim Gasteig nachfragen."
+          "zh-TW": "久石讓本人親自登台指揮，機會難得；Gasteig 官網已標示「已售罄」，可留意退票或加場。",
+          "en": "Hisaishi conducting in person is a rare chance. Gasteig now lists the show as sold out – watch for returns or extra dates.",
+          "de": "Hisaishi live am Pult ist selten. Gasteig führt das Konzert jetzt als ausverkauft – auf Rückläufer oder Zusatztermine achten."
         },
         "saleStart": null,
-        "saleStatus": null
+        "saleStatus": "sold-out"
       },
       "links": {
         "official": "https://www.gasteig.de/en/events/joe-hisaishis-world-dream-tour/",
         "tickets": "https://www.muenchenmusik.de/mm/veranstaltungen/joe-hisaishis-world-dream-tour-251126"
       },
-      "verifiedAt": "2026-11-13",
+      "verifiedAt": "2026-11-20",
       "addedAt": "2026-09-25"
     },
     {
@@ -389,9 +359,9 @@
         "de": "The Animesy"
       },
       "summary": {
-        "zh-TW": "63 人動漫交響樂團演奏約 20 首改編曲，包括《神隱少女》、《進擊的巨人》、《鬼滅之刃》、《海賊王》，現場還有 cosplay 比賽。",
-        "en": "A 63-piece anime symphony orchestra plays ~20 arrangements – Spirited Away, Attack on Titan, Demon Slayer, One Piece – plus a cosplay contest.",
-        "de": "63-köpfiges Anime-Orchester mit ~20 Arrangements aus Chihiros Reise, Attack on Titan, Demon Slayer, One Piece – plus Cosplay-Wettbewerb."
+        "zh-TW": "The Animesy 動漫交響樂團慕尼黑首演：63 位樂手演奏 20 首動漫配樂，含《神隱少女》《魔法公主》《福音戰士》《死亡筆記本》《鬼滅之刃》，另有 cosplay 比賽。",
+        "en": "The Animesy anime symphony orchestra's Munich premiere: 63 musicians play 20 anime themes incl. Spirited Away, Princess Mononoke, Evangelion, Death Note and Demon Slayer; plus a cosplay contest.",
+        "de": "Münchner Premiere des Anime Symphony Orchestra The Animesy: 63 Musiker*innen spielen 20 Anime-Stücke u. a. aus Chihiros Reise, Prinzessin Mononoke, Evangelion, Death Note, Demon Slayer; dazu Cosplay-Wettbewerb."
       },
       "category": "music",
       "tags": [
@@ -408,7 +378,7 @@
       "links": {
         "official": "https://www.in-muenchen.de/events/the-animesy.html"
       },
-      "verifiedAt": "2026-09-21",
+      "verifiedAt": "2026-11-20",
       "addedAt": "2026-09-25"
     },
     {
@@ -468,7 +438,7 @@
       "links": {
         "official": "https://www.klassikradio.de/live-in-concert/termine/muenchen-01-12-2026/"
       },
-      "verifiedAt": "2026-11-13",
+      "verifiedAt": "2026-11-20",
       "addedAt": "2026-09-25"
     },
     {
@@ -498,7 +468,7 @@
       "links": {
         "official": "https://www.in-muenchen.de/events/munchner-rundfunkorchester-202627-game-on-symphony.html"
       },
-      "verifiedAt": "2026-11-13",
+      "verifiedAt": "2026-11-20",
       "addedAt": "2026-09-25"
     },
     {
@@ -761,7 +731,7 @@
         "official": "https://jazzfestmuenchen.de/",
         "tickets": "https://jazzfestmuenchen.dein-ticket.shop/events/jazzfest-muenchen-2026"
       },
-      "verifiedAt": "2026-11-13",
+      "verifiedAt": "2026-11-20",
       "addedAt": "2026-09-25"
     },
     {
@@ -818,38 +788,6 @@
         "official": "https://www.lenbachhaus.de/en/program/exhibitions/details/ueber-die-welt-hinaus-der-blaue-reiter"
       },
       "verifiedAt": "2026-10-02",
-      "addedAt": "2026-09-25"
-    },
-    {
-      "id": "frankenmexx-2026-11-14",
-      "titleOriginal": "FrankenMEXX",
-      "title": {
-        "zh-TW": "FrankenMEXX 動漫展",
-        "en": "FrankenMEXX anime convention",
-        "de": "FrankenMEXX"
-      },
-      "summary": {
-        "zh-TW": "Animexx 主辦的動漫與日本文化展：周邊與創作者攤位、Cosplay 比賽、卡拉 OK 室，以及任天堂明星大亂鬥和魔法風雲會比賽。",
-        "en": "Animexx anime/manga convention with merch and artist-alley stalls, cosplay contest, karaoke room and Smash Bros. / Magic: The Gathering tournaments.",
-        "de": "Anime-/Manga-Convention von Animexx mit Händlern, Künstlerallee, Cosplay-Wettbewerb, Karaoke und Smash-Bros.-/Magic-Turnieren."
-      },
-      "category": "gaming",
-      "tags": [
-        "anime",
-        "convention"
-      ],
-      "start": "2026-11-14T11:30",
-      "end": "2026-11-14T19:30",
-      "venue": "Meistersingerhalle",
-      "city": "Nürnberg",
-      "distance": "daytrip",
-      "price": "€16–20",
-      "language": "none-needed",
-      "links": {
-        "official": "https://frankenmexx.de/",
-        "tickets": "https://tickets.animexx.de/frankenmexx-2026/"
-      },
-      "verifiedAt": "2026-10-30",
       "addedAt": "2026-09-25"
     },
     {
@@ -942,34 +880,6 @@
         "official": "https://www.muenchner-stadtmuseum.de/sammlungen/filmmuseum/filmreihen/humphrey-bogart"
       },
       "verifiedAt": "2026-10-02",
-      "addedAt": "2026-09-25"
-    },
-    {
-      "id": "richard-iii-entity-theatre-2026-11",
-      "titleOriginal": "The True Tragedy of Richard III",
-      "title": {
-        "zh-TW": "理查三世的真悲劇",
-        "en": "The True Tragedy of Richard III",
-        "de": "The True Tragedy of Richard III"
-      },
-      "summary": {
-        "zh-TW": "慕尼黑英語業餘劇團 Entity Theatre 全英語演出莎士比亞《理查三世》，現代服裝改編。",
-        "en": "Munich's English-language amateur company Entity Theatre stages Shakespeare's Richard III in modern dress, fully in English.",
-        "de": "Münchens englischsprachige Amateurtheatergruppe Entity Theatre inszeniert Shakespeares Richard III. in moderner Kostümierung, komplett auf Englisch."
-      },
-      "category": "stage",
-      "tags": [],
-      "start": "2026-11-04",
-      "end": "2026-11-15",
-      "venue": "Pepper Theater",
-      "city": "München",
-      "distance": "city",
-      "price": null,
-      "language": "english",
-      "links": {
-        "official": "https://entitytheatre.com/richard-iii-save-the-audition-date"
-      },
-      "verifiedAt": "2026-11-06",
       "addedAt": "2026-09-25"
     },
     {
@@ -1157,7 +1067,7 @@
       "links": {
         "official": "https://www.br-chor.de/konzerte/26-27-video-game-music/"
       },
-      "verifiedAt": "2026-10-09",
+      "verifiedAt": "2026-11-20",
       "addedAt": "2026-10-09"
     },
     {
@@ -1254,7 +1164,7 @@
       "end": "2026-11-29",
       "price": null,
       "addedAt": "2026-10-23",
-      "verifiedAt": "2026-11-13",
+      "verifiedAt": "2026-11-20",
       "id": "food-and-life-2026",
       "titleOriginal": "FOOD & LIFE 2026",
       "title": {
@@ -1278,34 +1188,6 @@
       "language": "none-needed",
       "links": {
         "official": "https://www.food-life.de/en/"
-      }
-    },
-    {
-      "end": null,
-      "price": null,
-      "addedAt": "2026-10-23",
-      "verifiedAt": "2026-10-23",
-      "id": "english-comedy-imal-2026-11-13",
-      "titleOriginal": "English Comedy Mixed Show at IMAL",
-      "title": {
-        "zh-TW": "IMAL 英語脫口秀綜合場",
-        "en": "English Comedy Mixed Show at IMAL",
-        "de": "English Comedy Mixed Show at IMAL"
-      },
-      "summary": {
-        "zh-TW": "慕尼黑與國際喜劇演員的綜合脫口秀，全程英語，由 Medium Rare Comedy 與 Lucky Punch Comedy Club 合辦，現場可買飲料。",
-        "en": "Mixed stand-up show with Munich and international comedians, performed entirely in English; co-presented by Medium Rare Comedy and Lucky Punch Comedy Club; drinks on site.",
-        "de": "Stand-up-Mixed-Show mit Münchner und internationalen Comedians, komplett auf Englisch; präsentiert von Medium Rare Comedy und Lucky Punch Comedy Club; Getränke vor Ort."
-      },
-      "category": "stage",
-      "tags": [],
-      "start": "2026-11-13T20:00",
-      "venue": "International Munich ArtLab (Musiktheater)",
-      "city": "München",
-      "distance": "city",
-      "language": "english",
-      "links": {
-        "official": "https://www.in-muenchen.de/events/english-comedy-mixed-show-at-imal.html"
       }
     },
     {
@@ -1396,7 +1278,7 @@
       "links": {
         "official": "https://www.in-muenchen.de/?p=1106525"
       },
-      "verifiedAt": "2026-11-06",
+      "verifiedAt": "2026-11-20",
       "addedAt": "2026-11-06"
     },
     {
@@ -1494,14 +1376,14 @@
         "de": "Der Nussknacker – Bayerisches Staatsballett"
       },
       "summary": {
-        "zh-TW": "John Neumeier 編舞、柴可夫斯基音樂的《胡桃鉗》聖誕版，Mikhail Agrest 指揮，國家劇院演出（12/12、12/18、12/21、12/25、12/28 等場次）。",
-        "en": "John Neumeier's Christmas Nutcracker to Tchaikovsky's score, conducted by Mikhail Agrest, at the Nationaltheater (12, 18, 21, 25, 28 Dec and more).",
-        "de": "John Neumeiers Weihnachts-Nussknacker zu Tschaikowskys Musik, Dirigent Mikhail Agrest, im Nationaltheater (12., 18., 21., 25., 28.12. u. a.)."
+        "zh-TW": "John Neumeier 編舞、柴可夫斯基音樂的《胡桃鉗》聖誕版，Mikhail Agrest 指揮，國家劇院 12/12 至 1/6 共 8 場；官網顯示所有場次已售罄。",
+        "en": "John Neumeier's Christmas Nutcracker to Tchaikovsky's score, conducted by Mikhail Agrest, Nationaltheater, 8 shows from 12 Dec to 6 Jan; the page lists every date as sold out.",
+        "de": "John Neumeiers Weihnachts-Nussknacker zu Tschaikowskys Musik, Dirigent Mikhail Agrest, Nationaltheater, 8 Vorstellungen vom 12.12. bis 6.1.; laut Seite alle Termine ausverkauft."
       },
       "category": "stage",
       "tags": [],
       "start": "2026-12-12T19:30",
-      "end": "2026-12-28",
+      "end": "2027-01-06",
       "venue": "Nationaltheater",
       "city": "München",
       "distance": "city",
@@ -1510,7 +1392,7 @@
       "links": {
         "official": "https://www.in-muenchen.de/?p=1095584"
       },
-      "verifiedAt": "2026-11-06",
+      "verifiedAt": "2026-11-20",
       "addedAt": "2026-11-06"
     },
     {
@@ -1698,6 +1580,97 @@
       },
       "verifiedAt": "2026-11-13",
       "addedAt": "2026-11-13"
+    },
+    {
+      "id": "winterzauber-viktualienmarkt-2026",
+      "titleOriginal": "Winterzauber auf dem Viktualienmarkt",
+      "title": {
+        "zh-TW": "維克圖阿連市場冬日魔法市集",
+        "en": "Winterzauber at Viktualienmarkt",
+        "de": "Winterzauber auf dem Viktualienmarkt"
+      },
+      "summary": {
+        "zh-TW": "29 個攤商把原有攤位佈置成冬日風格，販售熱紅酒、香腸麵包、熱康普茶、乳酪麵包、和牛燉肉與聖誕布里歐等特色小吃。",
+        "en": "29 stallholders dress up their regular stalls and sell mulled wine, bratwurst rolls, mulled kombucha, raclette bread, wagyu goulash and Christmas brioche.",
+        "de": "29 Standbetreiber*innen dekorieren ihre Stände und verkaufen Glühwein, Bratwurstsemmeln, Glüh-Kombucha, Raclettebrot, Wagyu-Gulasch und Weihnachtsbrioche."
+      },
+      "category": "festival",
+      "tags": [
+        "food",
+        "christmas",
+        "market"
+      ],
+      "start": "2026-11-20",
+      "end": "2027-01-05",
+      "venue": "Viktualienmarkt",
+      "city": "München",
+      "distance": "city",
+      "verifiedAt": "2026-11-20",
+      "addedAt": "2026-11-20",
+      "price": null,
+      "language": "none-needed",
+      "links": {
+        "official": "https://www.muenchen.de/veranstaltungen/freizeit/weihnachtsmarkt-christkindlmarkt/winterzauber-auf-dem-viktualienmarkt"
+      }
+    },
+    {
+      "id": "maria-stuarda-staatsoper-2026-12-20",
+      "titleOriginal": "Maria Stuarda",
+      "title": {
+        "zh-TW": "多尼采蒂歌劇《瑪麗亞·斯圖亞達》（國家歌劇院新製作）",
+        "en": "Maria Stuarda – Bavarian State Opera (new production)",
+        "de": "Maria Stuarda – Bayerische Staatsoper (Neuproduktion)"
+      },
+      "summary": {
+        "zh-TW": "多尼采蒂歌劇新製作首演，Francesco Micheli 導演、Martin Rajna 指揮，Nadine Sierra 主演；義大利文演唱，附德、英文字幕；12/20 首演，另有 12/23、12/27、12/30、1/2 場次。",
+        "en": "Premiere of Donizetti's opera, directed by Francesco Micheli, conducted by Martin Rajna, with Nadine Sierra; sung in Italian with German and English surtitles; 20 Dec premiere, further dates 23, 27, 30 Dec and 2 Jan.",
+        "de": "Premiere von Donizettis Oper in der Regie von Francesco Micheli, Dirigent Martin Rajna, mit Nadine Sierra; Italienisch mit deutschen und englischen Übertiteln; Premiere 20.12., weitere Termine 23., 27., 30.12. und 2.1."
+      },
+      "category": "stage",
+      "tags": [],
+      "start": "2026-12-20T18:00",
+      "end": "2027-01-02",
+      "venue": "Nationaltheater",
+      "city": "München",
+      "distance": "city",
+      "verifiedAt": "2026-11-20",
+      "addedAt": "2026-11-20",
+      "price": null,
+      "language": "en-subs",
+      "links": {
+        "official": "https://www.in-muenchen.de/?p=1095572"
+      }
+    },
+    {
+      "id": "freitagsmusik-oboe-lutherkirche-2026-12-04",
+      "titleOriginal": "FreitagsMusik – „Himmlische Klänger im Kerzenschein“",
+      "title": {
+        "zh-TW": "週五音樂會《燭光中的天籟》（雙簧管與英國管）",
+        "en": "FreitagsMusik – Heavenly Sounds by Candlelight (oboe)",
+        "de": "FreitagsMusik – „Himmlische Klänger im Kerzenschein“"
+      },
+      "summary": {
+        "zh-TW": "Dirk-Michael Kirsch 以雙簧管與英國管、Klaus Geitner 以箱型管風琴，演奏 Homilius、Telemann、Rathgeber 等人的作品；免費入場。",
+        "en": "Dirk-Michael Kirsch (oboe and cor anglais) and Klaus Geitner (chest organ) play works by Homilius, Telemann, Rathgeber and others; free admission.",
+        "de": "Dirk-Michael Kirsch (Oboe und Englischhorn) und KMD Klaus Geitner (Truhenorgel) spielen Werke von Homilius, Telemann, Rathgeber u. a.; Eintritt frei."
+      },
+      "category": "music",
+      "tags": [
+        "oboe",
+        "free"
+      ],
+      "start": "2026-12-04T19:00",
+      "end": "2026-12-04T20:00",
+      "venue": "Lutherkirche München-Giesing",
+      "city": "München",
+      "distance": "city",
+      "verifiedAt": "2026-11-20",
+      "addedAt": "2026-11-20",
+      "price": null,
+      "language": "none-needed",
+      "links": {
+        "official": "https://www.in-muenchen.de/?p=1079118"
+      }
     }
   ]
 }
